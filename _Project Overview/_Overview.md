@@ -12,6 +12,18 @@ Gameplay can be described as a tactical adventure - taking cues from the modern 
 
 The Reflex system has the tools to fit the nature of a modern gunfight and survival.
 
+# Subsettings
+## Fear Country - demons and desperadoes
+  
+you're hustling out in Wild West just north of the remains of California, earning a living amongst the wreckage, the recession, and the spooky things that go bump in the night.  
+
+Like Black Lagoon, basically.
+## The Zone - Expeditions for forbidden riches and settling dark scores
+
+## Case File - Emergency Investigation and Response
+
+## Occult Grind - Hustles and Horror in Middle America
+## Dark State - A tour of duty to hold back deep waters
 # Definitions for success
 For abio to be successful, we need to create a tabletop tactical adventure that can be described as stalker meets half life.
 
