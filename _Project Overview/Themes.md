@@ -27,7 +27,7 @@ As of the moment, the government is saddled with the dual tasks of forming a Nat
 
 The landscape of post-de Kuiper America is littered with scrappy enterprises, liquidation startups, impoverished regulators and flimsy answers. It is a new age of the entrepreneur as many of economic champions or core pillars of the economy disappeared almost overnight.
 ### [[Sources]]
-# Mechanic themes
+# Mechanical themes
 ## Combat patrol
 - flavor of a Tarkov Raid
 ## Survival gameplay

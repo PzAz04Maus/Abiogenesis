@@ -31,12 +31,10 @@ Time perception is wholly unreliable – a firefight can be over before a comb
 Memory is rarely reliable when it comes to precise details or sequences of events.
  
  All of these factors combine to make combat a confusing and chaotic environment for anyone involved in it.
-<<<<<<< HEAD
+
 The Reflex System represents this by emphasizing events as the characters perceive them, rather than focusing primarily on numerical factors like precise time and distance that are obvious only to outside observers (players and GMs). [[kairological versus chronological time]]
-=======
  
 The Reflex System represents this by emphasizing events as the characters perceive them, rather than focusing primarily on numerical factors like precise time and distance that are obvious only to outside observers (players and GMs).
->>>>>>> a63fd7d0b1b598610e3fccd3797ab041c0d294af
  
 # the combat attributes 
  The eight core attributes model a character’s innate qualities under normal circumstances.

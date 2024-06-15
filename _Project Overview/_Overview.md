@@ -1,26 +1,35 @@
-# Pitch (From Monster Workshop Contest)
-
-The game takes place in a near-future where the Earth has been seeded with anomalous materiel and phenomena which have mutated the landscape.
-
-Abiogenesis takes deep inspiration from the STALKER and Half Life Series,  Campaigns consist of enduring the social instability the products of this catastrophe bring and exploring this new, darker wilderness for the strange shit,  cool shit, badass moments and pants during terror that rewrites science.
-
-Gameplay takes cues from the modern gunfight and the empty battlefield: firearms, cover, concealment, and tactics are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
-
 # Pitch
-- [ ] rewrite needed
-The project is called Abiogenesis. It's a enigmatic campaign setting that has become deeply influenced by Stalker and American Technothrillers. Similar foundations, takes from Western Sources.
+v2
+The game takes place in a near-future where the Earth has been seeded with anomalous materiel and phenomena which have transformed the landscape.
 
-The general concept is a stellar event showered the Earth years ago with exotic forms of energy and matter, behavior or reason which lie beyond the reckoning of modern science. This had an immediate effect, as biospheres, societies, communications, and transportation were disturbed across the globe, the landscape peppered with anomalies that can transform people, places, things and even ideas. Places have been marked as green, yellow, and red zones.
+Abiogenesis takes deep inspiration from the STALKER and Half Life Series,  Campaigns consist of enduring the social instability the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.
 
-For the player, the game is "your work commute includes an AR-15 in the emergency kit." The cities still hum with life, but everything's still off-kilter, things need to be kept out, the lights need to be kept running, and the mortality rate has made a large upwards swing. Internal refugees, adventurers and bandits are rife, and some places are the Wild West, where no government exists.
+For the player, the game is "your work commute includes an AR-15 in the emergency kit." The cities still hum with life, but they are vulnerable to the new wilderness. Internal refugees, adventurers and bandits are rife.
 
-# Why pick the Reflex System?
+Gameplay can be described as a tactical adventure - taking cues from the modern gunfight and the empty battlefield. firearms, cover, concealment, and tactics are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
+
+## Why pick the Reflex System?
 
 The Reflex system has the tools to fit the nature of a modern gunfight and survival.
-# Synopsis
 
-**When the Event struck, society experienced an epidemic of catastrophes so numerous in kind as to be apocalyptic. The 
+# Definitions for success
+For abio to be successful, we need to create a tabletop tactical adventure that can be described as stalker meets half life.
 
-Overnight, the Great Catastrophe precipitated an era of scientific discovery so extensive that it would dwarf the Quantum revolution. By the end of the first month, The first studies of dark matter and anti-gravity were published openly when the first internally displaced refugee camps began intake in the United States; Within 3 months, physicists managed to make a linkage between quantum theory and Einsteinian physics; By 12, a core pillar of string theory was proven, but another was discredited along with many other fields of theoretical physics.
+More precisely, we are creating a tabletop tactical adventure which takes the concepts of reality altering anomalous phenomena to intellectually immerse the player in the unnerving mysteries and dilemmas of a post disaster society. 
 
-An extensive quantity of new phenomena was sown across the Earth. In some cases, this behavior began to spread like an epidemic, while others strew themselves like ash in the stratosphere.**
+Additional goals:
+- should test the feasibility of a tactical adventure
+- should introduce the idea of the modern tactical adventure to non-k types
+- use the reflex engine
+- be interesting and fun for a modest population of tabletop enthusiasts
+- contain lots of support to simplify play
+- have original phenomena and behavior - this is *not* A setting for classic American paranormal tropes
+
+
+- not expecting to make money
+- not expecting a mainstream audience
+
+---
+Another definition for success would be to define the thematic tone through a concept delivered through text, visuals, and sound (like a title sequence).
+
+Since there is no 'best' settled upon theme, we will instead refer to these as the in development examples, not final release
