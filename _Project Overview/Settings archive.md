@@ -12,7 +12,7 @@ New Klamath gets surreal. Lots of concealed carriers. …(stuff here) Going to c
 We learned fast that bombers heading south means as much as a WEA, but the real chills start when hear the bombs hit - don’t go out for anything then, even your mother calling your name. I know good men that did - construction workers, soldiers, park rangers. They’re all gone like straw in the wind.”
 
 - interview with Klamath County resident, NPR
-## prelude
+## prologue
 
 Klamath falls after its heyday had a population of 20,000, with a slowdown in the 2010s to 3% growth. With its history of timber and agriculture curtailed by environmental concerns and poor economic performance, Klamath was not positioned to quickly expand its job market.
 
@@ -21,9 +21,10 @@ Because it had a comfortable tax base with a growth that wasn’t too fast, klam
 When the de Kuiper event struck, Klamath was not immediately harmed, but saw a troubling rise in crime and accidents within weeks. When the shock impacted global markets, klamath saw its ability to secure loans and its businesses fold under the pressure as city councillors fought to stabilize the tax base by economizing services.
 
 6 months later, sacramento was evacuated by presidential order. Klamaths’ sister city, Medford became a northern staging area for the main supply route into California by the Oregon National Guard. 3 years later, the state of California declared bankruptcy, spilling millions of internally displaced refugees out of the state.
+
 Klamaths population trebled within months, reaching 68,000 people in record time without homes, food, shelter, or work, and needed to act quickly in order to save the city from collapse. That work is still ongoing.
-## Interstate 5
-2 months ago, Interstate 5, a major artery, experienced an unidentified event that rendered it impassable to all traffic, cutting Medford and Klamath from safe northbound service.  service to local government, federal aid, and migrant workers was stalled.
+## developments
+2 months ago, Interstate 5, a major artery to military and civilian supplies, experienced an unidentified event that rendered it impassable to all traffic, cutting Medford and Klamath from safe northbound service.  service to local government, federal aid, and migrant workers was stalled.
 
 Left alone to its own devices, Oregon state government handed half of the bill to the impacted counties. To address the situation, county governments created a public fund for the work, then contracted out the road work to a construction company based in klamath.
 
@@ -41,20 +42,6 @@ Collapse of businesses
 
 The decade is widely remembered as a time of crime, violence, lawlessness, disorder, graffiti-covered subways, inflation, unemployment, and budgets completely out of control—an era of social breakdown, economic malaise, and political collapse.3
 
-
 Nevada population refugees
 
 Oregon swollen by refugees and homeless
-
-Klamath falls for its time had a modest population of 20,000, with a slowdown in the 2010s to 3% growth. With its history of timber industry and agriculture curtailed by environmental concerns and uneconomic performance, klamath was not positioned to quickly expand its job market.
-
-While it did have a comfortable tax base with a growth that wasnt too fast, klamath entered a period of trying to rejuvenate the downtown area which had fallen to urban decay.
-When the de Kuiper event struck, klamath was not immediately harmed, but saw a troubling rise in crime and accidents within weeks. When the shock impacted global markets, klamath saw its ability to secure loans and its businesses buckle under the pressure as city councillers fought to stabilize the tax base by economizing services.
-
-6 months later, sacramento was evacuated by presidential order. Klamaths sister city, medford became a northern staging area for the main supply route into california by the national guard. 3 years later, the government of California declared bankruptcy, spilling millions of internally displaced refugees and out of the state.
-
-Klamaths population trebled within months, reaching 68,000 people in record time without homes, food, shelter, or work, and needed to act quickly in order to save the city from collapse. That work is still ongoing.
-
-2 months ago, Interstate 5, a major artery serving local government, federal aid, and migrant workers, experienced an unidentified event that rendered it impassible to all traffic, cutting Medford and Klamath from safe northbound service.
-
-Facing its own crises, Oregon state government handed half of the bill to the impacted counties. To address the situation, county governments created a public fund for the work, then contracted out the repair to a construction company based in klamath.
