@@ -1,8 +1,4 @@
-
 # settings:
-- Casefile   
-- Deep State
-- Fear Country
 
 # Fear Country - Outlaw
 When you've got no past but still trying to find a future.
@@ -16,7 +12,7 @@ New Klamath gets surreal. Lots of concealed carriers. …(stuff here) Going to c
 We learned fast that bombers heading south means as much as a WEA, but the real chills start when hear the bombs hit - don’t go out for anything then, even your mother calling your name. I know good men that did - construction workers, soldiers, park rangers. They’re all gone like straw in the wind.”
 
 - interview with Klamath County resident, NPR
-## History
+## prelude
 
 Klamath falls after its heyday had a population of 20,000, with a slowdown in the 2010s to 3% growth. With its history of timber and agriculture curtailed by environmental concerns and poor economic performance, Klamath was not positioned to quickly expand its job market.
 
