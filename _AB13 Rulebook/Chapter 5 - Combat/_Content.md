@@ -863,7 +863,8 @@ If this Fitness check succeeds, the victim falls unconscious.
 If the check fails, the victim dies, and resuscitation attempts treat him as if he had a critical head injury.
  If the attacker still has Control at the end of the exchange of fire but can’t meet this maneuver’s minimum, the current injury condition of the victim’s head worsens by one level.
  
- Escape A character who is suffering from Control may attempt to break free.
+ Escape
+  A character who is suffering from Control may attempt to break free.
 This requires a standard close combat attack, but the attack must be declared as an attack to escape.
 A successful attack to escape does not inflict damage; instead, it reduces Control by its margin of success.
 
@@ -957,7 +958,7 @@ The wall’s effective Armor value exceeds the attack’s damage value, so P
 These damage sources have a “Nil” Penetration value.
  Such an attack inflicts no injury or damage through any protection that has a nonzero Armor value.
 
-# injury
+# [[injury]]
 Injuries are an unavoidable part of combat.
  As described in the preceding rules, whenever a character suffers damage, the degree of injury he sustains is dependent on the total damage he suffers and the wound thresholds of the affected body location.
 Each body location has wound thresholds for four degrees of injury.
@@ -1046,7 +1047,7 @@ For the remainder of the scene, any effect that would put the character into s
  At the beginning of each subsequent exchange of fire, before initiative is rolled, the player must succeed in a CUF check.
 If this check succeeds, the character may act normally during the next exchange of fire.
 If the check fails, the character is semiconscious and may take no tactical actions.
-## Instability
+## [[Instability]]
 An unstable character is experiencing significant bleeding or other persistent and immediate degradation of his physical condition.
 At the end of each subsequent full exchange of fire or pause (or one full minute, in a non-combat situation), every hit location that is injured becomes one level worse.
 Uninjured hit locations don’t degrade.
