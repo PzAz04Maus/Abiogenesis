@@ -37,27 +37,43 @@ Some trauma is temporary
  - You can gain 7 trauma for every minute with zero oxygen. This is reversed at a rate of 7 trauma per 5 ticks of breathing air again.
 
 ## Criticals and Hit locations
-### Severity
-https://en.wikipedia.org/wiki/Injury_Severity_Score
-
 ### operating procedure for crits
 
-1. Every 1 rolled for an attack counts as a critical.
-	1. Severity is determined by the first dies margin of success.
-	2. The lower number on a 2d20H doesn't count for the purpose of a critical.
-3. roll 3d6
+1. Attackers achieve critical hits when their side dice succeeds on the TN.
+	1. Severity is determined by the Attack's damage (plus the second die's margin?)
+2. roll 3d6
 	1. 2d6 selects the region
 	2. 1d6 selects the class of anatomic structure. If a region does not contain that structure, the critical fails
-4. GM decides the crit effect by fiat, using the severity, region and structure affected to decide through a [[deck of injuries]].
+3. GM decides the crit effect by fiat, using the severity, region and structure affected to decide through a [[deck of injuries]].
 	2. most stats are based on the severity and the structure
-5. Player writes the crit on their sheet, applies effect
+4. Player writes the crit on their sheet, applies effect
+### Severity
+
+| Critical Severity |        |          |                                 |     |
+| ----------------- | ------ | -------- | ------------------------------- | --- |
+| Code              | Margin | Injury   | Example                         |     |
+| 0                 | 0      | Minor    | -                               |     |
+| 1                 | 1      | Moderate | fractured sternum               |     |
+| 2                 | 2      | Serious  | open fracture of humerus        |     |
+| 3                 | 4      | Severe   | perforated trachea              |     |
+| 4                 | 8      | Critical | ruptured liver with tissue loss |     |
+| 5                 | 16     | Maximal  | total severance of aorta        |     |
+### Alternative
+Every 1 rolled for an attack counts as a critical.
+	The lower number on a 2d20H doesn't count for the purpose of a critical.
+
+### Source material: Severity
+https://en.wikipedia.org/wiki/Abbreviated_Injury_Scale
+https://en.wikipedia.org/wiki/Injury_Severity_Score
+https://www.aast.org/resources-detail/injury-scoring-scale
+
 
 | Abbreviated injury Score |          |                                 |               |                      |
 | ------------------------ | -------- | ------------------------------- | ------------- | -------------------- |
 | AIS-Code                 | Injury   | Example                         | possible care | AIS % prob. of death |
 | 1                        | Minor    | superficial laceration          |               | 0.1-1                |
-| 2                        | Moderate | fractured sternum               |               | 2-Jan                |
-| 3                        | Serious  | open fracture of humerus        |               | 16-Feb               |
+| 2                        | Moderate | fractured sternum               |               | 1..2                 |
+| 3                        | Serious  | open fracture of humerus        |               | 2..16                |
 | 4                        | Severe   | perforated trachea              |               | 16-30                |
 | 5                        | Critical | ruptured liver with tissue loss | ICU           | 30-99                |
 | 6                        | Fatal    | total severance of aorta        | untreatable   | 100                  |
@@ -71,15 +87,9 @@ https://en.wikipedia.org/wiki/Injury_Severity_Score
 | 4                             | Organs                                                   |
 | 5                             | muscularskeletal  (inc. muscles/ligaments) (inc. joints) |
 | 6                             | Loss of Consciousness (head only)                        |
-### Alternative
-candidate 2: Shooters inflict critical injuries with their side die.
-- if the second die is an MOS of 5 or more, a critical injury occurs
-- roll on the hit location chart
-- The severity is determined by the first dies magin of success
+
 ### Todo
 - [ ] create a generic and sample critical effects deck
-- [ ] How do we determine severity?
- - [ ] use https://www.aast.org/resources-detail/injury-scoring-scale
 ## Trauma care
 
 Major trauma requires critical care within a certain time period for a good prognosis, which can be extended by stabilization. Failure to apply critical care in this time period results in a poor prognosis.
