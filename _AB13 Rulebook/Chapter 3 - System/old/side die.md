@@ -1,5 +1,3 @@
-In twilight 2013, characters usually roll multiple dice and discard all but the worst. These discarded dice are called side-dice.
-
 # Candidate 1
 
 These side dice can be used to bet on the success of the roll. The player must announce what effect they wish to improve, and how much dice they will set aside to improve it. This number of dice is then deducted from the test itself.
@@ -60,28 +58,6 @@ you have a 7x2 match, a 6x4 match , an a 10x2 match
 
 
 
-# Candidate 3
-When you roll a dice pool for a learned skill, you assign a dice to each action trait you want to focus on during a turn.
-
-Only one action can be assigned to each die.
-
-All nonspecified traits take the worst die of the set.
-	ALT 1: All nonspecified traits are treated as having a roll of 15(20?])
-
-the list of action traits include:
-- "Accuracy" - Proficiency, or Success. Includes impact.
-- Precision
-- Defense/Cover
-- Concealment
-- Tactics
-- Efficiency*?
-- Productivity*?
-- Agility*?
-- Style
-- 
-
-Special action traits:
-- Range
 
 # Candidate 5: Value pool
 A pool of d20s with a TN versus something.
@@ -94,4 +70,4 @@ This can support things such as
 - looking for cover/concealment
 - reliability #proposal
 
-The margin the TN is passed by is known as the height. If a value pool is rolled for a set of objects, this determines the value of each individual thing found. If the value pool is only for a single object, add the number of successes together instead.
+The margin the TN is passed by is known as the height. If a value pool is rolled for a set of objects, this determines the value of each individual thing found. If the value pool is only for a single object, add the number of successes together instead.****
