@@ -72,8 +72,8 @@ https://www.aast.org/resources-detail/injury-scoring-scale
 | ------------------------ | -------- | ------------------------------- | ------------- | -------------------- |
 | AIS-Code                 | Injury   | Example                         | possible care | AIS % prob. of death |
 | 1                        | Minor    | superficial laceration          |               | 0.1-1                |
-| 2                        | Moderate | fractured sternum               |               | 1..2                 |
-| 3                        | Serious  | open fracture of humerus        |               | 2..16                |
+| 2                        | Moderate | fractured sternum               |               | 1-2                  |
+| 3                        | Serious  | open fracture of humerus        |               | 2-16                 |
 | 4                        | Severe   | perforated trachea              |               | 16-30                |
 | 5                        | Critical | ruptured liver with tissue loss | ICU           | 30-99                |
 | 6                        | Fatal    | total severance of aorta        | untreatable   | 100                  |

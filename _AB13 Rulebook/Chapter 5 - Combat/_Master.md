@@ -559,7 +559,7 @@ Ranged attacks without magnifying optics are effectively impossible.
  Unaided visual observation is limited to simple shapes and major details, and the naked eye cannot effectively discern a human target.
  
 ## Range Bands and Weapons 
-Every ranged weapon has both an optimum range and a maximum range.A weapon’s optimum range is the distance at which it provides the best possible balance of speed and accuracy.
+Every ranged weapon has both an optimum range and a maximum range. A weapon’s optimum range is the distance at which it provides the best possible balance of speed and accuracy.
  If a target is within a range band that’s closer than the weapon’s optimum range, attacks take more time, as the wielder has to fight the weapon’s inertia to swing it to bear on a new target.
 Every range band closer then optimum adds a cumulative +1 to the tick cost of all attacks.
 
@@ -584,7 +584,7 @@ For attacks that target specific parts of a human body, use the Called Attacks
 In many engagements, particularly with military-grade weapons, this isn’t a safe assumption.
 The following rules address the most common special cases that can arise with firearms.
 
-## Burst Fire
+## [[Burst Fire]]
 Some firearms – typically submachine guns, assault rifles, and machine guns – are capable of firing more than one round with each trigger pull.
 The Reflex System treats all such capabilities as burst fire.
 A weapon that a character can fire in this manner is designated with a “B#” notation in its Rate of Fire trait.
@@ -616,7 +616,7 @@ For example, a four- round burst always consumes four rounds.
  If a weapon doesn’t have enough ammunition remaining for a full burst, the burst empties the weapon and is resolved with the actual number of rounds fired.
 Thus, if a character uses a weapon with a B5 rate of fire to fire a burst, but the weapon only has three rounds remaining, the resulting attack is treated as if the weapon had only a B3 rate of fire.
 
-# recoil
+# [[recoil]]
 All firearms are subject to recoil, the momentum that the explosion of a cartridge’s propellant imparts to the gun.
 For the shooter, the primary effect of recoil is to jerk the gun off-target, which makes rapid subsequent shots more difficult.
 Any weapon with a Recoil value is subject to the following rules.
@@ -635,7 +635,7 @@ The second at- tack is subject to a recoil penalty of –4 (the difference bet
 Matt reloads, then makes a third attack, again a snap shot.
 Because of the interven- ing action between the second and third attack, the third attack suffers no recoil penalty.
 
-## Burst Fire
+## [[Burst Fire]]
 Any attack using burst fire is subject to recoil.
 Even the slowest-firing automatic weapon has a cyclic rate high enough to unleash the second bullet before the shooter can compensate for the recoil of the first.
 When a character fires a burst attack, add the number of rounds in the burst to the weapon’s Recoil value.
@@ -1150,14 +1150,12 @@ For each potential target within the primary radius, roll a number of d10s equ
 Each die that comes up 6 or more is a lucky break.
 Each die that comes up 5 or less is a fragment hit.
 Primary fragments have Damage 6 and Penetration x2.
-<<<<<<< HEAD
 The die result serves as the margin of success for this “attack.” 
 ## Secondary Frag Effects
 For each potential target within the secondary radius, roll a number of d20s equal to the explosion’s Frag.
 =======
 The die result serves as the margin of success for this “attack.
 ” Secondary Frag Effects For each potential target within the secondary radius, roll a number of d20s equal to the explosion’s Frag.
->>>>>>> a63fd7d0b1b598610e3fccd3797ab041c0d294af
 Each die that comes up 6 or more is a lucky break.
 Each die that comes up 5 or less is a fragment hit.
 Secondary fragments have Damage 4 and Penetration Nil.
@@ -1177,8 +1175,7 @@ Keith takes a single hit with Damage 8 and Pen- etration Nil.
 ## Explosive Effects Summary 
 The following table summarizes how the various traits of an explosion interact.
 
- Table 5k: Explosive Calculations
- 
+ Table 5k: Explosive Calculations 
  
  ## Characters and Explosions
   Characters will not often be the direct targets of explosive ordnance.
