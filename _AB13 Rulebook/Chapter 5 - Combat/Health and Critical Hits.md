@@ -38,9 +38,10 @@ Some trauma is temporary
 
 ## Criticals and Hit locations
 ### operating procedure for crits
-
-1. Attackers achieve critical hits when their side dice succeeds on the TN.
-	1. Severity is determined by the Attack's damage (plus the second die's margin?)
+1. Every 1 rolled for an attack counts is a critical.
+	1. The lower number on a 2d20H doesn't count for the purpose of a critical.
+	2. Severity is determined by the Attack's damage (plus the second die's margin?)
+	3. criticals fail on a glancing blow
 2. roll 3d6
 	1. 2d6 selects the region
 	2. 1d6 selects the class of anatomic structure. If a region does not contain that structure, the critical fails
@@ -59,8 +60,6 @@ Some trauma is temporary
 | 4                 | 8      | Critical | ruptured liver with tissue loss |     |
 | 5                 | 16     | Maximal  | total severance of aorta        |     |
 ### Alternative
-Every 1 rolled for an attack counts as a critical.
-	The lower number on a 2d20H doesn't count for the purpose of a critical.
 
 ### Source material: Severity
 https://en.wikipedia.org/wiki/Abbreviated_Injury_Scale
@@ -87,9 +86,6 @@ https://www.aast.org/resources-detail/injury-scoring-scale
 | 4                             | Organs                                                   |
 | 5                             | muscularskeletal  (inc. muscles/ligaments) (inc. joints) |
 | 6                             | Loss of Consciousness (head only)                        |
-
-### Todo
-- [ ] create a generic and sample critical effects deck
 ## Trauma care
 
 Major trauma requires critical care within a certain time period for a good prognosis, which can be extended by stabilization. Failure to apply critical care in this time period results in a poor prognosis.
