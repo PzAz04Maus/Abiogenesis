@@ -1,11 +1,11 @@
 SELECTED Candidate 11: integrated into health system
 Source: combination of Traveller and Spycraft rules
 ## Durability
-Starts at FIT+MUS+RES points. Damage allocates first to durability until empty, then to trauma.
+Starts at 0, grows to a maximum of FIT+MUS+RES. Damage allocates first to durability full, then to trauma.
 ## Trauma
 starts at 0, grows with all injuries beyond the character's durability capacity.
 
-If the trauma score passes a character's trauma limit of 21 points (or 15+FIT), the character is totally incapacitated from major trauma.
+If the trauma score passes a character's trauma limit of 21 points (or 15+FIT), the character takes an instant critical hit and is totally incapacitated from major trauma.
 	note: 21 is based on the rule of 3s
 
 you gain trauma by ...
@@ -15,17 +15,19 @@ you gain trauma by ...
 - failing to drink during the day
 	- gain 7 trauma. Can only be reversed when receiving sufficient water.
  - life threatening injury (d)
-	- gain 1 trauma per degree(d) of the wound per turn.
+	 - gain 1 trauma per degree(d) of the wound per turn.
+	
 if unconscious with a life threatening injury
 	- gain 1 trauma per degree of the wound
 
 You can voluntarily earn trauma...
-- You can only spend trauma on your turn with a 5 tick action.
-- You cannot spend trauma while unconscious.
 - you may...
 	- reduce fatigue by 2 (1 trauma)
-	- add 5 durability (1 trauma).
+	- reduce durability by 5 (1 trauma).
 		- Can only happen once per exchange of fire.
+		- to a maximum of 
+- You can only spend trauma on your turn with a 5 tick action.
+- You cannot spend trauma while unconscious.
 
 you can lose trauma by...
 - a day of normal rest by 1 point
@@ -38,9 +40,9 @@ Some trauma is temporary
 
 ## Criticals and Hit locations
 ### operating procedure for crits
-1. Every 1 rolled for an attack counts is a critical.
+1. Every dice that turns up 1 is a critical.
 	1. The lower number on a 2d20H doesn't count for the purpose of a critical.
-	2. Severity is determined by the Attack's damage (plus the second die's margin?)
+	2. Severity is determined by the Attack's damage
 	3. criticals fail on a glancing blow
 2. roll 3d6
 	1. 2d6 selects the region
