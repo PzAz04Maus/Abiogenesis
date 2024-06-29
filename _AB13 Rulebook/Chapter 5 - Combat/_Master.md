@@ -74,13 +74,13 @@ The Observe-Orient-Decide-Act loop was first described by Colonel John Boyd, an 
 
 Boyd theorized the OODA loop as a model for the decision-making process that all organisms (and organizations) use, composed of four interrelated cycles:
 
-•Observe: Receive direct sensory information about a situation (“Some guys wearing civilian clothes and carrying assault rifles are standing over there.”).
+ - Observe: Receive direct sensory information about a situation (“Some guys wearing civilian clothes and carrying assault rifles are standing over there.”).
 
-•Orient: Match incoming information with known facts to ascertain what’s happening (“AK-47s and no uniforms means they’re probably enemy irregular forces.”).
+ - Orient: Match incoming information with known facts to ascertain what’s happening (“AK-47s and no uniforms means they’re probably enemy irregular forces.”).
 
-•Decide: Select or create an appropriate response to the situation (“Eliminate the threat before they can eliminate me. I need to take cover and open fire.”).
+ - Decide: Select or create an appropriate response to the situation (“Eliminate the threat before they can eliminate me. I need to take cover and open fire.”).
 
-• Act: Execute the response and observe the result, continuing the loop (Bang!).
+ -  Act: Execute the response and observe the result, continuing the loop (Bang!).
 
 Although Boyd originally described the OODA loop as a training tool for fighter pilots, it’s not unique to combat.
 Anyone reading this book goes through OODA loops thousands of times a day in response to normal circumstances.
@@ -329,30 +329,30 @@ The following movement rates, listed from fastest to slowest, each have their ow
 The distance a character moves at a given speed is dependent on his physical attributes, as per the character creation rules (see p.94).
 
 
- • Sprint: A sprinting character must be unencumbered and may not have any leg injuries.
+ - Sprint: A sprinting character must be unencumbered and may not have any leg injuries.
 A sprinting character suffers a –5 penalty on any action requiring fine motor control (for game purposes, ranged attacks require fine motor control, as do most other Coordination-based actions, but close combat attacks do not).
 However, his speed inflicts a –3 penalty to all ranged attacks made against him.
 
 
-•Run: A character may run so long as he has no leg injury worse than slight and is not more than lightly encumbered.
+ - Run: A character may run so long as he has no leg injury worse than slight and is not more than lightly encumbered.
 A running character suffers a –3 penalty on any action requiring fine motor control.
 However, his speed inflicts a –2 penalty to all ranged attacks made against him.
 
 
-•Trot: A character may trot if he has no leg injury worse than slight and is not more than moderately encumbered (combat loaded).
+ - Trot: A character may trot if he has no leg injury worse than slight and is not more than moderately encumbered (combat loaded).
 A trotting character suffers a –2 penalty on any action requiring fine motor control.
 However, his speed inflicts a –1 penalty to all ranged attacks made against him.
 
 
-•Walk: A character with a moderate leg injury or heavy encumbrance is limited to walking speed.
+ - Walk: A character with a moderate leg injury or heavy encumbrance is limited to walking speed.
 A walking character suffers a –1 penalty on any action requiring fine motor control.
 
 
-•Stagger: A character with a serious leg injury, one who is kneeling, or one who is overloaded is limited to staggering.
+ - Stagger: A character with a serious leg injury, one who is kneeling, or one who is overloaded is limited to staggering.
  A staggering character suffers a –1 penalty on any action requiring fine motor control.
 
 
- •Crawl: The last resort of those who must move or die but who cannot stand up – or those who need to stay low to avoid hazards.
+ - Crawl: The last resort of those who must move or die but who cannot stand up – or those who need to stay low to avoid hazards.
 A prone character or one with a critical leg injury may only crawl.
 When crawling, a character suffers a –4 penalty on any action requiring fine motor control.
 
@@ -378,24 +378,24 @@ Literal interpretation of the following rules may be subject to abuse from unscr
 The GM is fully within his rights to prevent a character from reloading 16 separate handguns with a single Reset Weapons action, even if he technically can carry all of them at once.
 
 
- • Communicate (Complex):
+ - Communicate (Complex):
 Common sense dictates that characters can engage in casual chatter while performing other operational actions.
 This action represents dialogue that requires a character’s full attention, as well as any interaction that requires a social skill check.
 Yelling across the street to negotiate with the enemy commander, making a radio call for an air strike, and issuing team orders (see p. 132)are all examples of complex communication.
 
 
- • Don/Doff Clothing: Removing clothing with extreme haste falls under the Ditch Item tactical action.
+ - Don/Doff Clothing: Removing clothing with extreme haste falls under the Ditch Item tactical action.
 Doing so with more care takes a bit more time, as does getting dressed.
 A single Don/Doff Clothing action allows a character to put on or remove one of the following:
 
-•backpack
-•body armor
-•complete set of cold-weather outerwear
-•complete set of normal clothing (pants, shirt, footwear, gloves)
-•load-bearing equipment (LBE)- Putting on miscellaneous accessories such as eye protection, a hat or helmet, a wristwatch, or a wedding ring is incidental to this action.
+ - backpack
+ - body armor
+ - complete set of cold-weather outerwear
+ - complete set of normal clothing (pants, shirt, footwear, gloves)
+ - load-bearing equipment (LBE)- Putting on miscellaneous accessories such as eye protection, a hat or helmet, a wristwatch, or a wedding ring is incidental to this action.
 
 
- • Field Repair: If a piece of equipment or a vehicle system is disabled (p. 154 and p. 279, respectively), a character with direct physical access to it may attempt emergency repairs.
+ - Field Repair: If a piece of equipment or a vehicle system is disabled (p. 154 and p. 279, respectively), a character with direct physical access to it may attempt emergency repairs.
 This requires an appropriate skill check – usually Mechanics or Electronics.
 
 As with all efforts to enact repairs, this check suffers a penalty equal to the item’s or vehicle’s current Wear value.
@@ -403,22 +403,22 @@ If the action succeeds, the item or system regains working condition for a numbe
 After this time expires, the temporary repairs fail and the device reverts to disabled status.
 
 
- • Keep Watch: Simply holding position and keeping an eye on the enemy can be invaluable.
+ - Keep Watch: Simply holding position and keeping an eye on the enemy can be invaluable.
 If a character chooses to keep watch during the pause, the player may make an Awareness check to determine what the other side is doing during the pause.
 
 Success makes the character aware of the actions of one or more enemies whose actions are taking place within the character’s line of sight, at the GM’s discretion.
 In addition, this Awareness check opposes any Set Hasty Ambush or Withdraw actions that opponents attempt during the pause.
 
 
-  •Render Aid: As a single operational action, a character may make one attempt to stabilize a wounded character who’s bleeding out or resuscitate one who’s just died (see p. 173 for rules on medical procedures).
+  - Render Aid: As a single operational action, a character may make one attempt to stabilize a wounded character who’s bleeding out or resuscitate one who’s just died (see p. 173 for rules on medical procedures).
 
 
- • Reset Weapons: A character who tends to his weapons during a pause has time to do a bit more than a hasty magazine change.
+ - Reset Weapons: A character who tends to his weapons during a pause has time to do a bit more than a hasty magazine change.
 This action allows a character to fully reload all of his personal weapons and, if necessary, a single crew-served weapon that he’s helping to manage.
 In addition, the character clears any jams, misfeeds, or other malfunctions that don’t actually require repair work, and returns items to holsters or sheaths as desired.
 
 
- • Set Hasty Ambush: While total surprise is impossible during a pause — after all, the enemy knows that there’s a fight going on — it is possible for a character to conceal his intentions enough to throw off an opponent’s expectations.
+ - Set Hasty Ambush: While total surprise is impossible during a pause — after all, the enemy knows that there’s a fight going on — it is possible for a character to conceal his intentions enough to throw off an opponent’s expectations.
  This requires a Tactics (AWA) skill check.
 
 With success, the character receives a bonus on his next initiative check equal to the margin of success (minimum bonus +1), if the current pause is immediately followed by an exchange of fire.
@@ -426,13 +426,13 @@ If an opponent performs a Keep Watch action during the same pause that a charact
 If multiple opponents are Keeping Watch, the best Awareness check result is applied.
 
 
- • Use Equipment: This operational action is a catch-all for the performance of mechanical or electronic tasks that are simple enough to accomplish in a minute or less.
+ - Use Equipment: This operational action is a catch-all for the performance of mechanical or electronic tasks that are simple enough to accomplish in a minute or less.
 In many cases, a task check is required for success, depending on the precise action.
 Picking a lock, changing a circuit board, hot-wiring a truck, extinguishing a small fire, taking a navigational reading, and copying a computer database are all examples of things a character might need to do during a pause.
 This action also encompasses weapon-related actions that aren’t technically attacks, such as setting up a tripod-mounted machine gun or emplacing a demolition charge.
 
 
- • Withdraw: A character who simply wants to leave the fight may attempt to disengage, preferably under cover.
+ - Withdraw: A character who simply wants to leave the fight may attempt to disengage, preferably under cover.
 This requires either a Fieldcraft (AWA) or Streetcraft (AWA) skill check, depending on whether the combat is occurring in a wilderness area or a settled area.
 In addition, the character must be able to move at walking speed or faster (characters limited to staggering or crawling cannot withdraw).
 With success, the character gets away cleanly and is no longer involved in the combat.
@@ -555,15 +555,15 @@ Under normal circumstances, every attack is governed by a fixed attribute.
 A called attack is governed by the lower of the normal attribute or the attacker’s Coolness Under Fire.
  In addition, called attacks to specific locations have additional effects:
  
-  •Head: A called attack to the head suffers a –4 penalty.
+  - Head: A called attack to the head suffers a –4 penalty.
 If it succeeds, however, its total damage is increased by 2.
 
 
-•Limb: A called attack to an arm or leg suffers a –2 penalty.
+ - Limb: A called attack to an arm or leg suffers a –2 penalty.
 If it succeeds, however, its total damage is increased by 1.
 
 
- •Torso: A called attack to the torso suffers a –1 penalty.
+ - Torso: A called attack to the torso suffers a –1 penalty.
 
 # Cover
 Smart combatants don’t stand upright in the open while bullets are flying – they seek cover.
@@ -629,32 +629,32 @@ The easiest way to envision range bands is as a set of concentric circles with t
 Each range band has an inner and outer boundary, and anything whose distance from the character falls within those two boundaries is within that band.
 Range bands, from closest to farthest, are:
 
-• Personal: Personal range is within arm’s reach of a character, or close enough to physically strike with a hand weapon.
+ -  Personal: Personal range is within arm’s reach of a character, or close enough to physically strike with a hand weapon.
 Characters must be within personal range of one another to engage in physical contact, whether consensual (e.g., first aid) or hostile (e.g., a knife fight).
 
- •Gunfighting: Gunfighting range is from just outside arm’s reach to 7 meters.
+ - Gunfighting: Gunfighting range is from just outside arm’s reach to 7 meters.
 According to law enforcement statistics, this is the range within which the vast majority of modern handgun combat occurs.
 
-•Close Quarters Battle (CQB): CQB range begins at 7 meters and extends to 25 meters, which makes it the maximum range at which most combat within buildings or large vehicles will occur.
+ - Close Quarters Battle (CQB): CQB range begins at 7 meters and extends to 25 meters, which makes it the maximum range at which most combat within buildings or large vehicles will occur.
 
- •Tight: Tight range is from 25 to 100 meters, the range at which most gunfights occur within cities, jungles, and other outdoor areas that tightly restrict movement and lines of sight.
+ - Tight: Tight range is from 25 to 100 meters, the range at which most gunfights occur within cities, jungles, and other outdoor areas that tightly restrict movement and lines of sight.
 In the Tight range band and under normal field conditions the human eye will pick a human-sized target out of its surroundings more than 90% of the time.
 
- • Medium: The range that most military-scale combats will occur in surroundings with a moderate degree of cover and terrain complications.
+ - Medium: The range that most military-scale combats will occur in surroundings with a moderate degree of cover and terrain complications.
  The Medium range band extends from 100to 200 meters.
 This is the practical limit at which the unaided eye can discern significant details of a subject.
 Under normal field conditions, an average observer will discern a standing human target about 50% of the time at Medium range.
 
-•Open: As the name implies, the Open range band encompasses the ranges at which most infantry actions take place in open terrain with minimal contours: 200 to 400 meters.
+ - Open: As the name implies, the Open range band encompasses the ranges at which most infantry actions take place in open terrain with minimal contours: 200 to 400 meters.
 Visual observation normally encounters minimal penalties at these distances.
 Under normal field conditions, an average observer will discern a standing human target about 15% of the time at Open range.
 
- • Sniping: The range band from 400 to 800 meters is the province of long-range weapons.
+ - Sniping: The range band from 400 to 800 meters is the province of long-range weapons.
 Visual observation can be significantly impaired at these distances.
 Under normal field conditions, the unaided human eye has less than a 5% chance of detecting standing human targets at Sniping range.
 Ranged attacks without magnifying optics are effectively impossible.
 
-•Extreme: From 800 to 1,600 meters, only the longest-ranged firearms have a chance of hitting man-sized objects.
+ - Extreme: From 800 to 1,600 meters, only the longest-ranged firearms have a chance of hitting man-sized objects.
 Unaided visual observation is limited to simple shapes and major details, and the naked eye cannot effectively discern a human target.
 
 ## Range Bands and Weapons
@@ -809,24 +809,24 @@ Most anti-vehicular weapons are designed for precision relative to the size of t
 Firing at a human, whose visual profile is an order of magnitude or two smaller than that of a tank, requires unerring accuracy on the part of the gunner.
 The following rules apply to all weapons fired with the Gunnery and Support Weapons skills (weapons fired with Artillery are completely incapable of sufficient precision to target an individual character).
 
- •Machine guns of all types are intended for area targets or suppressive fire rather than accuracy against point targets.
+ - Machine guns of all types are intended for area targets or suppressive fire rather than accuracy against point targets.
 However, they are conventional small-caliber firearms and thus are sufficiently accurate to suffer no penalties when fired against individual characters.
 
-•Flamethrowers are not officially intended for use against personnel.
+ - Flamethrowers are not officially intended for use against personnel.
 However, their hose-like nature makes adjusting aim easy enough that they suffer no penalties for use against personnel.
 
-•Squad support weapons, such as grenade launchers and man-portable rocket launchers, are intended for use against small vehicles or massed infantry.
+ - Squad support weapons, such as grenade launchers and man-portable rocket launchers, are intended for use against small vehicles or massed infantry.
 Accordingly, these weapons are less difficult to use against characters than larger ones are.
 An attack on a character with such a weapon incurs a –3 penalty.
 The same guidelines apply to light autocannons.
 
 
-• Anti-tank weapons, including ATGMs and cannons, are designed to engage significantly larger targets.
+ -  Anti-tank weapons, including ATGMs and cannons, are designed to engage significantly larger targets.
 Attacks on personnel with these vehicles suffer a –6 penalty. [why not just make attacks one range band worse?]
 Attacks on smaller passenger vehicles such as cars and SUVs suffer a –3 penalty.
 
 
- •Although outside the scope of these rules, weapons built to the even larger scale of structures or ships are completely incapable of targeting characters.
+ - Although outside the scope of these rules, weapons built to the even larger scale of structures or ships are completely incapable of targeting characters.
 This includes all aircraft-dropped bombs, torpedoes, cruise missiles, naval guns, and similar anti-ship or bombardment weapons.
 
 # Close Combat Attacks
@@ -947,28 +947,28 @@ This movement may not exceed the normal limits imposed by injury, encumbrance, a
 Using Control: A character who has Control over an opponent has several options available to him, depending on his current Control value.
 Each of the following actions has a minimum Control which the attacker must have.
 
- •Increase Control (minimum 1): The attacker attempts to consolidate his hold on his victim, making another attack to grapple.
+ - Increase Control (minimum 1): The attacker attempts to consolidate his hold on his victim, making another attack to grapple.
 If the attack succeeds, it inflicts no damage, but its margin of success is added to the character’s current Control.
 
 
-•Compliance Hold (minimum 2): Pain and the threat of (further) physical injury can go a long way toward discouraging continued aggression.
+ - Compliance Hold (minimum 2): Pain and the threat of (further) physical injury can go a long way toward discouraging continued aggression.
 The attacker makes a close combat attack against the victim, receiving a bonus equal to half his current Control.
 If it succeeds, it inflicts no damage.
 However, for the purposes of morale (see p. 159), the victim becomes subject to a number of threat conditions equal to half the attacker’s margin of success.
 
 
-• Disarm (minimum 4): Normally, a disarm is accomplished with a called shot to the limb holding the weapon.
+ -  Disarm (minimum 4): Normally, a disarm is accomplished with a called shot to the limb holding the weapon.
 An attacker who doesn’t want to inflict injury instead makes a close combat attack against the victim, opposed by a Muscle attribute check on the victim’s part.
 If the attacker succeeds, the victim drops whatever is in one hand of the attacker’s choice.
 With a margin of success of 5 or more, the victim releases the contents of both hands.
 
 
- • Attack (minimum 4): The attacker uses his dominance and leverage to make a joint bend the way it isn’t supposed to, or to get a blade into the victim’s eye socket.
+ - Attack (minimum 4): The attacker uses his dominance and leverage to make a joint bend the way it isn’t supposed to, or to get a blade into the victim’s eye socket.
 He makes a normal close combat attack, but adds his Control as a bonus to the skill check.
 If this bonus exceeds +5, it is subject to the normal cap of +5, but any remaining bonus is applied to reducing the penalty of any called strike the attacker chooses to make.
 
 
- • Choke Out (minimum of victim’s Muscle +3): Despite the name, this maneuver doesn’t cut off the victim’s air supply, but rather the blood flow to his brain.
+ - Choke Out (minimum of victim’s Muscle +3): Despite the name, this maneuver doesn’t cut off the victim’s air supply, but rather the blood flow to his brain.
 It requires an entire exchange of fire to accomplish – the attacker must declare it as his first action, and it has a Speed equal to the attacker’s starting initiative.
 At the end of the exchange of fire, if the attacker still has the minimum control necessary to start this maneuver, the victim makes a Fitness check.
 If this Fitness check succeeds, the victim falls unconscious.
@@ -976,7 +976,7 @@ If the check fails, the victim dies, and resuscitation attempts treat him as if 
 If the attacker still has Control at the end of the exchange of fire but can’t meet this maneuver’s minimum, the current injury condition of the victim’s head worsens by one level.
 
 
- • Escape: A character who is suffering from Control may attempt to break free.
+ - Escape: A character who is suffering from Control may attempt to break free.
 This requires a standard close combat attack, but the attack must be declared as an attack to escape.
 A successful attack to escape does not inflict damage; instead, it reduces Control by its margin of success.
 
@@ -1116,29 +1116,29 @@ If he’s clubbed in the head again and sustains a serious head injury, he’ll 
 "It’s just a flesh wound." 
 The character suffers pain and may have unsightly wounds, but is unlikely to be in danger of dying unless he becomes infected.
 In peacetime, a slight injury would be treatable with home medicine.
- • Common Effects: None.
- • Head: A slight head injury inflicts a –1 skill level penalty to all actions.
- • Torso: A slight torso injury inflicts a –1 skill level penalty to all physical actions.
- • Arm: A slight arm injury inflicts a –1 skill level penalty to all actions involving the use of that arm.
- • Leg: A slight leg injury inflicts a –1 skill level penalty to all task checks involving the use of that leg.
+ - Common Effects: None.
+ - Head: A slight head injury inflicts a –1 skill level penalty to all actions.
+ - Torso: A slight torso injury inflicts a –1 skill level penalty to all physical actions.
+ - Arm: A slight arm injury inflicts a –1 skill level penalty to all actions involving the use of that arm.
+ - Leg: A slight leg injury inflicts a –1 skill level penalty to all task checks involving the use of that leg.
 In addition, the character cannot sprint.
 
 ## Moderate Injuries
 The character sustains a noticeable injury that will cause some degree of lasting impairment until healed.
 In peacetime, a moderate injury would call for a non-emergency doctor’s visit (though many people would panic and rush to the ER anyway).
 
- • Common Effects: Whenever a character suffers a moderate injury, the player must succeed in a Fitness check or the character enters shock.
+ - Common Effects: Whenever a character suffers a moderate injury, the player must succeed in a Fitness check or the character enters shock.
 If the margin of failure is greater than 5, the character also becomes unstable.
 
- • Head: A moderate head injury inflicts a –2 skill level penalty to all actions.
+ - Head: A moderate head injury inflicts a –2 skill level penalty to all actions.
 
- • Torso: A moderate torso injury inflicts a –2 skill level penalty to all physical actions.
+ - Torso: A moderate torso injury inflicts a –2 skill level penalty to all physical actions.
 
- • Arm: When a character suffers a moderate arm injury, the player must succeed in an immediate Muscle check or the character drops any object held in that hand.
+ - Arm: When a character suffers a moderate arm injury, the player must succeed in an immediate Muscle check or the character drops any object held in that hand.
 
 In addition, a slight arm injury inflicts a –2 skill level penalty to all actions involving the use of that arm.
 
- • Leg: When a character suffers a moderate leg injury, the player must succeed in an immediate Muscle check or the character falls down.
+ - Leg: When a character suffers a moderate leg injury, the player must succeed in an immediate Muscle check or the character falls down.
 
  In addition, a slight leg injury inflicts a –2 skill level penalty to all actions involving the use of that leg, and the character cannot move faster than a walk.
 
@@ -1146,34 +1146,34 @@ In addition, a slight arm injury inflicts a –2 skill level penalty to all acti
 ## Serious Injuries
  The character suffers a significant amount of physical trauma that has the potential to be life-threatening, or to cause permanent impairment if left untreated.
 In peacetime, a serious injury would justify an ambulance run and emergency surgical treatment.
- • Common Effects: Whenever a character suffers a serious injury, the player must succeed in a Fitness check or the character enters shock.
+ - Common Effects: Whenever a character suffers a serious injury, the player must succeed in a Fitness check or the character enters shock.
 If the margin of failure is greater than 5, the character also becomes unstable.
 
- • Head: A serious head injury inflicts a –3 skill level penalty to all actions.
+ - Head: A serious head injury inflicts a –3 skill level penalty to all actions.
 
- • Torso: A serious torso injury inflicts a –3 skill level penalty to all physical actions.
+ - Torso: A serious torso injury inflicts a –3 skill level penalty to all physical actions.
 
- • Arm: When a character suffers a serious arm injury, the player must succeed in an immediate Muscle check (TN –2) or the character drops any object held in that hand.
+ - Arm: When a character suffers a serious arm injury, the player must succeed in an immediate Muscle check (TN –2) or the character drops any object held in that hand.
    In addition, a serious arm injury inflicts a –3 skill level penalty to all actions involving the use of that arm.
 
- • Leg: When a character suffers a serious leg injury, the player must succeed in an immediate Muscle check (TN –2) or the character falls down.
+ - Leg: When a character suffers a serious leg injury, the player must succeed in an immediate Muscle check (TN –2) or the character falls down.
   In addition, a slight leg injury inflicts a –3 skill level penalty to all actions involving the use of that leg, and the character cannot move faster than a stagger.
 
 
 ## Critical Injuries
 The character suffers immediately life-threatening trauma that will almost certainly cause some degree of permanent impairment unless expertly treated with long-term rehabilitation.
  In peacetime, a critical injury would call for air evacuation to a trauma center.
- • Common Effects: A critically injured character automatically enters shock.
+ - Common Effects: A critically injured character automatically enters shock.
  In addition, the player must succeed in a Fitness check or the character becomes unstable.
 
- • Head: A character who sustains a critical head injury instantly becomes unconscious and remains so until the injury is healed to serious.
- • Torso: A critical torso injury inflicts a –4 skill level penalty to all physical actions.
+ - Head: A character who sustains a critical head injury instantly becomes unconscious and remains so until the injury is healed to serious.
+ - Torso: A critical torso injury inflicts a –4 skill level penalty to all physical actions.
 
- • Arm: When a character suffers a critical arm injury, he automatically drops anything held in that hand.
+ - Arm: When a character suffers a critical arm injury, he automatically drops anything held in that hand.
    The arm is unusable and any task requiring its use automatically fails.
   If the damage inflicted exceeds twice the arm’s critical wound threshold, there is a 50% chance that the arm is catastrophically amputated.
 
- • Leg: When a character suffers a critical leg injury, he automatically falls down. The leg is unusable and any task requiring its use automatically fails.
+ - Leg: When a character suffers a critical leg injury, he automatically falls down. The leg is unusable and any task requiring its use automatically fails.
   The character’s only available mode of movement is crawling.
   If the damage inflicted exceeds twice the leg’s critical wound threshold, there is a 50% chance that the leg is catastrophically amputated.
 
@@ -1503,39 +1503,39 @@ Note that some threat conditions are subjective; as always, the GM’s interpret
 
 Basic Threats
 
-•combat is occurring
+ - combat is occurring
 
-•character has been attacked
+ - character has been attacked
 
-•character has been attacked with lethal force
+ - character has been attacked with lethal force
 
-•enemy is using automatic weapons (burst fire)
+ - enemy is using automatic weapons (burst fire)
 
-•enemy is using explosives
+ - enemy is using explosives
 
-•enemy is using incendiary weapons
+ - enemy is using incendiary weapons
 
-•enemy is obviously irrational/insane (rabid, psychotic, on meth, etc.)
+ - enemy is obviously irrational/insane (rabid, psychotic, on meth, etc.)
 
-•enemy is charging and is (a) mounted, (b) in a vehicle, or(c) an animal larger than human size Tactical Considerations
+ - enemy is charging and is (a) mounted, (b) in a vehicle, or(c) an animal larger than human size Tactical Considerations
 
-•ambushed (no advance warning)
+ - ambushed (no advance warning)
 
-• fighting in darkness (night-vision gear negates this condition)
+ -  fighting in darkness (night-vision gear negates this condition)
 
-•character and allies are outnumbered 2:1 or more
+ - character and allies are outnumbered 2:1 or more
 
-•character can’t see enemy
+ - character can’t see enemy
 
-•character has no weapon that can reach or harm enemy
+ - character has no weapon that can reach or harm enemy
 
-•enemy has clearly superior position (high ground, prepared fighting positions)
+ - enemy has clearly superior position (high ground, prepared fighting positions)
 
-•enemy has clearly superior armament
+ - enemy has clearly superior armament
 
-•enemy has clearly superior mobility
+ - enemy has clearly superior mobility
 
-•escape is impossible (fight or die)
+ - escape is impossible (fight or die)
 
 
 ## Injuries
