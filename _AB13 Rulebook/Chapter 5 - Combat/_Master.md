@@ -327,29 +327,37 @@ Characters may move at various speeds, depending on their  physical condition.
 The following movement rates, listed from  fastest to slowest, each have their own restrictions and their own  effects on the character’s ability to act while using them.
 The  distance a character moves at a given speed is dependent on his  physical attributes, as per the character creation rules (see p.94).
 
+
  • Sprint: A sprinting character must be unencumbered  and may not have any leg injuries.
 A sprinting character suffers  a –5 penalty on any action requiring fine motor control (for game  purposes, ranged attacks require fine motor control, as do most  other Coordination-based actions, but close combat attacks do  not).
 However, his speed inflicts a –3 penalty to all ranged attacks  made against him.
  
+
  •Run: A character may run so long as he has no leg injury  worse than slight and is not more than lightly encumbered.
 A  running character suffers a –3 penalty on any action requiring  fine motor control.
 However, his speed inflicts a –2 penalty to all  ranged attacks made against him.
  
+
  •Trot: A character may trot if he has no leg injury worse  than slight and is not more than moderately encumbered (combat  loaded).
 A trotting character suffers a –2 penalty on any action  requiring fine motor control.
 However, his speed inflicts a –1  penalty to all ranged attacks made against him.
  
+
  •Walk: A character with a moderate leg injury or heavy  encumbrance is limited to walking speed.
 A walking character  suffers a –1 penalty on any action requiring fine motor control.
  
+
  •Stagger: A character with a serious leg injury, one who  is kneeling, or one who is overloaded is limited to staggering.
  A  staggering character suffers a –1 penalty on any action requiring  fine motor control.
+
 
  •Crawl: The last resort of those who must move or die but  who cannot stand up – or those who need to stay low to avoid  hazards.
 A prone character or one with a critical leg injury may  only crawl.
 When crawling, a character suffers a –4 penalty on any  action requiring fine motor control.
 
+
 In addition to covering distance, a character may also use the  Move action to enter or exit a vehicle or to mount or dismount from  an animal.
+
 
 One Move action is required to mount or dismount a  motorcycle or similar open vehicle or to dismount from an animal.
 
@@ -378,6 +386,7 @@ Yelling  across the street to negotiate with the enemy commander, making  a 
  • Don/Doff Clothing:  Removing clothing with extreme haste falls under the Ditch  Item tactical action.
 Doing so with more care takes a bit more  time, as does getting dressed.
 A single Don/Doff Clothing action  allows a character to put on or remove one of the following: 
+
 •backpack 
 •body armor
 •complete set of cold-weather outerwear
@@ -445,7 +454,7 @@ Any skill check  necessary for the operational action suffers a –3 penalty.
 ## Movement During Pauses
 A character may move at any speed up to his best possible one  during a pause.
 This is a “free” effect, not an operational action.
- Assume that the total amount of distance a character can cover  is equal to 10 times the amount of distance he can cover with a  Move tactical action at the equivalent rate (e.g.a walking character  covers up to 40 meters during a pause).
+ Assume that the total amount of distance a character can cover  is equal to 10 times the amount of distance he can cover with a  Move tactical action at the equivalent rate (e.g. a walking character  covers up to 40 meters during a pause).
 
 Movement during a pause does not inflict a penalty on other  actions.
 It is assumed that the character has time to complete his  movement before beginning his operational action.
