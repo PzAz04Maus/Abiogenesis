@@ -74,8 +74,11 @@ The Observe-Orient-Decide-Act loop was first described by Colonel John Boyd, a
 Boyd  theorized the OODA loop as a model for the decision-making  process that all organisms (and organizations) use, composed of  four interrelated cycles: 
 
 •Observe: Receive direct sensory information about a  situation (“Some guys wearing civilian clothes and carrying assault rifles are standing over there.”).
+
  •Orient: Match incoming information with known facts to  ascertain what’s happening (“AK-47s and no uniforms means  they’re probably enemy irregular forces.”).
+
  •Decide: Select or create an appropriate response to the situation (“Eliminate the threat before they can eliminate me. I need to take cover and open fire.”).
+
  • Act: Execute the response and observe the result,  continuing the loop (Bang!).
  
  Although Boyd originally described the OODA loop as a  training tool for fighter pilots, it’s not unique to combat.
@@ -487,7 +490,7 @@ Example: Matt’s AK-47 has Speed 3/5/7.
 A hip shot with it costs  3 ticks, a snap shot costs 5 ticks, and an aimed shot costs 7 ticks.
  The rifle has Bulk 3, so a hip shot incurs a –3 penalty.
  
-# complications 
+# Complications 
 Several factors can make attacks easier or more difficult.
 
 ## Visibility
@@ -544,9 +547,11 @@ A called attack is governed by the lower of the  normal attribute or the attac
  
   •Head: A called attack to the head suffers a –4 penalty.
 If it  succeeds, however, its total damage is increased by 2.
+
  
  •Limb: A called attack to an arm or leg suffers a –2 penalty.
  If it succeeds, however, its total damage is increased by 1.
+
 
  •Torso: A called attack to the torso suffers a –1 penalty.
 
@@ -804,10 +809,12 @@ However, their hose-like nature makes adjusting  aim easy enough that they suf
 Accordingly, these weapons are less  difficult to use against characters than larger ones are.
 An attack  on a character with such a weapon incurs a –3 penalty.
 The same  guidelines apply to light autocannons.
+
  
  • Anti-tank weapons, including ATGMs and cannons,  are designed to engage significantly larger targets.
 Attacks on  personnel with these vehicles suffer a –6 penalty. [why not just make attacks one range band worse?]
 Attacks on  smaller passenger vehicles such as cars and SUVs suffer a –3  penalty.
+
 
  •Although outside the scope of these rules, weapons built to  the even larger scale of structures or ships are completely incapable  of targeting characters.
 This includes all aircraft-dropped bombs,  torpedoes, cruise missiles, naval guns, and similar anti-ship or  bombardment weapons.
@@ -821,6 +828,7 @@ Close combat receives a slightly greater degree of abstraction  than ranged co
 In reality, most close combat fights  involve more than a simple series of attacks and occasional blocks.
  Opponents maneuver for position, close and separate, and feint  in a constant dance.
 Most attacks aren’t single strikes, but rather  rapid combinations of maneuvers intended to get the final strike  or strikes through the enemy’s defenses.
+
 However, precisely  replicating these subtle complexities would significantly slow down  the pace of combat.
 For this reason, we’ve reduced close combat in  the Stage I and II rules sets to the same three basic attack types as  ranged combat, with a couple of additional refinements thrown in.
  For narrative purposes, players and GMs are safe in describing a  single Attack action in terms of several discrete maneuvers: “I wait  for him to overextend, weave around, and give him an elbow to the  back of the neck.”
@@ -841,10 +849,12 @@ For attacks that target specific  parts of a human body, use the Called Attack
 Unlike ranged attacks, which involve projectiles moving faster  than normal human reflex speed can anticipate, close combat  attacks can be deflected by the target.
 The Block action allows a character to attempt this feat.
 
+
  To block an incoming close combat attack, a character must  take the Block action within one tick of the beginning of the attack  (so if an attack is declared on Tick 14, the target must block on Tick  14 or Tick 13).
 Remember that a Block action has a tick cost equal  to 1 plus the weapon’s Blind Strike Speed.
 The player then makes  either a Hand-to-Hand (OODA) or Hand Weapons (OODA) skill  check, depending on whether he’s blocking with bare hands or a  held object.
 This check opposes the attacker’s attack check, as per  standard results for opposed actions.
+
  
  Example: Max attempts to block an incoming knife attack with  his police baton.
 The baton has Speed 2/3/5, so the Block ac tion costs 3 ticks (1 plus the baton’s Blind Strike Speed of 2).
@@ -852,6 +862,7 @@ The  attacker’s margin of success on his Hand Weapons skill check  was 4.
 Max makes a Hand Weapons (OODA) check to oppose  this, receiving a margin of success of 5.
 This gives the attacker a net margin of failure of 1.
 The knife carves a few slivers of poly mer from the baton, but it saves Max from taking a nasty stab  wound.
+
  
  If a character employs bare-handed defense against an edged  weapon, he runs the risk of sustaining injury to his arm even if the  block technically succeeds.
 In such a case, there is a flat 50% chance  that with a successful block, the defender still sustains damage to a  randomly-selected arm equal to the weapon’s base Damage.
@@ -897,7 +908,8 @@ Max also must make a  Muscle check to stay up, suffering a –2 penalty for ru
 Any close combat attack or block may be an attack to grapple  or block to grapple.
 Mechanically, this occurs as normal, but  changes the skill check to require the /Grapple qualification (as  usual, an unqualified attempt is possible but suffers a penalty of  3 skill levels).
 When making a grapple attempt, a character does  not attempt to injure his opponent, but to reduce or eliminate his  mobility.
-A successful grapple does not inflict damage; instead, it inflicts a Control value equal to the margin of success (so a  zero margin of success grants no Control).
+
+A successful grapple does not inflict damage; instead,  it inflicts a Control value equal to the margin of success (so a  zero margin of success grants no Control).
 Control is an abstract  measure of the degree of physical control that one character has  over another.
 It depicts the extent of joint locks, pins, compliance  holds, and other restrictions on movement.
 
@@ -928,19 +940,23 @@ This movement may not exceed the  normal limits imposed by injury, encumbrance
  •Increase Control (minimum 1): The attacker attempts  to consolidate his hold on his victim, making another attack to  grapple.
 If the attack succeeds, it inflicts no damage, but its margin  of success is added to the character’s current Control.
  
+
  •Compliance Hold (minimum 2): Pain and the threat  of (further) physical injury can go a long way toward discouraging  continued aggression.
 The attacker makes a close combat attack  against the victim, receiving a bonus equal to half his current Control.
  If it succeeds, it inflicts no damage.
 However, for the purposes of  morale (see p. 159), the victim becomes subject to a number of threat  conditions equal to half the attacker’s margin of success.
+
  
  • Disarm (minimum 4): Normally, a disarm is  accomplished with a called shot to the limb holding the weapon.
  An attacker who doesn’t want to inflict injury instead makes a close  combat attack against the victim, opposed by a Muscle attribute  check on the victim’s part.
 If the attacker succeeds, the victim  drops whatever is in one hand of the attacker’s choice.
 With a  margin of success of 5 or more, the victim releases the contents  of both hands.
 
+
  • Attack (minimum 4): The attacker uses his dominance  and leverage to make a joint bend the way it isn’t supposed to, or  to get a blade into the victim’s eye socket.
 He makes a normal close  combat attack, but adds his Control as a bonus to the skill check.
 If  this bonus exceeds +5, it is subject to the normal cap of +5, but any  remaining bonus is applied to reducing the penalty of any called  strike the attacker chooses to make.
+
 
  • Choke Out (minimum of victim’s Muscle +3):  Despite the name, this maneuver doesn’t cut off the victim’s air  supply, but rather the blood flow to his brain.
 It requires an entire  exchange of fire to accomplish – the attacker must declare it as  his first action, and it has a Speed equal to the attacker’s starting  initiative.
@@ -948,6 +964,7 @@ At the end of the exchange of fire, if the attacker still  has the minimum con
 If this Fitness check succeeds, the  victim falls unconscious.
 If the check fails, the victim dies, and  resuscitation attempts treat him as if he had a critical head injury.
  If the attacker still has Control at the end of the exchange of fire but  can’t meet this maneuver’s minimum, the current injury condition  of the victim’s head worsens by one level.
+
  
  •  Escape : A character who is suffering from Control may attempt to  break free.
 This requires a standard close combat attack, but the  attack must be declared as an attack to escape.
@@ -999,9 +1016,11 @@ Some  things, however, are dangerous even though they don’t involve  the i
 These sources of damage are  considered passive hazards, so called because they don’t involve  a direct active attempt on the victim’s life.
  Every passive hazard has three traits: a Damage value,  a Penetration value, and an Avoidance Check (see p. 156 for  common passive hazards).
 The Damage and Penetration values  are identical in function to those of a weapon.
+
 The Avoidance  Check is an attribute check that the player must make whenever  the character is exposed to the hazard in question.
 If the check  succeeds, the character manages to twist out of the way, hold his  breath, or otherwise evade the hazard, and he suffers no damage.
  If the check fails, the margin of failure is added to the hazard’s  Damage to determine the total amount of damage that the victim  suffers.
+
 
  Example: Ed and Simon are attempting to escape a burning  building and must run through part of the fire.
 The fire has  Damage 4 and Avoidance Check MUS (TN –2).
@@ -1035,6 +1054,7 @@ This time, however, he’s wearing a vest with Armor  2.
  The attack has a Penetration rating of x2.
  Armor 2 multiplied by  Penetration x2 equals an effective Armor value of 4.
 Subtracting 4  from the damage value of 11 yields a final damage value of 7.
+
  
  Example 2: Pete is hit a third time, once more with a damage value of 11 and Penetration x2, but now he’s behind a cinderblock  wall (Armor 9).
 Armor 9 multiplied by Penetration x2 is 18.
@@ -1096,40 +1116,57 @@ In addition, the character  cannot sprint.
 ## Moderate Injuries 
 The character sustains a noticeable injury that will cause some  degree of lasting impairment until healed.
 In peacetime, a moderate  injury would call for a non-emergency doctor’s visit (though many  people would panic and rush to the ER anyway).
+
   • Common Effects: Whenever a character suffers a moderate  injury, the player must succeed in a Fitness check or the character  enters shock.
 If the margin of failure is greater than 5, the character  also becomes unstable.
+
  •  Head: A moderate head injury inflicts a –2 skill level penalty to all actions.
+
   • Torso: A moderate torso injury inflicts a –2 skill level penalty  to all physical actions.
+
   • Arm: When a character suffers a moderate arm injury, the  player must succeed in an immediate Muscle check or the character  drops any object held in that hand.
+
 In addition, a slight arm injury  inflicts a –2 skill level penalty to all actions involving the use of that  arm.
+
   • Leg: When a character suffers a moderate leg injury, the player  must succeed in an immediate Muscle check or the character falls  down.
+
  In addition, a slight leg injury inflicts a –2 skill level penalty  to all actions involving the use of that leg, and the character cannot  move faster than a walk.
+
 
 ##  Serious Injuries
   The character suffers a significant amount of physical trauma  that has the potential to be life-threatening, or to cause permanent  impairment if left untreated.
 In peacetime, a serious injury would  justify an ambulance run and emergency surgical treatment.
  •  Common Effects: Whenever a character suffers a serious  injury, the player must succeed in a Fitness check or the character  enters shock.
 If the margin of failure is greater than 5, the character  also becomes unstable.
+
  •  Head: A serious head injury inflicts a –3 skill level penalty to  all actions.
+
   • Torso: A serious torso injury inflicts a –3 skill level penalty to  all physical actions.
+
   • Arm: When a character suffers a serious arm injury, the  player must succeed in an immediate Muscle check (TN –2) or the  character drops any object held in that hand.
    In addition, a serious  arm injury inflicts a –3 skill level penalty to all actions involving the  use of that arm.
+
   • Leg: When a character suffers a serious leg injury, the player  must succeed in an immediate Muscle check (TN –2) or the character  falls down.
   In addition, a slight leg injury inflicts a –3 skill level  penalty to all actions involving the use of that leg, and the character  cannot move faster than a stagger.
+
 
 ## Critical Injuries
 The character suffers immediately life-threatening trauma that  will almost certainly cause some degree of permanent impairment  unless expertly treated with long-term rehabilitation.
  In peacetime,  a critical injury would call for air evacuation to a trauma center.
  •  Common Effects: A critically injured character automatically  enters shock.
  In addition, the player must succeed in a Fitness check  or the character becomes unstable.
-  • Head: A character who sustains a critical head injury instantly  becomes unconscious and remains so until the injury is healed to serious.
+
+  • Head: A character who sustains a critical head injury instantly  becomes unconscious and remains so until the injury is healed to  serious.
   • Torso: A critical torso injury inflicts a –4 skill level penalty to  all physical actions.
+
  •  Arm: When a character suffers a critical arm injury, he  automatically drops anything held in that hand.
    The arm is  unusable and any task requiring its use automatically fails.
   If the  damage inflicted exceeds twice the arm’s critical wound threshold,  there is a 50% chance that the arm is catastrophically amputated.
+
   • Leg: When a character suffers a critical leg injury, he  automatically falls down. The leg is unusable and any task  requiring its use automatically fails.
   The character’s only available  mode of movement is crawling.
   If the damage inflicted exceeds  twice the leg’s critical wound threshold, there is a 50% chance that  the leg is catastrophically amputated.
+
 
 ## Shock 
 When a character enters shock, his body is beginning to shut  down in an attempt to deal with what it perceives as catastrophic  trauma.
@@ -1186,11 +1223,13 @@ From a physics perspective, an explosion is a rapid expansion  of gas, usually
 This atmospheric  shock wave radiates in all directions from the source of the  explosion.
 As it travels, it also propels small solid objects that  happen to be caught in its path: pebbles, bits of the explosive’s  outer casing, or pieces of anything that was in contact with the  explosion.
 
+
  In game terms, every explosive device has a Damage trait.
  This functions in the same manner as the Damage trait of any other  weapon: it injures or damages the victim of a successful attack  (or the character or object who’s in direct physical contact with it  when it detonates).
 Three additional traits model the secondary  effects that radiate out from the point of impact: Radius, Blast,  and Fragmentation Density (abbreviated “Frag”).
 Explosive  devices do not have separate Penetration values.
 The Penetration  of any explosive against its primary target is always x1, and the  Penetration of blast and fragmentation effects are discussed in the  following sections.
+
  
  Example (Part 1): A high explosive anti-tank (HEAT) warhead  for an RPG-7 rocket launcher has Damage 80, Radius 4m, Blast 4, and Frag 2.
 These values are all important because an enemy  has just fired such a round into the side of the vehicle from which  Ed, Keith, and Pete are emerging, attacking with a margin of suc cess of 3.
@@ -1202,11 +1241,13 @@ An explosion’s Radius defines the distance within which it  does its greates
 The explosion inflicts  lesser effects within twice this distance, or its secondary radius.
  The concussive and fragmentation effects that occur within these  radii are, respectively, primary effects and secondary effects.
 If  a victim is exactly on the border between primary and secondary  effects, assume secondary effects apply.
+
  
  Example (Part 2): The RPG-7 warhead has a 4-meter Radius.
  Pete has just exited the vehicle and is one meter away from the  point of impact; he suffers primary effects.
 Keith has taken cover  six meters away; he suffers secondary effects.
 Ed has moved 11 meters away and is outside the secondary radius, so he is pelted  with debris but suffers no mechanical effects.
+
 
  If a target with multiple hit locations (e.g. a PC, star NPC, or vehicle) suffers a direct hit from an explosive, the primary effects  also apply to every hit location except the location that took the  direct hit.
 That location is in enough trouble already.
@@ -1223,6 +1264,7 @@ Primary blast damage has  Penetration x2.
 ## Secondary Blast Effects
 Every target within an explosive’s secondary radius suffers  damage equal to half the primary blast damage.
 Secondary blast  damage has Penetration x3.
+
 
 Example (Part 3): The RPG-7 warhead has Blast 4 and the  attack succeeded with a margin of success of 3, for a total blast  damage of 7.
 Pete suffers primary blast damage: a separate  Damage 7 hit to each hit location, with Penetration x2.
@@ -1340,6 +1382,8 @@ In this case, rather than  suffering from oxygen deprivation, a character who 
 The most likely airborne hazards that characters will  encounter are chemical weapons, whether riot control agents or  more lethal substances.
 Most chemical weapons are deployed  via a grenade or warhead that emits a cloud of its contents upon  detonation.
 The initial cloud has a radius equal to the weapon’s  listed burst radius and comes into existence upon detonation.
+
+
  At the beginning of each subsequent exchange of fire or pause, the cloud extends downwind an additional distance equal to its  diameter, for a number of exchanges of fire or pauses determined  by the current wind speed: Wind Speed 0
  
   Table 5m: Gas Dispersion Duration
@@ -1448,23 +1492,41 @@ At the GM’s  discretion, factors not described here can also be threat condi
  Note that some threat conditions are subjective; as always, the  GM’s interpretation is final.
  
  Basic Threats 
+
  •combat is occurring 
+
  •character has been attacked 
+
  •character has been attacked with lethal force
+
   •enemy is using automatic weapons (burst fire)
+
    •enemy is using explosives 
+
    •enemy is using incendiary weapons 
+
    •enemy is obviously irrational/insane (rabid, psychotic, on  meth, etc.) 
+
 •enemy is charging and is (a) mounted, (b) in a vehicle, or (c) an animal larger than human size  Tactical Considerations 
+
 •ambushed (no advance warning)
+
 • fighting in darkness (night-vision gear negates this  condition) 
+
 •character and allies are outnumbered 2:1 or more
+
 •character can’t see enemy 
+
 •character has no weapon that can reach or harm enemy 
+
 •enemy has clearly superior position (high ground, prepared  fighting positions)
+
 •enemy has clearly superior armament 
+
 •enemy has clearly superior mobility
+
 •escape is impossible (fight or die) 
+
 
 ## Injuries
 A character’s most severe injury (or virtual injury) adds to  his threat condition.
@@ -1621,7 +1683,7 @@ If this  happens, the acting character effectively loses the action,  paying
 
 
  Example: Ed and Boris are both acting on Tick 10.
-They have identical weapons, with which they attack each other.
+They  have identical weapons, with which they attack each other.
  Ed chooses a hip shot (tick cost 3), while Boris chooses an  aimed shot (tick cost 8).
 With a cost of 3, Ed’s hip shot will  end on Tick 7; by contrast, Boris’ aimed shot will end on  Tick 2.
 Ed’s hip shot therefore is the first action to resolve.
@@ -1659,7 +1721,7 @@ If this check fails, the  blast knocks the character prone.
 If an explosion occurs in an enclosed space with walls strong  enough to resist its force, the shock wave rebounds within that space, likely striking all targets multiple times within a fraction of  a second.
 This is known as the “chunky salsa effect” for reasons  which should be obvious to any reader with an active imagination  (thank you, FASA).
 
-Shock waves tend to follow the path of least resistance  whenever one exists.
+Shockwaves tend to follow the path of least resistance  whenever one exists.
 If an explosion occurs within a space that is  less than twice its Radius in only one or two dimensions, extend its  Radius by an amount equal to the lack of space.
 For example, in a  two-meter-wide hallway, an explosion with a 5m Radius is missing   eight meters of normal expansion room.
 Therefore, its Radius is  extended from 5m to 13m.
@@ -1721,13 +1783,17 @@ Indirect fire is a ranged attack at a target that the attacker can’t  himsel
 In order to know that he needs to attack something  rather than just blindly lobbing projectiles over intervening  terrain features, he needs guidance.
 This guidance comes from  another character who can directly observe the target (a forward  observer).
 
+
  To initiate indirect fire, the forward observer must call for  fire.
 This requires a Communicate (Complex) operational action  and a successful skill check - either Artillery (COG, TN +2) or Tactics (COG).
 With success, the forward observer provides the  attacker enough useful information to set up the first shot.
+
  
  Once the attacker has received a successful call for fire, he  can make his first attack, provided that the target is within his  weapon’s IFR.
 This attack uses the appropriate weapon skill,  typically Artillery, and is an operational action rather than a  standard attack tactical action.
 The base attribute is always  Cognition.
+
+
 The attack check suffers a penalty equal to 15 minus  the forward observer’s margin of success (minimum penalty -5).
  This extremely high penalty means that most indirect fire attacks  will deviate as described in the following section.
  
@@ -1738,6 +1804,7 @@ Thus, the round detonates after all Tick 1  actions or operational actions hav
 The trajectory of indirect fire means that projectiles will  impact the ground somewhere in the area of combat.
 As indirect  fire usually involves explosive warheads, there is a chance that  even a failed attack will still result in a round landing close enough  to a target – if not necessarily the intended one – to inflict damage.
  When an indirect fire attack fails, it therefore deviates from its  intended point of impact.
+
  
  To determine the direction in which a miss deviates, roll  1d10 and consult the deviation diagram shown here.
 The vertical  arrow indicates the direction of the attack.
@@ -1751,6 +1818,7 @@ Range Band 
 Once an attacker has received an initial call for fire, he can  continue to make indirect fire attacks at the same target, subject to  the same penalty as the initial attack.
 However, this doesn’t gain  him any accuracy.
 The role of the forward observer at this point is  to adjust the incoming fire by telling the attacker where his shots  are landing so he can correct his aim.
+
 
  Adjusting fire is a Communicate (Simple) tactical action with  a tick cost of 5 ticks, which a forward observer can undertake once  per exchange of fire after observing the impact of the last indirect  fire attack.
 Each action requires the same skill check as a call for  fire: the forward observer’s choice of Artillery (COG, TN +2) or  Tactics (COG).
@@ -1782,11 +1850,13 @@ Putting a mine into  position requires the player’s choice of a Construction
 This task takes three  minutes for an antipersonnel (AP) mine or fifteen minutes for  an antitank (AT) mine.
   Success leaves the mine armed.
 Failure  indicates that it’s still inert, but a margin of failure of 10 or more  means that the character accidentally detonates the mine while  attempting to emplace it.
+
  
  Improvised explosive devices (IEDs) are much more prone  to failure due to their irregular nature.
 Emplacing an IED always  requires a Construction/Demolition (CDN) skill check.
 If the  check fails, the GM rolls 1d10.
 If the die result is less than or equal  to the margin of failure, it’s time for a new character.
+
  
  In either case, it is assumed that the character emplacing  the mine wants to conceal it so that enemies will blunder into it  rather than detecting and avoiding it.
 Accordingly, the margin  of success on the skill check is opposed by the Awareness check  of any subsequent observer.
@@ -1861,9 +1931,10 @@ Each  check takes 10 minutes and marks a number of meters of route  or bound
  Failure indicates that  the character can’t be sure that his route or boundary is accurate  and safe, while a margin of failure of 10 or more means that the  character accidentally detonates a mine.
 
  GM Hint: Redirection  
- Another use ofminefields isto redirect an enemy force, either  to hamper its movement or to funnel it into a more advantageous  killing zone.
+ Another use of minefields is to redirect an enemy force, either  to hamper its movement or to funnel it into a more advantageous  killing zone.
 Most minefields used for redirection are obvious - or set up to appear “poorly concealed” - as a deception tactic,  drawing attention to the minefield and away from other threats.
  Mines used in this manner tend to be surface-deployed rather  than buried.
+
  
  Redirection minefields are useful when a unit has a low  supply of mines.
 A redirection minefield can contain a low  number of real mines on its borders, with fake mines adding  apparent depth.
