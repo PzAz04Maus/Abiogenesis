@@ -5,7 +5,7 @@ Starts at 0, grows to a maximum of FIT+MUS+RES. Damage allocates first to durabi
 ## Trauma
 starts at 0, grows with all injuries beyond the character's durability capacity.
 
-If the trauma score passes a character's trauma limit of 21 points (or 15+FIT), the character takes an instant critical hit and is totally incapacitated from major trauma.
+If the trauma score passes a character's trauma limit of 21 points (or 15+FIT), the character takes an instant critical hit and is totally [[Trauma care|incapacitated]] from major trauma.
 	note: 21 is based on the rule of 3s
 
 you gain trauma by ...
@@ -27,7 +27,7 @@ You can voluntarily earn trauma...
 		- Can only happen once per exchange of fire.
 		- to a maximum of 
 - You can only spend trauma on your turn with a 5 tick action.
-- You cannot spend trauma while unconscious.
+- You cannot spend trauma while [[Trauma care|incapacitated]].
 
 you can lose trauma by...
 - a day of normal rest by 1 point
@@ -88,13 +88,6 @@ https://www.aast.org/resources-detail/injury-scoring-scale
 | 4                             | Organs                                                   |
 | 5                             | muscularskeletal  (inc. muscles/ligaments) (inc. joints) |
 | 6                             | Loss of Consciousness (head only)                        |
-## Trauma care
-
-Major trauma requires critical care within a certain time period for a good prognosis, which can be extended by stabilization. Failure to apply critical care in this time period results in a poor prognosis.
-
-**Good prognosis**: A character with a good prognosis eventually returns to the campaign.
-
-**Poor prognosis**: A poor medical outcome means the character is permanently removed from play in the campaign, either through death or extreme disability.
 
 ## Stage III: Headshot!
 - Damage is increased by 4 when making a head shot
