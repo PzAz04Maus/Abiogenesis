@@ -31,15 +31,23 @@ The Reflex system has the tools to fit the nature of a modern gunfight and survi
 
 - Detailed character generation rules (if necessary)
 # Inspiration
-- STALKER
-- Half Life
-- Hellboy
-- X-Files
-# Important Themes
-## A nearly averted apocalypse
-The fear of good sinking slowly into the dark
+## STALKER, Roadside picnic
+Inspiration comes from the gameplay loop and the protagonist's situation as a hustler exploring for riches, along with the setting's modernity, lethality
 
-On the precipice of darkness and light; An oppressive, gothic environment is just outside the borders of society
+Roadside picnic increases this by introducing the concept of cosmic litter seeding the planet with bizarre behavior.
+## HP Lovecraft
+Shadow over Innsmouth, The Color out of Space
+## Half Life
+anomalous events and monstrous aliens upend the immersive operations of a top secret government facility on the bleeding edge of scientific discovery.
+## Annihilation
+Cosmic horror and incomprehensible artifacts that are a significant enough danger to society that they need investigation
+## Hellboy
+Immersion into a mysterious world of occult detective work hidden behind potemkin normalcy
+## X-Files
+Immersion into solving the threats of paranormal activity that society is unequipped to handle 
+## Still Wakes the Deep
+
+#  Themes
 ## The State in Social Preservation mode
 - [ ] rewrite required
 Abiogenesis takes place in an setting of an averted apocalypse. All human society narrowly weathered an emergency of unimaginable scale at immense cost. Mammoth pools of resources and knowledge had to be redirected on the spot in response.
@@ -47,6 +55,8 @@ Abiogenesis takes place in an setting of an averted apocalypse. All human societ
 As of the moment, the government is saddled with the dual tasks of forming a National Recovery and an arrears of debts and losses it racked, in man, machine, and infrastructure. The end of federal social security, Rationing and conscription form the new normal as the Federal government pulls back from daily life to save for the unfulfilled National Recovery plans.
 
 The landscape of post-de Kuiper America is littered with scrappy enterprises, liquidation startups, impoverished regulators and flimsy answers. It is a new age of the entrepreneur as many of economic champions or core pillars of the economy disappeared almost overnight.
+## A nearly averted apocalypse
+On the precipice of darkness and light; An oppressive, gothic environment is hidden just outside the borders of society
 
 ## Knowledge Gap
 While the physical effects  of the de kuiper event was a baleful swan of tragedy, its repercussions have become far more disturbing for the future of human life on earth. In one brief instant of history, the gap between the human experience of the universe and understanding was torn apart in an unrecognizable mess of contradiction and the 'paranormal.''
