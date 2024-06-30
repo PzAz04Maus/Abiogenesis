@@ -10,25 +10,24 @@ todo
  - [ ] Undercover arms
  - [ ] Czech your Engine
 # Pistols
-# Core
 
-|                         |                |      |      |        |        |     |       |     |      |        |       |        |
-| ----------------------- | -------------- | ---- | ---- | ------ | ------ | --- | ----- | --- | ---- | ------ | ----- | ------ |
-| Firearm                 | Caliber        | Cap. | Dam. | Pen.   | Rng    | ROF | Speed | Rec | Bulk | Wgt    | BV    | SP     |
-| .22 target pistol       | .22 LR         | 10   | 3    | x4/Nil | GF/CQB | S   | 1/2/4 | 3   | 1    | 0.5 kg | GG85  | $330   |
-| .32 holdout pistol      | .32 ACP        | 7    | 4    | x4/Nil | P/CQB  | S   | 1/2/4 | 4   | 1    | 0.4 kg | GG100 | $400   |
-| .380 service pistol     | .380 ACP       | 8    | 4    | x4/Nil | P/CQB  | S   | 1/2/4 | 5   | 1    | 0.7 kg | GG125 | $500   |
-| 9mm service pistol      | 9mm P          | 13   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 0.9 kg | GG130 | $520   |
-| .357 SIG service pistol | .357 SIG       | 12   | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 8   | 1    | 0.9 kg | GG120 | $720   |
-| .40 S&W service pistol  | .40 S&W        | 12   | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 9   | 1    | 0.9 kg | GG130 | $650   |
-| Beretta Model 92        | 9mm Parabellum | 15   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 1 kg   | GG160 | $650   |
-| Colt Model 1911A1       | .45 ACP        | 7    | 5    | x4/Nil | GF/CQB | S   | 1/2/4 | 7   | 1    | 1.1 kg | GG400 | $800   |
-| Colt Model 1911A1       | .38 Super      | 9    | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 9   | 1    | 1.1 kg | GG400 | $1,600 |
-| FN Five-seveN           | 5.7mm FN       | 20   | 5    | x2/x3  | GF/CQB | S   | 1/2/4 | 4   | 1    | 0.7 kg | GG490 | $980   |
-| Glock 17                | 9mm P          | 17   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 8   | 1    | 0.6 kg | GG225 | $450   |
-| H&K Mk. 23              | .45 ACP        | 12   | 5    | x4/Nil | GF/CQB | S   | 1/2/4 | 9   | 1    | 1.2 kg | GG375 | $1,500 |
-| Makarov PM              | 9mm Makarov    | 8    | 4    | x4/Nil | GF/CQB | S   | 1/2/4 | 5   | 1    | 0.7 kg | GG80  | $325   |
-| Yarygin Pya             | 9mm Parabellum | 17   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 1 kg   | GG200 | $400   |
+|                         |                |      |      |        |        |     |       |     |      |        |       |        |        |
+| ----------------------- | -------------- | ---- | ---- | ------ | ------ | --- | ----- | --- | ---- | ------ | ----- | ------ | ------ |
+| Firearm                 | Caliber        | Cap. | Dam. | Pen.   | Rng    | ROF | Speed | Rec | Bulk | Wgt    | BV    | SP     | Source |
+| .22 target pistol       | .22 LR         | 10   | 3    | x4/Nil | GF/CQB | S   | 1/2/4 | 3   | 1    | 0.5 kg | GG85  | $330   | Core   |
+| .32 holdout pistol      | .32 ACP        | 7    | 4    | x4/Nil | P/CQB  | S   | 1/2/4 | 4   | 1    | 0.4 kg | GG100 | $400   | Core   |
+| .380 service pistol     | .380 ACP       | 8    | 4    | x4/Nil | P/CQB  | S   | 1/2/4 | 5   | 1    | 0.7 kg | GG125 | $500   | Core   |
+| 9mm service pistol      | 9mm P          | 13   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 0.9 kg | GG130 | $520   | Core   |
+| .357 SIG service pistol | .357 SIG       | 12   | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 8   | 1    | 0.9 kg | GG120 | $720   | Core   |
+| .40 S&W service pistol  | .40 S&W        | 12   | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 9   | 1    | 0.9 kg | GG130 | $650   | Core   |
+| Beretta Model 92        | 9mm Parabellum | 15   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 1 kg   | GG160 | $650   | Core   |
+| Colt Model 1911A1       | .45 ACP        | 7    | 5    | x4/Nil | GF/CQB | S   | 1/2/4 | 7   | 1    | 1.1 kg | GG400 | $800   | Core   |
+| Colt Model 1911A1       | .38 Super      | 9    | 5    | x3/x4  | GF/CQB | S   | 1/2/4 | 9   | 1    | 1.1 kg | GG400 | $1,600 | Core   |
+| FN Five-seveN           | 5.7mm FN       | 20   | 5    | x2/x3  | GF/CQB | S   | 1/2/4 | 4   | 1    | 0.7 kg | GG490 | $980   | Core   |
+| Glock 17                | 9mm P          | 17   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 8   | 1    | 0.6 kg | GG225 | $450   | Core   |
+| H&K Mk. 23              | .45 ACP        | 12   | 5    | x4/Nil | GF/CQB | S   | 1/2/4 | 9   | 1    | 1.2 kg | GG375 | $1,500 | Core   |
+| Makarov PM              | 9mm Makarov    | 8    | 4    | x4/Nil | GF/CQB | S   | 1/2/4 | 5   | 1    | 0.7 kg | GG80  | $325   | Core   |
+| Yarygin Pya             | 9mm Parabellum | 17   | 4    | x3/x4  | GF/CQB | S   | 1/2/4 | 6   | 1    | 1 kg   | GG200 | $400   | Core   |
 # Addendum
 |                            |                    |      |      |        |          |     |       |     |      |        |       |        |
 | -------------------------- | ------------------ | ---- | ---- | ------ | -------- | --- | ----- | --- | ---- | ------ | ----- | ------ |
@@ -384,6 +383,8 @@ replace
 ```
 find
 ^(\w.*) +([\d.]+.*) +(\d+) +(\d+) +([\w/]+) +([\w/]+) +([\w/]+) +([\w/]+) +(\d+) +(\d+) +([\d\.]+ ?kg) +(GG.*) +(\$.*)
+
+^(\w.*) +([\d.]+.*) +([\d\W]+) +([\*\d]+) +([\x2A\w/\x171]+) +([*\w/]+) +([\x2A\w/]+) +([\w/]+) +(\d+) +(\d+) +([\d\.]+ kg) +(.*) +(.*)$
 
 replace
 \1; \2; \3; \4; \5; \6; \7; \8; \9; $10; $11; $12; $13
