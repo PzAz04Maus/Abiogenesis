@@ -1,3 +1,5 @@
+# Suggestion: Shooting at elevated targets
+
 # Tip: Shooting at elevated targets
 To find the direct distance of a target that is at a vertical incline or decline to the shooter, add half the shortest leg of the triangle to the longer leg of the triangle.
 
