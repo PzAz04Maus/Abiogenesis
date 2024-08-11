@@ -1,5 +1,5 @@
 
-![first image of ranchhand](Images/ranchhand_Forest_Creature_Harrison_Magby_Art_Station_No_rights.jpg)
+![first image of ranchhand](ranchhand_Forest_Creature_Harrison_Magby_Art_Station_No_rights.jpg)
 
 # Summary
 xenoformer, manipulator
@@ -51,11 +51,11 @@ size +0, 6'6"
 	- craft tool user
 	- post-human sapience
 # Concept design iterations
-![](Images/Pasted_image_20240807231938.png)
+![](Pasted_image_20240807231938.png)
 [source](https://twitter.com/saintsart_/status/1549499317387493376?s=20&t=wzV-EsuZJx9-U6ICaFYNvg)
 
-![](Images/inspiration_ranchhand_1580891300206_no_rights.jpg)
+![](inspiration_ranchhand_1580891300206_no_rights.jpg)
 
-![](Images/inspiration_ranchhand_1551135677729_no_rights.jpg)
+![](inspiration_ranchhand_1551135677729_no_rights.jpg)
 ![Blackbird](https://www.youtube.com/watch?v=i7izraterXQ)
 [Blackbird](https://www.youtube.com/watch?v=i7izraterXQ). Notice how the neck feathers twitch and jiggle while the bird talks. The twitching feathers could be a sort of vocalization support system

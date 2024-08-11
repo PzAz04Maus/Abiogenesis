@@ -1,8 +1,5 @@
 #Formatting
 
-https://kardashev.fandom.com/wiki/Sapience
-https://kardashev.fandom.com/wiki/Type_0
-
 
 Monster that creates cognitive collapse
 
@@ -80,26 +77,6 @@ at 25 meters, the jet is hot enough to do burning damage
 
 leaky black tar mouth when not spewing afterburn
 
-### Formula to move something with wind
-
-https://www.mytwintiers.com/weather/weather-wisdom/getting-geeky-with-grant-how-much-wind-does-it-take-to-move-common-objects/
-
-https://www.chegg.com/homework-help/questions-and-answers/determining-wind-speed-object-becomes-airborne-moves-laterally-complicated-problem-nonethe-q112201574
-
-https://www.reddit.com/r/theydidthemath/comments/2ivobq/request_how_fast_would_the_wind_need_to_be_going/
-
-W = sqrt(195xlb/sqft)
-
-109 kph is the speed that can pick a person off their feet, or lighter w/ a wider projected area
-
-assuming the projected area of a supine person in the normal direction with the wind is a constant of .1 (smaller cross section), it would take about 202 kph to pick a person laying down off the ground
-
-
-
-https://physics.stackexchange.com/questions/41934/what-does-the-wind-speed-have-to-be-to-blow-away-a-person
-
-### Projected area formula
-The projected area of a person may be assumed to be proportional to the DuBois area, and Penwarden has suggested an area ratio A/At), of 0.31 for a person standing facing the wind^[Measurements of Wind Drag on People Standing in a Wind Tunnel]
 
 
 # Radix's Forager

@@ -1,3 +1,9 @@
+# Intelligence
+
+https://kardashev.fandom.com/wiki/Sapience
+
+https://kardashev.fandom.com/wiki/Type_0
+
 # Five step approach
 
 
@@ -37,33 +43,6 @@ Two words. “Creeped out!” I wanted a type of ‘body snatcher’ that can ma
 
 
 # extra thoughts
-
----
-# Gameplay
-mass
-	4.6kg m829
-	.0004kg m855a1
-force
-	f=ma
-	12,800,000 j m829
-	1,797 j m855a1
-	16,947.9 j gorilla punch
-	joules
-energy
-	ke = .5mv^2
-	60 kn whale, blue
-	6414kn m829
-	.185kn m855a1
-	newtons
-velocity
-	1670m/s m829
-	961m/s m855a1
-accel
-	a=f/m
-
-incr stress
-
-maximum bone density 2.9g/cm^3
 
 ---
 # Creating Uniqueness
@@ -110,12 +89,3 @@ Shaw, Philip. The Sublime (The New Critical Idiom) (p. 4). Taylor and Francis. K
 > “Fearful symmetry” implies that the tiger has been intentionally made to inspire fear with its unpredictable violence and terror. In these lines the speaker is acknowledging that whoever created the tiger has a capacity much greater than human abilities, while also questioning why any being, no matter how powerful, would create this fear inciting creature.
 
 
-# source of de kuiper monsters
-
-terrestrial
-	mutations, random - 
-	Design - 
-	
-De Kuiper
-	recreations - 
-	Designed - 
