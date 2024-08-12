@@ -1,4 +1,3 @@
-
 # Constructing Adventures
 
 We discussed how objectives in storytelling can be categorized into immediate, medium, and long-term goals. Reference to Stanislavski’s method for integrating objectives into a story.
@@ -191,7 +190,15 @@ A good adventure seed does more than just this though, they both help establish 
 Adventure seeds determine what is expected and what is not from the world or creatures that they describe, flavorful chunks of information that hint of everything that a game could offer.
 ```
 # Mystery
-plug and play
+- plug and play
+
+---
+old
+
+One of the important motifs of Abiogenesis is mystery: players are supposed to be left in the dark, the lore is supposed to not answer all questions. However, sometimes the GM must make lore judgements in order to resolve decisions in play. To support this, Abiogenesis introduces a tool called the Mystery. Similar to Story qualities, Mysteries are additions or modifying statements to the lore of the game which are only canonical to that particular campaign. GMs are obliged to create their own Mysteries for the Abiogenesis Universe as needed.
+
+Additionally Mysteries can serve as setting modifiers that confirm or deny whether traditional cryptids, folklore, or the like are in the game, or which universe the setting is in. For example, one Mystery could be that the campaign is set in the X-Files or Stargate Universe.
+
 # Story Beats and their sizes
 With English, there is a progression of language elements:
  letters, words, sentences, paragraphs
@@ -261,9 +268,13 @@ Proof vs. collection of general wisdom
 # source of de kuiper monsters
 
 terrestrial
+
 	mutations, random - 
+
 	Design - 
 	
 De Kuiper
+
 	recreations - 
+
 	Designed - 

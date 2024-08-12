@@ -32,10 +32,6 @@ The most important story qualities are **Hazards**. These include the following
 	* per session
 	* per episode(!)
 
-## Mysteries
-One of the important motifs of Abiogenesis is mystery: players are supposed to be left in the dark, the lore is supposed to not answer all questions. However, sometimes the GM must make lore judgements in order to resolve decisions in play. To support this, Abiogenesis introduces a tool called the Mystery. Similar to Story qualities, Mysteries are additions or modifying statements to the lore of the game which are only canonical to that particular campaign. GMs are obliged to create their own Mysteries for the Abiogenesis Universe as needed.
-
-Additionally Mysteries can serve as setting modifiers that confirm or deny whether traditional cryptids, folklore, or the like are in the game, or which universe the setting is in. For example, one Mystery could be that the campaign is set in the X-Files or Stargate Universe.
 # Tactical Encounters
 
 # [[Map planning|Map Design]] and terrain
