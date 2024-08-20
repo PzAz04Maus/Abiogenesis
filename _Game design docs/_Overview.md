@@ -12,9 +12,11 @@ For the player, the game is "your work commute includes an AR-15 in the emergenc
 Gameplay can be described as a tactical adventure - taking cues from the modern gunfight and the empty battlefield. firearms, cover, concealment, and tactics are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
 
 #  Themes
-## Noble-dark
+## [Noble-dark](https://www.reddit.com/r/40kLore/comments/iqfuu4/meta_grimdark_nobledark_and_the_setting_alignment/)
 
- The sertting is in a constant friction of what needs to be done in the name of the common good, and whether that's too tyrannical.
+ The setting's characters should be in a constant friction of what needs to be done in the name of the common good, worrying about what is too tyrannical.
+## The Unnatural
+
 ## The State in Social Preservation mode
 - [ ] rewrite required
 Abiogenesis takes place in an setting of an averted apocalypse. All human society narrowly weathered an emergency of unimaginable scale at immense cost. Mammoth pools of resources and knowledge had to be redirected on the spot in response.
