@@ -1,27 +1,25 @@
+work in progress
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
 
 To handle these infantry battles in an efficient and fun manner, Ab13 needs to create a new structure for the longer infantry battle.
 
-```
-A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
-```
 # Operational Combat
 
 An **operational scene** is the collection of all exchanges of fire, pauses, operational actions, or operational movements. These are referred to as **operational decisions**. Operational scenes begin upon approach of the enemy.
 
-Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
+Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
-To simplify matters, a group should sequence multiple operational decisions together and wait for 
+To simplify matters, a group may sequence their operational decisions together and then resolve it.
 
-Operational decisions last about 1 minute long in length, but can vary in time from 20 seconds to 80. With an **operational move** action, a group may move up to 10 times their best possible tactical speed. This move speed may be increased with an athletics or drive check as applicable.
+Operational decisions range from 20 to 80 seconds in length, but can be simplified to 60. With an **operational move** action, a group may move up to 10 times their best possible tactical speed. This move speed may be increased with an athletics or drive check as applicable.
 
-Attacking doesn't occur on the operational scale. All small arms fire must be made during a tactical exchange of fire.
+The only time an attack can be made on the operational scale is during an exchange of fire.
 
 Information about the enemy group is limited during the operational scene; characters only know where the enemy's center is, and are to be given no instructions on enemy intentions other than what they can intuit themselves, unless they make a reconnaissance  check (previously known as the keep watch check). 
 
-The Withdraw operational action is reclassified as a Stage I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or intervisible concealment.
+The Withdraw operational action is now classified as a Stage I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or intervisible concealment.
 
 ## Stage III: Actions higher than operational
 
@@ -35,7 +33,7 @@ Stock Tactical engagement distance
 ---
 
 - roll the engagement contest in advance, keep written on the scratchpad. Positive is in the party's favor, negative in the OPFOR's favor
-- When the bang is about to happen, modify the contest result
+- when the approach occurs, modify the contest result
 
 problems with the engagement contest:
 - it has 2 characteristics: when and how far the two forces are detected
@@ -73,6 +71,11 @@ all tells increase other forces effective rating against that group
 
 # Operational terrain
 
+
+```
+A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
+```
+
 The infantry battle has a major problem where relevant-critical details can exist on layer 0 or layer -1, but we can't draw both fully and efficiently - we must constantly simplify out things such as microterrain or dead space, while taking them into account.
 
 Playing at the operational level requires terrain to be simplified with abstractions, called the level of detail.
@@ -93,70 +96,6 @@ Leaders can move across these different subregions, or find access to new subreg
 
 Characters may identify microfeatures to support their actions with a tactics check while supplies last and the enemy permits (ie: as they get progressively more pinned).
 
-# Placing terrain
-
-# Running operational maps
-
-# Gameplay loop
-
-1. Initial situation
-	a. enemy is known
-	b. enemy unknown
-	c. mobile
-	d. stationary
-## [scaling](https://en.wikipedia.org/wiki/Level_of_measurement)
-Is entirely determined by the gm, but by default consists of regions with a maximum length of 100 meters
-
-Regions consist of either positive, negative, or some fraction of the two spaces
-
-Regions can be any kind of polygon.
-## Initial phase, GM 
-
-1. GM determines the Level one region
-2. Gm determines scale of a terrain piece
-
-All terrain pieces must be touching at least at 1 point? Any gaps are to be determined as positive or negative space based on the GM's ruling until a group decides to uncover another terrain piece.
-
-## Initial player phase, shaping field
-This is known as the shaping phase because if the teams intend to fight, they will attempt to shape the battlefield to suit them, such as through an ambush or by acquiring higher ground prior to the opponent.
-
-1. Groups determine their objective
-2. both groups nominate a commander to make a competing tactics roll
-- [ ] this could be called the reconnaissance check
-3. on success, the commander nominates placement of 1 level zero piece of terrain and the initial spawn.
-	2. The margin determines the quality of the terrain (is this based on GM's judgement or with soft rulings?) in regards to how well it supports their objective
-	- [ ] what if the margin also determined the number of terrain pieces a side puts down?
-	- [ ] what if the number of group elements determined the number of terrain pieces a side puts down
-	1. the margin should be lose with normal successes or failures containing 'yes, but' results. Only exceptional margins should provide definitive results
-	2. after consulting with the GM, the group arranges the piece of terrain according to their understanding of the situation.
-4. on failure, who decides to put the terrain down? The commander choses the initial spawn
-
-### Questions
-- [x] What about minimum initial range or getting initial shots on? 
-- [ ] What about holding terrain the enemy can't take
-- [x] What is the size of a terrain piece
-- [x] How does one handle split forces
-- [x] How do we determine the shape of a terrain space
-- [x] How does an actor move through a terrain space
-- [ ] how are multiple pieces of terrain laid down?
-- [ ] Can a recon roll be split so heterogenous terrain can be laid? (Ie barn house and field)
-
-## Initial phase, no player shaping
-If the two groups do not shape the battle prior to engaging (aka: complete surprise), the GM rolls for luck for each side (2d20L!6), then generates the terrain and  based on the fortune of each group. The groups have no decision in how this terrain nor their assembly is set up beyond what they were immediately doing prior to the interruption.
-## Subsequent phases
-
-1. GM determines whether players may add to the map depending on the local Level one terrain surrounding the immediate area in a particular direction
-2. The group then rolls a terrain check with a modifier based on the local region the terrain is a part of in one cardinal direction.
-	1. on success, the group adds a level zero terrain piece onto the map in an arrangement of their choosing in consultation with the GM. The margin of success determines how well the arrangement should suit them.
-	2. On failure, the group adds a level zero piece of terrain onto the map, but the GM determines how the arrangement disadvantages them.
-
-questions:
-- [ ] What is the size (scale?) of this region?
-
-## terms
-- Negative space
-- Positive space
-
 
 # microterrain
 ## cover
@@ -174,46 +113,46 @@ Set n polygons on the board with m corners. Different polygons can lay on top of
 
 Is it a forest, town, plain
 
-Is the predominant feature negative or positive space
+All forces roll their stealth/observation checks and are then listed on a ranking system against each other.
 
-Is the outlie/frontier positive or negative space.
+Those with a +4 in the stealth game will see weaker opponents first at up to 200 meters
 
-Improvise these decisions
+Those with +9 will see opponents first at up to 400 meters
 
 
 Typically n is set to 1, maybe 2
 
 M is dependent on broad features.
 
-Gms are encouraged to interpret, embellish and improvise these features according 
+\+ simplifies multilateral force problems
+\- all bilateral node relations are poorly modelled, such as distance between nodes (Only the players relation to all elements should be modeled tbh)
+\- no mixed behavior for stealth/observation (probably too complicated to make a good model for)
 
-Level 1 polygons are the shape of the lands area
+# Operational terrain
 
-### using Simple polygons to shape level 1 map designs
-https://en.m.wikipedia.org/wiki/Simple_polygon
-a polygon that does not intersect itself and has no holes
+The infantry battle has a major problem where relevant-critical details can exist on layer 0 or layer -1, but we can't draw both fully and efficiently - we must constantly simplify out things such as microterrain or dead space, while taking them into account.
 
-https://en.m.wikipedia.org/w/index.php?title=Internal_and_external_angles&diffonly=true
+Playing at the operational level requires terrain to be simplified with abstractions, called the level of detail.
 
-https://stackoverflow.com/questions/8997099/algorithm-to-generate-random-2d-polygon
+Infantry battle maps have 3 layers. Each successive layer receives more player input
 
-Drop a number of dice on the table and use each point as a polygon
+The most important level of detail is the base layer (0), followed by the landscape layer. Layer 0 handles most microfeatures as undepicted abstractions, unless necessary to a character.
 
+**layer 1**: the landscape where the fight is located. The choice of layer 1 determines what layer 0 features can be picked and what mapwide behaviors exist in the map. layer 1 is always decided by the story. 
 
-A walk...
-Take a line, then roll 1d36/2 = evens positive,  odds negative. This is how much of a turn is made in 10 degree increments.
+**layer 0**: the immediate features of the environment, the positive or negative space available that define the boundaries or spaces on the map. 
 
-We do this for n nodes, then connect the first and last node to finish a po
-## level 0 polygons - features
+Layer zero starts with an initial subregion of (combat length) in distance with zero or more subregions attached to it. The combat value of a subregion depends on either random chance or the ability of a leader to locate good terrain.
 
-Level 0 polygons are the shape of the features of the land. Players add
+Leaders can move across these different subregions, or find access to new subregions to move to work a tactics check, though at some point they will run out of options. Once a subregion is established it cannot be changed.
 
+**layer -1**: the microfeatures that the players immediately use but are seldom drawn.
 
---- 
+Characters may identify microfeatures to support their actions with a tactics check while supplies last and the enemy permits (ie: as they get progressively more pinned).
 
 ## Layer 0 placement.
 
-A layer 0 test determines who places the terrain, what its general shape looks like and where that terrain goes. 
+# Running operational maps
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
 
@@ -319,10 +258,6 @@ dimensionless distance - a geographic region can consist of a single median dist
 
 This simplification saves us from needing to accurately measure and scale each block of geography. Measuring from one block to another becomes a matter of adding the blocks between. 
 
-## stage 2
-
-
-
 
 ---
 
@@ -339,8 +274,6 @@ Explains why a lot of systems do empirical or probablistic models
 https://news.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior
 
 ---
-
-
 
 Tactics roll as a detection footprint?
 ---
@@ -365,7 +298,6 @@ while in visual range, the comparison of 2 numbers determines how many turns it 
 
 old
 ---
----
 
 candidate formula 1: imagine a node with a detection radius around it: all nodes inside that detection radius automatically become aware of the node's existence.
 
@@ -387,9 +319,6 @@ alternatively, this could be in competition with the opponents' detection roll, 
 
 ---
 
-rng system
-
-
 
 Scaling time periods for range bands?
 
@@ -408,8 +337,97 @@ Scaling time periods for range bands?
 800 - 8x - 104m tick 12 sec
 1600 - 16x - 208m tick 24 sec
 
-EFFECT STENO
+---
 
-https://en.wikipedia.org/wiki/Palimpsest
+
+Setting The scale of Measurement to the distance of a range band ensures that every attack distance can be determined by factors of 2, whether as multiples of distance or fractions of the resulting area
+
+Stage I: regular polygons
+
+All sectors as squares, very little deviation in scale
+
+Stage iii: Irregular polygons
+
+All sectors as Irregular shapes with gaps between them
+
+Gap behavior is left ambiguous and to the gms discretion
+
+Irregular shapes can be up to 5 sides, but no distance between two points may be bigger than the scale
 
 ---
+# Scale
+Section intervals
+
+Gm defined mapsection scale done in meters
+
+# Methods for handling encounter beats
+
+- Chance
+- Story/Free form
+- Modeled
+- Rhythmic
+- Wargamed, proximity
+	- By location
+	- Triggers
+
+# Terrain value models
+By rarity
+
+---
+
+Terrain is not neutral—it either helps or hinders each of the opposed forces. U.S. ARMY FIELD MANUAL 700-5(1993)
+
+
+Firefight scale
+Focuses on individual encounters, fight scenes
+
+Tactical scale
+Focus on movement between encounters, the relationship between encounters
+
+Walking city
+Driving city
+
+
+---
+
+
+# Gameplay loop
+
+1. Initial situation
+	a. enemy is known
+	b. enemy unknown
+	c. mobile
+	d. stationary
+
+## Initial phase, GM 
+
+1. GM determines the Level one region
+2. Gm determines scale of a terrain piece
+
+All terrain pieces must be touching at least at 1 point? Any gaps are to be determined as positive or negative space based on the GM's ruling until a group decides to uncover another terrain piece.
+
+## Initial player phase, shaping field
+This is known as the shaping phase because if the teams intend to fight, they will attempt to shape the battlefield to suit them, such as through an ambush or by acquiring higher ground prior to the opponent.
+
+1. Groups determine their objective
+2. both groups nominate a commander to make a competing tactics roll
+- [ ] this could be called the reconnaissance check
+3. on success, the commander nominates placement of 1 level zero piece of terrain and the initial spawn.
+	2. The margin determines the quality of the terrain (is this based on GM's judgement or with soft rulings?) in regards to how well it supports their objective
+	- [ ] what if the margin also determined the number of terrain pieces a side puts down?
+	- [ ] what if the number of group elements determined the number of terrain pieces a side puts down
+	1. the margin should be lose with normal successes or failures containing 'yes, but' results. Only exceptional margins should provide definitive results
+	2. after consulting with the GM, the group arranges the piece of terrain according to their understanding of the situation.
+4. on failure, who decides to put the terrain down? The commander choses the initial spawn
+## Initial phase, no player shaping
+If the two groups do not shape the battle prior to engaging (aka: complete surprise), the GM rolls for luck for each side (2d20L!6), then generates the terrain and  based on the fortune of each group. The groups have no decision in how this terrain nor their assembly is set up beyond what they were immediately doing prior to the interruption.
+## Subsequent phases
+
+1. GM determines whether players may add to the map depending on the local Level one terrain surrounding the immediate area in a particular direction
+2. The group then rolls a terrain check with a modifier based on the local region the terrain is a part of in one cardinal direction.
+	1. on success, the group adds a level zero terrain piece onto the map in an arrangement of their choosing in consultation with the GM. The margin of success determines how well the arrangement should suit them.
+	2. On failure, the group adds a level zero piece of terrain onto the map, but the GM determines how the arrangement disadvantages them.
+
+questions:
+- [ ] What is the size (scale?) of this region?
+
