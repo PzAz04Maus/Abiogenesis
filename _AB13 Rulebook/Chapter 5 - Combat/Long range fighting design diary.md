@@ -30,9 +30,13 @@ The most efficient way we can convert a terrain's utility into mechanical benefi
 
 ## how much value does a descriptor get you?
 - how valuable is it
-- how broad that value is
+- the volume of that valuable terrain in the region
+
+the choice of terrain can add bonus value or volume
 
 could use a side dice with the choice of how valuable or how broad taking up two slots
+
+slot 2 success curve is at least a glancing success/foil
 
 ### what terrain functions are there?
 - Cover
@@ -89,7 +93,9 @@ Yes,yes but, no, no and
 
 
 Storytold/Abstract infantry combat
+
 V
+
 Tabletop infantry combat
 
 Encounters and dramatic encounters
