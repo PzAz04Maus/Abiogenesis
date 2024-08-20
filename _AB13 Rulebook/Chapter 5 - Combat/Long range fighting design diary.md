@@ -9,44 +9,56 @@
 - choice
 
 ## Statement 2: is giving the players a role in designing the combat map going to help with statement 1
+- having this discovery check pushes players to deeply interact with their environment
 - the design of the system already depends on players discovering valuable microterrain (lv-1) like cover concealment supplies or paths
 - it makes little sense to deny them the ability to discover (lv0)
 - the subjective nature of terrain value
 
 ## Statement 3: What is the utility[^1] of certain terrain?
 
-When a unit rolls their discovery check, they define the functional utility of that terrain to them.
+When a unit rolls their discovery check, they are determining what that terrain's utility will be in regards to them.
 
 This utility is dependent on a relationship between
-- the individual values of the terrain
-- the groups resources
-- the action the group wants to take
-- the opposing groups resources
-- the action the opposition wants to take
+- the general characteristics of the terrain
+- the units resources and preferences
+- the opposing units resources and preferences
 - the game's meta
 
-therefore, utility is subjective because it's relational, so the most efficient way we can convert a terrain's utility into function is through open ended descriptors.
+Utility is subjective because of these dependencies, so it can't directly become an objective value that authentic gameplay requires, but only converted. For example, the discovery check currently cannot distinguish between flat ground and rolling valleys without a lot of lookup tables, nor can it support a unit's preferences.
+
+The most efficient way we can convert a terrain's utility into mechanical benefits while taking preferences and characteristics into account is through player choice constrained by open ended descriptors: the players determine what kind of terrain they receive, the dice decide the value.
+
+## how much value does a descriptor get you?
+- how valuable is it
+- how broad that value is
+
+could use a side dice with the choice of how valuable or how broad taking up two slots
 
 ### what terrain functions are there?
 - Cover
+	- Use tactics roll to determine if cover is nearby
+	- ~~Unaware enemies roll 2d20h for abstract cover~~
 - Concealment
 - observation
 - obstacles
 - frontage
 - forage
-- quantity microterrain
+	- We can game forage levels with the following mechanics
+	- Patch yield
+	- Clues for patch location: 
+		- Patterning
+- quantity/microterrain
 ### what are other terrain characteristics other than their direct utility
 - positive/negative space
 - % obstructions/clearings
 - shape
 
-## map conventions
+## what general map conventions exist?
 - average region size
 - pattern
 - number of regions found per discovery
 
-
-## How do we record map patterns?
+## How do we record these characteristics in a short manner?
 
 - Musical notation
 - network graph
@@ -60,12 +72,11 @@ The catch is that this utility needs to be converted into a results that helps, 
 
 the terrain utility curve is a gradient between helping, foiling, or hindering results.
 
-1..-1 = foil result. "sidegrade" that is neither helpful nor hindering
-2..-2 = slight help or hinderance
-3..-3 = moderate help or hinderance
-4..-4 = serious help or hinderance
-5..-5 = critical help or hinderance
-
+- 1..-1 = foil result. "sidegrade" that is neither helpful nor hindering
+- 2..-2 = slight help or hinderance
+- 3..-3 = moderate help or hinderance
+- 4..-4 = serious help or hinderance
+- 5..-5 = critical help or hinderance
 
 Other examples of success curves include
 ## 1. standard success curve
@@ -77,37 +88,12 @@ yes,yes but, no but, no and
 Yes,yes but, no, no and
 
 
-
-
 Storytold/Abstract infantry combat
 V
 Tabletop infantry combat
 
 Encounters and dramatic encounters
 
-
-# Terrain functions
-
-## Cover
-Use tactics roll to determine if cover is nearby
-
-Unaware enemies roll 2d20h for abstract cover
-## Concealment
-## observation
-## obstacles
-## frontage
-## forage
-
-We can game forage levels with the following mechanics
-
-Average environmental yield
-- Patch yield
-
-Clues for patch location: 
-- Patterning or defining the key characteristics of an environments subelements according to story specifications
-- Prey avoidance modelling (survival checks should only indirectly assist locating prey, not solve the problem)
-
----
 
 
 # Types of level designs
