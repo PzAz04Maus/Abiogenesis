@@ -8,7 +8,13 @@
 - structure
 - choice
 
-## Statement 2: is giving the players a role in designing the combat map going to help with statement 1
+### Sources
+
+![](https://youtu.be/WnR40rBjGzc?si=q7JrE1122uqqthUg)
+![](https://youtu.be/y5zZ2hj5tJ4?si=pNxNKstlxa8xHxQg)
+
+![](https://youtu.be/RwlnCn2EB9o?si=i2-hxK3JEAOc5B9H)
+## Statement 2: is giving the players a role in designing the combat map going to help with problem 1
 - having this discovery check pushes players to deeply interact with their environment
 - the design of the system already depends on players discovering valuable microterrain (lv-1) like cover concealment supplies or paths
 - it makes little sense to deny them the ability to discover (lv0)
@@ -39,19 +45,20 @@ could use a side dice with the choice of how valuable or how broad taking up two
 slot 2 success curve is at least a glancing success/foil
 
 ### what terrain functions are there?
-- Cover
+- Cover ![[ButtonArmoredHot 1.png]]
 	- Use tactics roll to determine if cover is nearby
 	- ~~Unaware enemies roll 2d20h for abstract cover~~
-- Concealment
-- observation
-- obstacles
-- frontage
-- forage
+- Concealment ![[ButtonLosDisabled 2.png]]
+- observation ![[ButtonReconHot 1.png]]
+- obstacles ![[ButtonHeightHot 1.png]]
+- pace ![[Speed2FHot.png]]
+- frontage ![](https://hoi4.paradoxwikis.com/images/8/86/Tactics_combat_width.png)
+- forage ![[ButtonMapHot 1.png]]
 	- We can game forage levels with the following mechanics
 	- Patch yield
 	- Clues for patch location: 
 		- Patterning
-- quantity/microterrain
+- quantity/microterrain ![[ButtonWedgeHot.png]]
 ### what are other terrain characteristics other than their direct utility
 - positive/negative space
 - % obstructions/clearings
@@ -67,6 +74,36 @@ slot 2 success curve is at least a glancing success/foil
 - Musical notation
 - network graph
 - Algorithm
+
+### Map Compositions
+
+- node blocks
+- composition lines
+- walls and halls
+- positive/negative space
+
+use vectors
+
+multiple layers for heightmaps
+
+different colors for types
+
+living rooms - spaces where characters live or handiwork
+
+### Tips
+
+- a room needs to be big enough to feature cover, or else its irrelevant and too cramped
+
+- having cover against walls of living rooms can be unnecessary 
+
+- treat cover as player magnets
+
+- object placement in open spaces is heavily contextual to the environment
+	- avoid an even distribution; should have a pattern; think in terms of a cover network
+
+- cover is one of your primary ways to guide through the map
+
+- dont strictly follow all guidelines at all times or else the worlds will feel artificial
 # terrain utility results
 the terrain discovery check uses the standard TW13 skill check to determine a result between +x .. 0 .. -y that defines the terrain's utility in a direct relationship - higher positive values are better for the user.
 
