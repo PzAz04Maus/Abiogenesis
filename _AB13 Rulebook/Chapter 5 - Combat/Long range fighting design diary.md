@@ -1,5 +1,4 @@
-# Theory
-
+# Questions
 ## Problem statement: how do I design interesting combat maps quickly
 
 - map setting
@@ -8,12 +7,6 @@
 - structure
 - choice
 
-### Sources
-
-![](https://youtu.be/WnR40rBjGzc?si=q7JrE1122uqqthUg)
-![](https://youtu.be/y5zZ2hj5tJ4?si=pNxNKstlxa8xHxQg)
-
-![](https://youtu.be/RwlnCn2EB9o?si=i2-hxK3JEAOc5B9H)
 ## Statement 2: is giving the players a role in designing the combat map going to help with problem 1
 - having this discovery check pushes players to deeply interact with their environment
 - the design of the system already depends on players discovering valuable microterrain (lv-1) like cover concealment supplies or paths
@@ -68,19 +61,76 @@ slot 2 success curve is at least a glancing success/foil
 - average region size
 - pattern
 - number of regions found per discovery
+# Theory
+## Sources
+- Bauer, Benjamin. A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production. CRC Press. Kindle Edition. 
+![](https://youtu.be/WnR40rBjGzc?si=q7JrE1122uqqthUg)
+![](https://youtu.be/y5zZ2hj5tJ4?si=pNxNKstlxa8xHxQg)
+![](https://youtu.be/RwlnCn2EB9o?si=i2-hxK3JEAOc5B9H)
+![](https://youtu.be/o4YbGGv1n00?si=yCiTB91GSVXdetd6)
+![](https://youtu.be/uTOyP9hOhgA?si=Yr2VBBdGs2KCGbXV)
+![](https://youtu.be/S3cPJL4ISlU?si=kyv4D_YYIOdZwX-u0)
 
-## How do we record these characteristics in a short manner?
+## How do I design maps?
+types
+- open
+- closed
+-  battle
+- adventure
+##  How do we record these characteristics in a short manner?
 
-- Musical notation
+- node polygons
+- [zones of influence](https://www.youtube.com/watch?v=2-qoa6GFdss)
+	- zones are spaces that tell players a POI exists
+		- zones of influence are where players should be able to see the POI
+		- a POI has secondary elements
+		- subelements are connected to each other by visible paths or sensible circuits that funnel players
+		- characters should never be too far from a particular play hint
+	- you want your roads to end at content, not be complete circuits
+	- random city related content can also be placed by the paths
+	- between each zone of influence is a default medium
+	- problem is the source is adventure, not battle
+- lane lines
+- wall lines
+- blockouts and clusters
+- positive/negative space
+
+### Procedurally generated
+\+ 
+
+\- 
+### Cartographic levels
++high accuracy
+
++high fidelity
+
++easy to share
+
+-lots of work needed (need abstraction layers to improve workflow, so money, effort or time investments)
+
+-hard to edit
+
+### Descriptive maps ( theatre of the mind )
+-difficult to share
+
++easy to make ( few/easy abstraction layers)
+
++easy to edit
+
++high flexibilty
+
++ambiguous
+
+### Thumbnail map
+
+
+---
+
+- "Musical" notation
 - network graph
 - Algorithm
 
-### Map Compositions
-
-- node blocks
-- composition lines
-- walls and halls
-- positive/negative space
+---
 
 use vectors
 
@@ -88,23 +138,74 @@ multiple layers for heightmaps
 
 different colors for types
 
-living rooms - spaces where characters live or handiwork
+**living rooms** - spaces where characters live or handiwork
 
+using open battle maps
+- borders should dissuade interest by having fewer subelements and less paths the further away from the center they are.
 ### Tips
 
+\# of paths/options
+- 1 = not enough
+- 2 = okayish
+- 3 = admired number
+- 4 = almost too much
+- 5 = about the limit
+- 6 = too many
+
+- frequency of options
+- players need more options in the places they'll most likely fight
 - a room needs to be big enough to feature cover, or else its irrelevant and too cramped
-
 - having cover against walls of living rooms can be unnecessary 
-
 - treat cover as player magnets
-
 - object placement in open spaces is heavily contextual to the environment
 	- avoid an even distribution; should have a pattern; think in terms of a cover network
-
 - cover is one of your primary ways to guide through the map
-
 - dont strictly follow all guidelines at all times or else the worlds will feel artificial
+
 # terrain utility results
+## [Gen 2](https://www.youtube.com/watch?v=U4dutbP0DwU)
+
+### Path
+a distinct course or direction a character can move
+
+### high level lanes
+- foundation 
+- most expensive to change
+
+### mid-level options
+- mid-level are the additional options which complement your high-level layout
+- adds options between and within main lanes
+- The more your layout design has a subconscious impact and feel to it, the better.
+- medium expense to change
+
+That means you are finally ready to start adding extra mid-level paths and shape them to the environment. For example, you could consider adding thin alleyways between houses, shortcuts through buildings, conveniently placed doors or windows, grid-like streets for the US or smaller curvy routes in European cities, or organic outdoor setups. However, of course, you should stay true to your abstract high-level fundamental composition.
+
+If you always know the main paths of your enemies or they know yours, you cannot surprise each other anymore, and the level/game quickly becomes boring.
+
+base path length on .5-1 intended weapon range
+
+### low level options
+- microterrain
+- the benefits that complement what a character is trying to do
+
+the riches of a piece of terrain should relate to its type and the number of options it affords a player
+
+- midlevel paths are valuable for fighting because they allow concealment, cover, tactics, protection
+- traversal areas are valuable for moving from POI to POI quickly
+
+the frequency of paths should be limited, but... "You need more choices the longer the lanes and the more players/AI you build your map for. Especially around combat encounters, you need a good amount of get-out paths for players and potential ways for AI reinforcement."
+
+### default costs for purchasing new paths
+
+- +2: midlevel route
+- +4: high level route
+- each option increases penalty in region by 1
+- base bonus dependent on terrain type
+	- forests are cheaper, +5 to check
+	- open fields - are option poor, -2 to check
+	- flat football fields - are barren, -5 to check
+
+## Gen 1
 the terrain discovery check uses the standard TW13 skill check to determine a result between +x .. 0 .. -y that defines the terrain's utility in a direct relationship - higher positive values are better for the user.
 
 The catch is that this utility needs to be converted into a results that helps, foils, or hinders the user with a real value
@@ -128,7 +229,6 @@ yes,yes but, no but, no and
 
 Yes,yes but, no, no and
 
-
 Storytold/Abstract infantry combat
 
 V
@@ -136,37 +236,6 @@ V
 Tabletop infantry combat
 
 Encounters and dramatic encounters
-
-
-
-# Types of level designs
-
-## Procedurally generated
-\+ 
-\- 
-## Cartographic levels
-+high accuracy
-
-+high fidelity
-
-+easy to share
-
--lots of work needed (need abstraction layers to improve workflow, so money, effort or time investments)
-
--hard to edit
-
-## Descriptive maps ( theatre of the mind )
--difficult to share
-
-+easy to make ( few/easy abstraction layers)
-
-+easy to edit
-
-+high flexibilty
-
-+ambiguous
-
-## Thumbnail map
 
 # Terms
 
@@ -184,7 +253,7 @@ Regions can be any kind of polygon.
 
 In computing and programming, a layer of abstraction is a layer that provides a simple way to access what is underneath it. For example, in a computer, the operating system is a layer of abstraction between a program and the physical disk.
 
-
+old
 ---
 
 # How to manage terrain 
