@@ -1,4 +1,4 @@
-work in progress
+#work-in-progress
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.

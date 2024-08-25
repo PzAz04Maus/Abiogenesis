@@ -1,5 +1,74 @@
-#Shorthand #incomplete 
-# Questions
+#Shorthand #work-in-progress 
+# Questions & Theory
+
+## How do I run long range combat maps?
+all map types
+- open
+- closed
+-  battle
+- adventure
+##  How do we record these characteristics in a short manner?
+
+- "Musical" notation
+- network graph
+- ~~Algorithm~~
+
+- node polygons
+- [zones of influence](https://www.youtube.com/watch?v=2-qoa6GFdss)
+	- zones are spaces that tell players a POI exists
+		- zones of influence are where players should be able to see the POI
+		- a POI has secondary elements
+		- subelements are connected to each other by visible paths or sensible circuits that funnel players
+		- characters should never be too far from a particular play hint
+	- you want your roads to end at content, not be complete circuits
+	- random city related content can also be placed by the paths
+	- between each zone of influence is a default medium
+	- problem is the source is adventure, not battle
+- lane lines
+- wall lines
+- blockouts and clusters
+- positive/negative space
+
+### Procedurally generated
+\+ 
+
+\- requires software
+\- requires export
+### Cartographic levels
++high accuracy
+
++high fidelity
+
++easy to share
+
+-lots of work needed (need abstraction layers to improve workflow, so money, effort or time investments)
+
+-hard to edit
+
+### Descriptive maps ( theatre of the mind )
+-difficult to share
+
++easy to make ( few/easy abstraction layers)
+
++easy to edit
+
++high flexibilty
+
++ambiguous
+
+---
+
+use vectors
+
+multiple layers for heightmaps
+
+different colors for types
+
+**living rooms** - spaces where characters live or handiwork
+
+using open battle maps
+- borders should dissuade interest by having fewer subelements and less paths the further away from the center they are.
+
 ## Problem statement: how do I design interesting combat maps quickly
 
 - map setting
@@ -28,7 +97,7 @@ Utility is subjective because of these dependencies, so it can't directly become
 
 The most efficient way we can convert a terrain's utility into mechanical benefits while taking preferences and characteristics into account is through player choice constrained by open ended descriptors: the players determine what kind of terrain they receive, the dice decide the value.
 
-## how much value does a descriptor get you?
+## Statement 3: how much value does a descriptor get you?
 - how valuable is it
 - the volume of that valuable terrain in the region
 
@@ -38,21 +107,23 @@ could use a side dice with the choice of how valuable or how broad taking up two
 
 slot 2 success curve is at least a glancing success/foil
 
-### what terrain functions are there?
-- Cover ![[ButtonArmoredHot 1.png]]
+### what utility does terrain have?
+- passage ![[ButtonDelLastPressed.png]]
+- obstacles ![[ButtonHeightPressed.png]]
+- Cover ![[ButtonArmoredPressed.png]]
 	- Use tactics roll to determine if cover is nearby
 	- ~~Unaware enemies roll 2d20h for abstract cover~~
-- Concealment ![[ButtonLosDisabled 2.png]]
-- observation ![[ButtonReconHot 1.png]]
-- obstacles ![[ButtonHeightHot 1.png]]
-- pace ![[Speed2FHot.png]]
+- Concealment ![[ButtonLosPressed.png]]
+- observation ![[ButtonReconPressed.png]]
+- pace ![[ButtonFastPressed.png]]
 - frontage ![](https://hoi4.paradoxwikis.com/images/8/86/Tactics_combat_width.png)
-- forage ![[ButtonMapHot 1.png]]
+- forage ![[ButtonMapPressed.png]]
 	- We can game forage levels with the following mechanics
 	- Patch yield
 	- Clues for patch location: 
 		- Patterning
-- quantity/microterrain ![[ButtonWedgeHot.png]]
+- quantity/microterrain
+![[ButtonWedgePressed.png]]
 ### what are other terrain characteristics other than their direct utility
 - positive/negative space
 - % obstructions/clearings
@@ -62,87 +133,6 @@ slot 2 success curve is at least a glancing success/foil
 - average region size
 - pattern
 - number of regions found per discovery
-# Theory
-## Sources
-- Bauer, Benjamin. A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production. CRC Press. Kindle Edition. 
-![](https://youtu.be/WnR40rBjGzc?si=q7JrE1122uqqthUg)
-![](https://youtu.be/y5zZ2hj5tJ4?si=pNxNKstlxa8xHxQg)
-![](https://youtu.be/RwlnCn2EB9o?si=i2-hxK3JEAOc5B9H)
-![](https://youtu.be/o4YbGGv1n00?si=yCiTB91GSVXdetd6)
-![](https://youtu.be/uTOyP9hOhgA?si=Yr2VBBdGs2KCGbXV)
-![](https://youtu.be/S3cPJL4ISlU?si=kyv4D_YYIOdZwX-u0)
-
-## How do I design maps?
-types
-- open
-- closed
--  battle
-- adventure
-##  How do we record these characteristics in a short manner?
-
-- node polygons
-- [zones of influence](https://www.youtube.com/watch?v=2-qoa6GFdss)
-	- zones are spaces that tell players a POI exists
-		- zones of influence are where players should be able to see the POI
-		- a POI has secondary elements
-		- subelements are connected to each other by visible paths or sensible circuits that funnel players
-		- characters should never be too far from a particular play hint
-	- you want your roads to end at content, not be complete circuits
-	- random city related content can also be placed by the paths
-	- between each zone of influence is a default medium
-	- problem is the source is adventure, not battle
-- lane lines
-- wall lines
-- blockouts and clusters
-- positive/negative space
-
-### Procedurally generated
-\+ 
-
-\- 
-### Cartographic levels
-+high accuracy
-
-+high fidelity
-
-+easy to share
-
--lots of work needed (need abstraction layers to improve workflow, so money, effort or time investments)
-
--hard to edit
-
-### Descriptive maps ( theatre of the mind )
--difficult to share
-
-+easy to make ( few/easy abstraction layers)
-
-+easy to edit
-
-+high flexibilty
-
-+ambiguous
-
-### Thumbnail map
-
-
----
-
-- "Musical" notation
-- network graph
-- Algorithm
-
----
-
-use vectors
-
-multiple layers for heightmaps
-
-different colors for types
-
-**living rooms** - spaces where characters live or handiwork
-
-using open battle maps
-- borders should dissuade interest by having fewer subelements and less paths the further away from the center they are.
 ### Tips
 
 \# of paths/options
@@ -238,63 +228,6 @@ Tabletop infantry combat
 
 Encounters and dramatic encounters
 
-# Terms
-
-
-## Success Curves
-The descriptive result of a skill check. The success curve is usually described in a 0 part summary - an exceptionally positive result, a positive result, a 0 result (glance), a negative result, and an exceptionally negative result.
-## [scaling](https://en.wikipedia.org/wiki/Level_of_measurement)
-Is entirely determined by the gm, but by default consists of regions with a maximum length of 100 meters
-
-Regions consist of either positive, negative, or some fraction of the two spaces
-
-Regions can be any kind of polygon.
-
-## Layers of abstraction
-
-In computing and programming, a layer of abstraction is a layer that provides a simple way to access what is underneath it. For example, in a computer, the operating system is a layer of abstraction between a program and the physical disk.
-
-old
----
-
-# How to manage terrain 
-
-What about a list of potential terrain cards for choosing? 
-
-Terrain cards can be redesigned by the players, such as where the buildings are located in the square or the position of the treeline.
-
-Ex: sector cards
-
-
-3 buildings
-3 buildings and road
-5 buildings
-5 buildings and road
-Field
-Forest
-Forest edge, 70%
-Forest edge, 30%
-Copse
-Road
-Road and crossing
-Mud
-Swamp
-
-
-Have a negative space card and 5 positive spaces that can be organized in any way.
-
-A +5 sux can be a wildcard of whatever the players choose
-
----
-
-# Read more
-
-
-https://boardgamegeek.com/thread/2554256/terrain-effects
-
-https://companyleader.themilitaryleader.com/2023/01/30/urban-terrain-analysis/
-
-https://www.reddit.com/r/40krpg/comments/vdx00o/space_hulk_map_generator_for_wrath_glory/
 
 ---
 

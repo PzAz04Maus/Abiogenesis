@@ -21,7 +21,7 @@
 ## general mechanics and integration
 - small creature features - falling, speed, etc (may be skipped)
 - speed and agility modifiers (may be skipped)
-- [[Long range fighting|long range combat integration]]
+- [[_Main|long range combat integration]]
 - Encounter management
 
 # Rallypoint Bravo
