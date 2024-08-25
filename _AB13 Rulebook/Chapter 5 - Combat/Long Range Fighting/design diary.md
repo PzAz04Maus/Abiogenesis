@@ -1,4 +1,4 @@
-#Shorthand #work-in-progress 
+#Shorthand #solution-pending
 # Questions & Theory
 
 ## How do I run long range combat maps?

@@ -16,7 +16,6 @@ In computing and programming, a layer of abstraction is a layer that provides a 
 - https://boardgamegeek.com/thread/2554256/terrain-effects
 - https://companyleader.themilitaryleader.com/2023/01/30/urban-terrain-analysis/
 - https://www.reddit.com/r/40krpg/comments/vdx00o/space_hulk_map_generator_for_wrath_glory/
-# Sources
 - Bauer, Benjamin. A Practical Guide to Level Design: From Theory to Practice, Diplomacy and Production. CRC Press. Kindle Edition. 
 ![](https://youtu.be/WnR40rBjGzc?si=q7JrE1122uqqthUg)
 ![](https://youtu.be/y5zZ2hj5tJ4?si=pNxNKstlxa8xHxQg)
