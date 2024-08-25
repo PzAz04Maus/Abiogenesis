@@ -1,3 +1,4 @@
+#Shorthand #incomplete 
 # Questions
 ## Problem statement: how do I design interesting combat maps quickly
 
@@ -197,8 +198,8 @@ the frequency of paths should be limited, but... "You need more choices the long
 
 ### default costs for purchasing new paths
 
-- +2: midlevel route
-- +4: high level route
+- +2: midlevel choice
+- +4: high level choice
 - each option increases penalty in region by 1
 - base bonus dependent on terrain type
 	- forests are cheaper, +5 to check
