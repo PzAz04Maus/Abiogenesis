@@ -2,22 +2,22 @@
 
 Science that looks like magic and magic that looks like science
 
-Grades of fantasy (or magic) in fiction 
+## Grades of fantasy (or magic) in fiction 
 
-1 real
-1 fantasy
-2 speculative
-2 surreal
-3 hyperstition
-3 hyperstition
+- 1 real
+- 1 fantasy
+- 2 speculative
+- 2 surreal
+- 3 hyperstition
+- 3 hyperstition
 
-Fantasy refers to elements that are increasingly impossible or dreamlike, with very little scientific plausibility.
+**Fantasy** refers to elements that are increasingly impossible or dreamlike, with very little scientific plausibility.
 
-Speculative refers to things that follow the premises of reality and therfore could exist
+**Speculative** refers to things that follow the premises of reality and therfore could exist
 
-Surrealism is a mixture of reality and fantasy that only seems as real as a dream. 
+**Surrealism** is a mixture of reality and fantasy that only seems as real as a dream. 
 
-Hyperstitions are fictions that make themselves into reality despite their  fictional nature. In storytelling, this means that a creature seems to be plausibly real to an informed audience despite having no real premise to make it so. This is the ultimate stage of the suspension of disbelief, in which creatures like the xenomorph, the thing, mecha, or faster than light travel inhabits. 
+**Hyperstitions** are fictions that make themselves into reality despite their  fictional nature. In storytelling, this means that a creature seems to be plausibly real to an informed audience despite having no real premise to make it so. This is the ultimate stage of the suspension of disbelief, in which creatures like the xenomorph, the thing, mecha, or faster than light travel inhabits. 
 
 Fantasy can be converted into speculation, Surrealism or hyperstition through presentation, based on what knowledge The audience has. 
 
