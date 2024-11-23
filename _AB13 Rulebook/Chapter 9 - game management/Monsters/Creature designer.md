@@ -13,3 +13,20 @@ Psi is a reservoir of power used to manifest a psionic ability. Some abilities r
 
 If not specified, the psionic reservoir is refilled after a full rest by default.
 
+
+# Hyperstitious biology
+
+Gaseous blood
+Floating bits, fluids
+Sharp, Geometric biology
+Waterfall?
+Metal parts
+Hot weather jellyfish
+Molten material
+Asphalt and concrete for food
+Dispersal
+Violating the square cube law
+P much what xmen or Pokémon does
+Psionics
+Acidic tissues and fur, solid acids
+Chemically reactive skin - "test tube" - fiery smokey exothermic - detaching matchstick tongue

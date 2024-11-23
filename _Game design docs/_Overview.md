@@ -1,5 +1,9 @@
 # Setting Pitch
-v2
+A hardboiled roleplaying game set after a recession caused by an unearthly cosmic disaster.
+# Framing
+
+The story is framed around the characters making a living together in the aftermath of an averted apocalypse. As they make their keep through exploring a paranatural world, they gets involved in the high strangeness lurking within. 
+# Deep Dive
 
 The game takes place in a near-future, years after the Earth was been seeded with anomalous materiel and phenomena which have transformed the landscape.
 
@@ -130,6 +134,43 @@ Additional goals:
 Another definition for success would be to define the thematic tone through a concept delivered through text, visuals, and sound (like a title sequence).
 
 Since there is no 'best' settled upon theme, we will instead refer to these as the in development examples, not final release
+
+
+- High or dynamic lethality; hardcore
+- Emphasizes rapid and effective decision making
+- Emphasis on tempo
+- Empty, large battlefields
+- Emphasis on concealment
+- Emphasis on range over movement
+- Hardcore
+- Restricted information
+# What kind of adventures can Abiogenesis do out of the box?
+## Open world systems
+https://en.wikipedia.org/wiki/Open_world
+### Free roam
+Uses the encounter system
+### Job board
+socioeconomic deficiencies push demand
+
+players are presented with the options to increase player agency.
+### Networking
+Character development
+## "linear" story
+
+# Constructing Adventures
+
+```
+# Name
+
+## Summary
+## Notes
+## Design Elements
+### Hook
+### Rising action
+### Resolution
+```
+
+
 
 # sources
 

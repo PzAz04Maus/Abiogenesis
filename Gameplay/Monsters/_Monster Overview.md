@@ -1,21 +1,15 @@
-# blueprint
 
-Milestone 1 - vertical slice off creatures. Initial monster menagerie
+# source of de kuiper monsters
 
-Milestone a -  general mechanics and integration
-- small creature features - falling, speed, etc
-- speed and agility modifiers
-- long range combat integration
+terrestrial
 
-Milestone b - balance
+	mutations, random - 
 
-Milestone c - special rules
-- psionics
-- Invisibility
-- mind manipulation
-- flying
-- camouflage
+	Design - 
+	
+De Kuiper
 
-Milestone d - 
+	recreations - 
 
-Round table a - what kind of monsters do we want to make
+	Designed - 
+

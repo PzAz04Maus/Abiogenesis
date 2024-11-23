@@ -318,7 +318,7 @@ Tick Cost: Dependent on the character’s OODA value: OODA
 Table 5b: OODA Cost
 
 
-# [[Tactical Movement]]
+# [[tactical movement]]
 Movement during an exchange of fire is considered an action, and each Move action always has a tick cost of 5 ticks.
 However, tactical movement is not exclusive.
 

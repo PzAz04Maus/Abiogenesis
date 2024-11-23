@@ -1,24 +1,24 @@
 # Gameplay
 mass
-	4.6kg m829
-	.0004kg m855a1
+- 4.6kg m829
+- .0004kg m855a1
 force
-	f=ma
-	12,800,000 j m829
-	1,797 j m855a1
-	16,947.9 j gorilla punch
-	joules
+- f=ma
+- 12,800,000 j, M829
+- 1,797 j m855a1
+- 16,947.9 j gorilla punch
+- joules
 energy
-	ke = .5mv^2
-	60 kn whale, blue
-	6414kn m829
-	.185kn m855a1
-	newtons
+- ke = .5mv^2
+- 60 kn whale, blue
+- 6414kn, m829
+- .185kn, m855a1
+- newtons
 velocity
-	1670m/s m829
-	961m/s m855a1
+- 1670m/s, m829
+- 961m/s, m855a1
 accel
-	a=f/m
+- a=f/m
 
 incr stress
 

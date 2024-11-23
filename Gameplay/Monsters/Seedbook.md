@@ -1,5 +1,5 @@
-#Formatting
-
+# Ranged
+- bone-straw looking projectile with acid payload. Frangible on impact, causes internal tissue damage with some splatter
 
 Monster that creates cognitive collapse
 
@@ -663,9 +663,9 @@ Manfred Eigen showed that the heterodimer model requires PrPSc to be an extraord
 
 The mechanism of prion replication has implications for designing drugs. Since the incubation period of prion diseases is so long, an effective drug does not need to eliminate all prions, but simply needs to slow down the rate of exponential growth. Models predict that the most effective way to achieve this, using a drug with the lowest possible dose, is to find a drug that binds to fibril ends and blocks them from growing any further.[51]
 
- https://en.wikipedia.org/wiki/Fungal_prion
- https://en.wikipedia.org/wiki/Chimera_(virus)
- https://en.wikipedia.org/wiki/Fusion_protein
+ - https://en.wikipedia.org/wiki/Fungal_prion
+ - https://en.wikipedia.org/wiki/Chimera_(virus)
+ - https://en.wikipedia.org/wiki/Fusion_protein
 
 Retroviruses are valuable research tools in molecular biology, and they have been used successfully in gene delivery systems.[2]
 
@@ -757,11 +757,11 @@ seasonal areas
 	
 abscission - intentional shedding of body parts
 
-dormancy
-	torpor
-	hibernation
-	aestivation
-	cryptobiosis
+- dormancy
+	- torpor
+	- hibernation
+	- aestivation
+	- cryptobiosis
 
 Key difference between flying and swimming is the medium's density
 	flying animals need more force to stay aoirborne
@@ -774,55 +774,53 @@ rounded wings - maneuverability
 
 long narrow wings - for endurance
 	
-small leaves vs large leaves
-co2 intake 
-water loss
+- small leaves vs large leaves
+- co2 intake 
+- water loss
 
 desert animals tend to be small
-	square-cube law - larger animal is more body heat and lower body area to 
+- square-cube law - larger animal is more body heat and lower body area to 
+- Bergmann's rule - body mass negatively correlated w/ environmental temperature
 	
-	Bergmann's rule - body mass negatively correlated w/ environmental temperature
+- dulaps
+- wattles
+- large ears
 	
-	dulaps
-	wattles
-	large ears
+- desert pushes for long range
 	
-	desert pushes for long range
+- sand can hurt vulnerable parts of the body, especially eyes
 	
-	sand can hurt vulnerable parts of the body, especially eyes
-	
-	water efficiency
-		good kidneys
-		some animals can be so water efficient they only need the water of food, no additional support necessary
+- water efficiency
+	- good kidneys
+	- some animals can be so water efficient they only need the water of food, no additional support necessary
+- deserts have advantages
+	- less predators
+	- easier to scavenge
 		
-deserts have advantages
-	less predators
-	easier to scavenge
-	
-crepuscular - active at dusk and dawn
-nocturnal - active at night
+- crepuscular - active at dusk and dawn
+- nocturnal - active at night
 
 easy method to improve night vision is bigger eyes
 
 tapetum lucidum - glowing eyes element
 
 fossorial - adaptation for digging
-	tends to be fusiform - tapered at both ends
+- tends to be fusiform - tapered at both ends
 
 
 oviviparity - birth inside a mother
-	falls between oviparity and ___
-	lecithotrophy - rely on limited yolk as only source of nutrients
+- falls between oviparity and 
+- lecithotrophy - rely on limited yolk as only source of nutrients
 
 winter animals
 larger body size lets them hold more body heat
-	large, rounded bodies
-	tend to be 
+- large, rounded bodies
+- tend to be 
 	
 evolving insulation
-	fat or blubber
-	air is one of the best insulators
-	picnofibers
+- fat or blubber
+- air is one of the best insulators
+- picnofibers
 	
 vibrations much harder to detect in low density
 
@@ -849,12 +847,12 @@ an excursion
 comet breaking a phone ... ???
 
 comet passed
-	affected people
-	they got lost
-	end up in wrong home
-	didn't know where they were
-	forget things
-	woman called police to say the man in her house isn't her husband - I killed my husband yesterday
+- affected people
+- they got lost
+- end up in wrong home
+- didn't know where they were
+- forget things
+- woman called police to say the man in her house isn't her husband - I killed my husband yesterday
 	
 	
 
@@ -925,16 +923,15 @@ harassing people to death/out of a place
 
 	
 flesh default
-	The pigs have developed a protective layer of scales and bones
-	regeneration potential grew significantly
-	their nervous system became more complex.
-	A side benefit of this mutation is their enlarged eye, which can see in a greater spectrum of light and can smell with its eyes
+- The pigs have developed a protective layer of scales and bones
+- regeneration potential grew significantly
+- their nervous system became more complex
+- A side benefit of this mutation is their enlarged eye, which can see in a greater spectrum of light and can smell with its eyes
 Scientific studies
-	highly intelligent, social animals
-	https://www.vox.com/science-and-health/2019/4/17/18410611/pig-brain-nature-study-revive-cell-death-brainex
-	https://www.medicalnewstoday.com/articles/325002.php
-	
-	Pigs have panoramic vision of approximately 310° and binocular vision of 35° to 50°. It is thought they have no eye accommodation.[73] Other animals that have no accommodation, e.g. sheep, lift their heads to see distant objects.
+- highly intelligent, social animals
+- https://www.vox.com/science-and-health/2019/4/17/18410611/pig-brain-nature-study-revive-cell-death-brainex
+- https://www.medicalnewstoday.com/articles/325002.php
+- pigs have panoramic vision of approximately 310° and binocular vision of 35° to 50°. It is thought they have no eye accommodation.[73] Other animals that have no accommodation, e.g. sheep, lift their heads to see distant objects.
 
 	Pigs have a well-developed sense of smell, and use is made of this in Europe where they are trained to locate underground truffles. Olfactory rather than visual stimuli are used in the identification of other pigs.[76] Hearing is also well developed, and localisation of sounds is made by moving the head.
 	
@@ -943,6 +940,7 @@ Scientific studies
 	Pigs are one of four known mammalian species which possess mutations in the nicotinic acetylcholine receptor that protect against snake venom. Mongooses, honey badgers, hedgehogs, and pigs all have modifications to the receptor pocket which prevents the snake venom α-neurotoxin from binding. These represent four separate, independent mutations.[9] 
 
 Boar
+
 Stalker features
 	Zone boars resist radiation well, which allows them to spend long periods in heavily contaminated areas.
 	

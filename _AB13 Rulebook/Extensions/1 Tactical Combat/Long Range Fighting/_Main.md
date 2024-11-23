@@ -1,4 +1,5 @@
-#work-in-progress
+# Inspiration 
+[Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
@@ -431,3 +432,22 @@ If the two groups do not shape the battle prior to engaging (aka: complete surpr
 questions:
 - [ ] What is the size (scale?) of this region?
 
+
+
+| scales   | size | ratio to distance | timescale |
+| -------- | ---- | ----------------- | --------- |
+| gunfight | 1 m  | 1:10              | x1        |
+| cqb      |      |                   |           |
+| tight    | 10m  | 1:100             | x10       |
+| medium   |      |                   |           |
+| open     | 100m | 1:1000            | x100      |
+chain up to the scale in actions per turn
+
+# Candidates
+1. multiply distances by scale
+2. multiply tick amount by scale
+3. change movement to another system
+4. all higher scale actions are operational
+5. no change?
+6. operational actions could potentially allow fast movement
+7. 

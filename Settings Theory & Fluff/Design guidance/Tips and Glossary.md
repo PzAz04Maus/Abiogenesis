@@ -264,17 +264,3 @@ My understanding after watching was that it was an extra-dimensional entity that
 
 Proof vs. collection of general wisdom
 
-
-# source of de kuiper monsters
-
-terrestrial
-
-	mutations, random - 
-
-	Design - 
-	
-De Kuiper
-
-	recreations - 
-
-	Designed - 
