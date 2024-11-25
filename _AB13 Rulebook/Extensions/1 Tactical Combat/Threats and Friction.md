@@ -25,7 +25,9 @@ Every die that succeeds is a complication for that month, gms choice
 - **Complexity**: Complexity increases friction. 
     
 - **Unpredictable events**: Unpredictable events can change the outcome of a war.
+<img src="./Images/Pasted image 20241109182531.png" width="500"/>
 ![[Pasted image 20241109182531.png]]
+
 ---
 # friction 
 we place friction tests on a timeline
@@ -174,8 +176,12 @@ The warfighting functions are intelligence, movement and maneuver, fire support,
 
 
 https://www.google.com/books/edition/Clausewitzian_Friction_and_Future_War/EclFh0oTx-8C?hl=en&gbpv=1&kptab=overview
+<img src="./Images/Pasted image 20241109035134.png" width="500"/>
 
 ![[Pasted image 20241109035134.png]]
+
+<img src="./Images/Pasted image 20241105012240.png" width="500"/>
+
 ![[Pasted image 20241105012240.png]]
 
 ![[Pasted image 20241105012319.png]]
