@@ -1,3 +1,5 @@
+> [!NOTE]
+Deep encounters and sequences (this article) refer to the _Same concept_ expressed in different ways. I am uncertain of how I wish to choose the writeup, since both have their advantages. Maybe somebody will have an opinion.
 # Inspiration 
 [Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 # Design
