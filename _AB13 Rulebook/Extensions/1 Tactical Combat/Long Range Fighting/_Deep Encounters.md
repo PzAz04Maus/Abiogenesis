@@ -10,7 +10,7 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 
 [grishno](images/grishno image.png)
 
-[grishno](.\images\grishno image.png)
+[Grishno](_AB13 Rulebook/Extensions/1 Tactical Combat/Long Range Fighting/Images/grishno image.png)
 
 [grishno](..\images\grishno image.png)
 
