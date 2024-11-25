@@ -1,66 +1,17 @@
-> [!NOTES]
-Deep encounters (this article) and sequences refer to the _Same concept_ expressed in different ways. I am uncertain of how I wish to choose the writeup, since both have their advantages. Maybe somebody will have an opinion. 
->
->Secondly, Deep encounters have the unfortunate problem of using real life terms at a scale it was not originally meant to be used for. In my defense, I'm a gigantic nerd about military jargon, and I felt that the macroscale utility of the terms was effective enough to apply to the microscale of a party of murder hobos. A sort of "As above, so below" situation.
-
->“Gone were the times when on the battlefield one might view an individual action during which victory was attained with a single blow.”
->- Clausewitz
-
-
-# Inspiration 
-[Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
-
-<img src="./Images/grishno image.png" width="500"/>
-![[grishno image.png|500]]
-
-Demo node map
+work in progress
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
 
 To handle these infantry battles in an efficient and fun manner, Ab13 needs to create a new structure for the longer infantry battle.
 
-# Deep encounters
-The radio, car, and rifle have created an incomparable set of circumstances to what fights look like in the modern era. Creating a genuine impression of a modern gunfight is very difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters.
-
-Wrapping our heads around a modern fight therefore requires us to structure things into levels of scale.
-
-For the conflicts that soldiers, mercenaries or adventurers of modern RPGs face, we will need to define what fighting means by the 3 aspects of battle: tactical, operational, and strategic. [^1] ~~These levels have no definite boundaries or limits from each other; instead, they are levels of analysis that are designed to simplify understanding the problem.~~
-
-essentially we have the level of detail increase as we zoom in further.
-
-## The Tactical Aspect
-- the skirmish map - "the main target" - where the combat is expected to happen
-- hard combat
-- individual responses, microterrain
-
-## The operational aspect
-- the squad (party's) decision making scale, when everyone sits down and says "in this wide variety of objects, we're focusing on x"
-- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- Operational points, nodes - parts of town, sections of street
-- macro scale, the command action which people focus on
-	- the macro of combat, more generalized in keeping track of the firefight
-	- During the command phase, there's a tactical pause 
-	- there's a threat, but it's currently a pause
-## The strategic aspect
-- strategic points - whats on the horizon
-
-## gameplay value of deep encounters
-- You get to play a sniper type more effectively
-- You can play characters with long distance endurance
-- You can play with wider pieces of terrain to support your movements
-- Flanking is more valuable
-- Tactical depth
-- Movement is more deliberate because range outpaces movement
-- Assault phase
-
 # Operational Combat
 
-An **operational scene** is the collection of all [[Abiogenesis/_AB13 Rulebook/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]], pauses, [[Abiogenesis/_AB13 Rulebook/Chapter 5 - Combat/_Master#Operational Actions|operational actions]], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
+An **operational scene** is the collection of all exchanges of fire, pauses, operational actions, or operational movements. These are referred to as **operational decisions**. Operational scenes begin upon approach of the enemy.
 
 Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
-To simplify matters, a group may chain multiple operational decisions together and then resolve it as one unit.
+To simplify matters, a group may sequence their operational decisions together and then resolve it.
 
 Operational decisions range from 20 to 80 seconds in length, but can be simplified to 60. With an **operational move** action, a group may move up to 10 times their best possible tactical speed. This move speed may be increased with an athletics or drive check as applicable.
 
@@ -68,34 +19,34 @@ The only time an attack can be made on the operational scale is during an exchan
 
 Information about the enemy group is limited during the operational scene; characters only know where the enemy's center is, and are to be given no instructions on enemy intentions other than what they can intuit themselves, unless they make a reconnaissance  check (previously known as the keep watch check). 
 
-The Withdraw operational action is now classified as a [[Abiogenesis/_AB13 Rulebook/Chapter 3 - System/_Master#staged rules|Stage]] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
+The Withdraw operational action is now classified as a Stage I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or intervisible concealment.
 
 ## Stage III: Actions higher than operational
 
-If Operational scenes aren't fast enough (a feat at this current stage), the GM can opt for a **strategic scene** instead.
+If Operational scenes aren't fast enough (A feat at this current stage), the GM can opt for a **strategic scene** instead.
 
 Strategic scenes are simply operational scenes scaled up by a multiplier of 100, 300, 600, or 2400, which represent about 10 minutes, 30 minutes, 60 minutes, or 4 hour increments. At this timescale, the main things to be concerned about are movement and information.
 
 # The approach
-
 The first question is when do two forces meet? This is defined by the range which at least one force directly views another.
-## Candidate: Stock Tactical engagement distance
+Stock Tactical engagement distance
+---
 
 - roll the engagement contest in advance, keep written on the scratchpad. Positive is in the party's favor, negative in the OPFOR's favor
 - when the approach occurs, modify the contest result
 
-problems with the [[mil Sources & Terms#Engagement|engagement]] contest:
+problems with the engagement contest:
 - it has 2 characteristics: when and how far the two forces are detected
 	- but that is already the case because distance represents time...
 - for instance 
 
 - Far end of the grid
 
-- [[RPG terms|XMS]] - as sux
-- sux: [[RPG terms|geometric]] scale, +25%
+- XMS - as sux
+- sux: exponential scale, +25% 
 - 0 - as stock
-- fail: [[RPG terms|linear]] scale, -25%
-- [[RPG terms|XMF]] - Completely unaware
+- fail: linear scale, -25%
+- XMF - Completely unaware
 
 Looking into another grid has additional penalties
 
@@ -120,8 +71,10 @@ all tells increase other forces effective rating against that group
 
 # Operational terrain
 
->[!Quote]
- A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
+
+```
+A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
+```
 
 The infantry battle has a major problem where relevant-critical details can exist on layer 0 or layer -1, but we can't draw both fully and efficiently - we must constantly simplify out things such as microterrain or dead space, while taking them into account.
 
@@ -143,13 +96,15 @@ Leaders can move across these different subregions, or find access to new subreg
 
 Characters may identify microfeatures to support their actions with a tactics check while supplies last and the enemy permits (ie: as they get progressively more pinned).
 
+
 # microterrain
 ## cover
-A character who decides that they will look for [dead space](https://en.wikipedia.org/wiki/Enfilade_and_defilade) rolls a tactics check. 
+A character who decides that they will look for dead space cover rolls a tactics check. 
 
 On success, they may place one piece of terrain with a combat value equal to their margin of success adjacent to where they started or ended within reason.
 
 This piece of cover stays for the duration of the fight
+
 ## paths
 
 ## level 1 features - broad landscape
@@ -158,32 +113,74 @@ Set n polygons on the board with m corners. Different polygons can lay on top of
 
 Is it a forest, town, plain
 
-All forces roll their stealth/observation checks and are then listed on a ranking system against each other.
+Is the predominant feature negative or positive space
 
-Those with a +4 in the stealth game will see weaker opponents first at up to 200 meters
+Is the outlie/frontier positive or negative space.
 
-Those with +9 will see opponents first at up to 400 meters
+Improvise these decisions
 
 
 Typically n is set to 1, maybe 2
 
 M is dependent on broad features.
 
-\+ simplifies multilateral force problems
-\- all bilateral node relations are poorly modelled, such as distance between nodes (Only the players relation to all elements should be modeled tbh)
-\- no mixed behavior for stealth/observation (probably too complicated to make a good model for)
+Gms are encouraged to interpret, embellish and improvise these features according 
 
-# Running operational maps
+Level 1 polygons are the shape of the lands area
+
+### using Simple polygons to shape level 1 map designs
+https://en.m.wikipedia.org/wiki/Simple_polygon
+a polygon that does not intersect itself and has no holes
+
+https://en.m.wikipedia.org/w/index.php?title=Internal_and_external_angles&diffonly=true
+
+https://stackoverflow.com/questions/8997099/algorithm-to-generate-random-2d-polygon
+
+Drop a number of dice on the table and use each point as a polygon
+
+
+A walk...
+Take a line, then roll 1d36/2 = evens positive,  odds negative. This is how much of a turn is made in 10 degree increments.
+
+We do this for n nodes, then connect the first and last node to finish a po
+## level 0 polygons - features
+
+Level 0 polygons are the shape of the features of the land. Players add
+
+
+--- 
+
+## Layer 0 placement.
+
+A layer 0 test determines who places the terrain, what its general shape looks like and where that terrain goes. 
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
+
+
 # Sources
-- https://en.wikipedia.org/wiki/Spatial_scale
-- https://en.wikipedia.org/wiki/Scale_(map)
-- https://en.wikipedia.org/wiki/Level_of_measurement
+https://en.wikipedia.org/wiki/Spatial_scale
+https://en.wikipedia.org/wiki/Scale_(map)
+https://en.wikipedia.org/wiki/Level_of_measurement
 
 Level of detail
 
 [Symbols](https://en.wikipedia.org/wiki/Map_symbol) versus scale
+
+
+## gameplay value of long range combat
+You get to play a sniper type
+
+You can play characters who have long distance speed
+
+You can play with wider pieces of terrain to support your movements
+
+Flanking is more valuable
+
+Tactical depth
+
+Movement is more deliberate because range outpaces movement
+
+Assault phase
 
 # Running layer 0
 
@@ -195,7 +192,6 @@ Layer 0 elements
 - Number of initial regions
 - Number of additional regions?
 
-## Layer 0 placement
 
 # Layer -1
 
@@ -203,18 +199,17 @@ Tactics check with a tn based on layer 0.
 # Sources
 
 https://www.reddit.com/r/40krpg/comments/vdx00o/space_hulk_map_generator_for_wrath_glory/
-
+# old
 
 
 
 ---
-# Old stuff
 
 using gravitational attraction to model chasedowns?
 
-> **Gravitational Force = (Gravitational Constant × Mass of first object × Mass of the second object) / (Distance between the centre of two bodies)^2**.
+**Gravitational Force = (Gravitational Constant × Mass of first object × Mass of the second object) / (Distance between the centre of two bodies)2**.
 
->Actor_observe \* target_stealth / distance (in 100 meters)
+Actor_observe \* target_stealth / distance (in 100 meters)
 
 +2 \* -4 / 4
 
@@ -225,19 +220,20 @@ using gravitational attraction to model chasedowns?
 4/2 = +2
 
 Stealth - observe / distance
-- positive = stealth wins
-- negative = observe wins
+
+positive = stealth wins
+negative = observe wins
 
 -4 - -4 = 0
 
-- 4\*2= 8
-- 4\*1 = 4
+4\*2= 8
+4\*1 = 4
 
-- 4/1 = 4
-- 4/2 = 2
-- 4/3 = 1.33
-- 4/4 = 1
-- 4/5 = .8
+4/1 = 4
+4/2 = 2
+4/3 = 1.33
+4/4 = 1
+4/5 = .8
 
 ---
 
@@ -266,9 +262,10 @@ This simplification saves us from needing to accurately measure and scale each b
 ---
 
 Encounter methods
-- Timing
-- Spawn and behave
-- Track down
+
+Timing
+Spawn and behave
+Track down
 
 Maybe there's no way to realize observation as anything more than abstract numbers. Real detail may be too complicated to make
 
@@ -304,9 +301,9 @@ old
 
 candidate formula 1: imagine a node with a detection radius around it: all nodes inside that detection radius automatically become aware of the node's existence.
 
-- \+ Simplified system
-- \+economical on resolving rolls
-- \-
+\+ Simplified system
+\+economical on resolving rolls
+\-
 
 according to the range band card, an MOS of zero would be a detection footprint of 7 meters.
 
@@ -325,20 +322,20 @@ alternatively, this could be in competition with the opponents' detection roll, 
 
 Scaling time periods for range bands?
 
-- 1 - 1x
-- 7 - 1x
-- 25 - 1x. 7/13
-- 100 - 4x 28/52m
-- 200 - 8x 104m
-- 400 - 16x 208m
-- 800 - 32x 416m
-- 1600 - 64x 832m
+1 - 1x
+7 - 1x
+25 - 1x. 7/13
+100 - 4x 28/52m
+200 - 8x 104m
+400 - 16x 208m
+800 - 32x 416m
+1600 - 64x 832m
 
--  100 - 1x - 13m tick 1.5 sec
-- 200 - 2x - 26m tick 3 sec
-- 400 - 4x - 52m tick 6 sec
-- 800 - 8x - 104m tick 12 sec
-- 1600 - 16x - 208m tick 24 sec
+100 - 1x - 13m tick 1.5 sec
+200 - 2x - 26m tick 3 sec
+400 - 4x - 52m tick 6 sec
+800 - 8x - 104m tick 12 sec
+1600 - 16x - 208m tick 24 sec
 
 ---
 
@@ -434,88 +431,3 @@ If the two groups do not shape the battle prior to engaging (aka: complete surpr
 questions:
 - [ ] What is the size (scale?) of this region?
 
-
-
-| scales   | size | ratio to distance | timescale |
-| -------- | ---- | ----------------- | --------- |
-| gunfight | 1 m  | 1:10              | x1        |
-| cqb      |      |                   |           |
-| tight    | 10m  | 1:100             | x10       |
-| medium   |      |                   |           |
-| open     | 100m | 1:1000            | x100      |
-chain up to the scale in actions per turn
-
-# Candidates
-1. multiply distances by scale
-2. multiply tick amount by scale
-3. change movement to another system
-4. all higher scale actions are operational
-5. no change?
-6. operational actions could potentially allow fast movement
-
-
----
-# Old
-
-
-# dryad's response
-
-"hard combat, soft combat, exploration"
-- **the hard combat is where each individual responds**
-
-a telescoping effect
-
-the tactical pause is the globe encompassing
-
-skirmish teams working
-
-this may be something for people to focus on for the missing link
-"Combat starts when they realize a threat"
-GMs may be already acting as if the people are already in combat
-
-The people who are aware first immediately start combat once they decide to shoot first
-
-use the OODA device to explain it
-
-the solution and problem is the ability to design a map that naturally causes players to utilize it
-- this is essential to the patrol simulator type of gameplay
-
-trying to create the inbetween of exploration and combat into soft and hard combat
-
-the role of crew served weapons are in soft combat phases
-
-long range skirmishes are a one sided romance kissed with lead
-
----
-
-#  pepsi's response
-
-3 phases
-- strategic map - world map - not great detail
-- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- tactical map - the skirmish map - "the main target" - where the combat is expected to happen
-
-have the phases be based on distance
-
-different options based on which phase you're in
-
-in killteam, there's concealment then engagement orders
-- when in concealment, you can't dash but harder to hit, can shoot if silenced
-- engagement order: you can sprint, run, charge into melee
-
-There is always going to be a house, but then you can add additional stuff
-
-essentially we have the level of detail increase as we zoom in further.
-
-you go through the world map, you pick the area, then we load in the area
-	We have the outside area to work with as well
-
-[gradation](adjective gradient)
-
----
-# influences
-
-fallout boardgame: into the wasteland - exploring the wastes, randomly generated maps to have to fight in
-- may be something to look into
-- bridging things together
-- also a settlement mode

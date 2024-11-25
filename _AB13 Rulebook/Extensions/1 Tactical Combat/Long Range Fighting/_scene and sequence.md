@@ -13,7 +13,7 @@ The group spotting roll is determined by averaging the groups spot dice (all spo
 
 The starting distance of a successful roll may be modified with the magnification rating of binoculars. If only a few people have binos, the chance their magnification is used is determined by chance (bino guy rolls 1d20,gm rolls 1d20. Whoever is higher wins)
 
-At the discretion of the players, side dice may be allocated for concealment, which penalized the opponents resulting ooda roll.
+At the discretion of the players, [[Roll mechanics#tradeoffs|side dice]] may be allocated for concealment, which penalized the opponents resulting [[Abiogenesis/_AB13 Rulebook/Chapter 3 - System/_Master#Observe-Orient-Decide-Act (OODA)|ooda]] roll.
 
 The size of the opponent changes the distance by a number of steps
 

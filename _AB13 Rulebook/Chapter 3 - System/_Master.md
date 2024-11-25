@@ -676,6 +676,8 @@ A character with a high CUF can unflinchingly face threats that freeze less 
  CUF in Skill Checks: CUF is never applied to skill checks, except in limited circumstances dictated by specific combat rules.
  CUF Attribute Checks: A CUF check determines the character’s ability to resist fear of death or injury.
 Accordingly, CUF checks occur only in specific circumstances determined by combat events – see Chapter Five.
+
+]]
 ## Observe-Orient-Decide-Act (OODA) 
 Observe-Orient-Decide-Act determines how quickly a character can react to sudden, unexpected events, usually violent ones.
 This primarily stems from mental flexibility, but physical reflex speed is also a consideration.

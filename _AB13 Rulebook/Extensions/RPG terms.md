@@ -1,3 +1,8 @@
+# MOS
+Margin of success
+
+# MOF
+Margin of failure.
 # XMS
 
 Exceptional Margin of success. By default, a margin of +5 or more on the roll
