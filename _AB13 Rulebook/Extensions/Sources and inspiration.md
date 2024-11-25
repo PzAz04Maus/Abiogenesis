@@ -32,7 +32,7 @@ https://youtu.be/2BTa6IFPpso?si=EDblOAz5ykju3vF_
 
 # social tension
 
-# hazards, events and urbex
+# Friction, hazards, events and urbex
 
 https://www.google.com/books/edition/Clausewitzian_Friction_and_Future_War/EclFh0oTx-8C?hl=en&gbpv=0&kptab=overview
 

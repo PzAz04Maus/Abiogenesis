@@ -129,6 +129,7 @@ As the saying goes: It takes two to tango.
 
 Combat always begins with an exchange of fire, never with a pause.
 
+
 ## Exchanges of Fire
 At the beginning of an exchange of fire, every participant in the combat receives a base initiative value determined by his current encumbrance (see p. 206 for rules on determining a character’s encumbrance level):
 
@@ -188,7 +189,6 @@ Every combatant who presses at the end of an exchange of fire increases his base
 
 Remember that a character who is broken (see p. 159) must hold.
 His self-preservation drive prevents him from pressing for continued hostilities.
-
 # Pauses
 A pause is a lull in combat when no one is making attacks.
 This isn’t to say that combat is over, just that bullets aren’t flying at that particular moment.
@@ -365,7 +365,6 @@ One Move action is required to mount or dismount a motorcycle or similar open ve
 Two Move actions allow the character to enter or exit a normal passenger or cargo vehicle or to mount an animal.
 
 Three Move actions are required to enter or exit a combat vehicle or other conveyance with limited access.
-
 
 # Operational Actions
 Operational actions are those that a character takes to prepare for the next set of tactical actions in one way or another.

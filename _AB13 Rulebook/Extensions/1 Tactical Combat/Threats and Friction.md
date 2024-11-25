@@ -15,8 +15,6 @@ Every die that succeeds is a complication for that month, gms choice
 
 ---
 
-
-
 - **Chance and action**: The interaction of chance and action can cause friction. 
     
 - **Enemy forces**: Enemy forces can cause friction. 

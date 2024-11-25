@@ -1,4 +1,33 @@
 # Terms
+# Mil Terms
+My definitions
+## Microterrain
+See  [intervisibility lines](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) and [dead space](https://en.wikipedia.org/wiki/Enfilade_and_defilade).
+## Engagement
+The point at which two forces are close enough to fight or to make an effective attack during an encounter.
+### Skirmish
+An engagement with only limited commitment between the forces and without decisive results. [^2] See raids, patrols, and meeting engagements.
+### Battle
+A tactical engagement with committed forces intended for a decisive effect.
+
+> The conduct of war in the era of Napoleon schematically consisted of two basic stages that were far from equal in scope and duration. These stages included a long march along an extended operational line and a short battle in one locale upon completion of the march. Clausewitz described the situation as follows: “In the eyes of strategy, the field of battle is no more than a single point, just as the duration of battle is no more than a single moment.”[^3]
+
+Modern battle has acquired depth in the dimensions of time and space, therefore it is sometimes defined as a *set* of engagements.
+## Tactics
+The efforts used to succeed on the battlefield[^1]
+## Operation
+tl;dr - the arrangement of combat efforts over a long period of time or space.
+
+There is debate over whether operations actually exist, or should be considered a type of modern battle. For our purposes, a battle of large duration and an operation overlap.
+
+> During the second half of the nineteenth century, the brief battle of shock action was transformed into a continuous firepower battle that acquired a protracted dimension in time. Battles during Moltke’s age extended 10-12 hours. At the same time, they failed to yield the decisive outcome so typical of Napoleon’s time. Firepower appeared unable to resolve the issue during one act in a single sector. At the conclusion of a battle, the enemy was not completely destroyed; he gradually retired, reorganized his formations in a new sector, and once again prepared to give battle. Thus, the chain of combat efforts became distributed in depth.[^3]
+
+> Operational art ... is the planning, preparation, synchronization, and sustainment of tactics over a sustained period of time, a large geographic expanse, or both.[^1]
+## Strategy
+The methods used to convert battlefield successes for the greatest result.[^1]
+## POI
+Point of Interest
+# Concepts
 ## Success Curves
 The descriptive result of a skill check. The success curve is usually described in a 0 part summary - an exceptionally positive result, a positive result, a 0 result (glance), a negative result, and an exceptionally negative result.
 ## [scaling](https://en.wikipedia.org/wiki/Level_of_measurement)
@@ -256,3 +285,7 @@ Players are limited by several factors including finances which are used in buyi
 
 - Vehicle Transportation; **JA2** featured a few logistical vehicle transportation such as Hummers and Helicopters.  These vehicles allowed squads to move across vast distances at much faster speeds.  The helicopter was the fastest vehicle but it was susceptible to enemy Surface to Air missile fire, which meant players had to undergo an operation to knock out enemy SAM Sites in the region before being able to fully use the helicopter in that particular area.  As a bonus the helicopter pilot would give you a recon report if he spotted enemies nearby the drop zone.  Ground vehicles required fuel which can be found throughout the country and the driver was the only person in the squad that had to be awake allowing the rest of your squad to rest up.  **Back in Action** had no vehicle transportation what so ever.
 
+---
+[^1]:Friedman, Brett. On Operations: Operational Art and Military Disciplines. Naval Institute Press. Kindle Edition. 
+[^2]: https://en.wikipedia.org/wiki/Battle
+[^3]:Isserson, Brigade Commander Georgii Samoilovich . The Evolution of Operational Art. Kindle Edition. 

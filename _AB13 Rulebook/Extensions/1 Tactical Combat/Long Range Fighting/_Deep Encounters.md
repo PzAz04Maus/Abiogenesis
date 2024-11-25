@@ -1,13 +1,21 @@
-> [!NOTE]
-Deep encounters and sequences (this article) refer to the _Same concept_ expressed in different ways. I am uncertain of how I wish to choose the writeup, since both have their advantages. Maybe somebody will have an opinion.
+> [!NOTES]
+Deep encounters (this article) and sequences refer to the _Same concept_ expressed in different ways. I am uncertain of how I wish to choose the writeup, since both have their advantages. Maybe somebody will have an opinion. 
+>
+>Secondly, Deep encounters have the unfortunate problem of using real life terms at a scale it was not originally meant to be used for. In my defense, I'm a gigantic nerd about military jargon, and I felt that the macroscale utility of the terms was effective enough to apply to the microscale of a party of murder hobos. A sort of "As above, so below" situation.
+
+>“Gone were the times when on the battlefield one might view an individual action during which victory was attained with a single blow.”
+>- Clausewitz
 # Inspiration 
 [Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
+
+![[grishno image.png|500]]
+
+Demo node map
 # Design
 
 While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
 
 To handle these infantry battles in an efficient and fun manner, Ab13 needs to create a new structure for the longer infantry battle.
-
 
 # Deep encounters
 The radio, car, and rifle have created an incomparable set of circumstances to what fights look like in the modern era. Creating a genuine impression of a modern gunfight is very difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters.
@@ -24,25 +32,32 @@ essentially we have the level of detail increase as we zoom in further.
 - individual responses, microterrain
 
 ## The operational aspect
+- the squad (party's) decision making scale, when everyone sits down and says "in this wide variety of objects, we're focusing on x"
 - operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- Operational points, nodes - "parts of town"
+- Operational points, nodes - parts of town, sections of street
 - macro scale, the command action which people focus on
-- the tactical pause  
-- there's a threat, but it's currently a pause
-- the macro of combat, more generalized in keeping track of the firefight
-- the global decision making of the squad, when everyone sits down and says "this global section of the term, we'll focus on x"
-
+	- the macro of combat, more generalized in keeping track of the firefight
+	- During the command phase, there's a tactical pause 
+	- there's a threat, but it's currently a pause
 ## The strategic aspect
 - strategic points - whats on the horizon
 
+## gameplay value of deep encounters
+- You get to play a sniper type more effectively
+- You can play characters with long distance endurance
+- You can play with wider pieces of terrain to support your movements
+- Flanking is more valuable
+- Tactical depth
+- Movement is more deliberate because range outpaces movement
+- Assault phase
 
 # Operational Combat
 
-An **operational scene** is the collection of all exchanges of fire, pauses, operational actions, or operational movements. These are referred to as **operational decisions**. Operational scenes begin upon approach of the enemy.
+An **operational scene** is the collection of all [[Abiogenesis/_AB13 Rulebook/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]], pauses, [[Abiogenesis/_AB13 Rulebook/Chapter 5 - Combat/_Master#Operational Actions|operational actions]], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
 
 Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
-To simplify matters, a group may sequence their operational decisions together and then resolve it.
+To simplify matters, a group may chain multiple operational decisions together and then resolve it as one unit.
 
 Operational decisions range from 20 to 80 seconds in length, but can be simplified to 60. With an **operational move** action, a group may move up to 10 times their best possible tactical speed. This move speed may be increased with an athletics or drive check as applicable.
 
@@ -50,34 +65,34 @@ The only time an attack can be made on the operational scale is during an exchan
 
 Information about the enemy group is limited during the operational scene; characters only know where the enemy's center is, and are to be given no instructions on enemy intentions other than what they can intuit themselves, unless they make a reconnaissance  check (previously known as the keep watch check). 
 
-The Withdraw operational action is now classified as a Stage I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or intervisible concealment.
+The Withdraw operational action is now classified as a [[Abiogenesis/_AB13 Rulebook/Chapter 3 - System/_Master#staged rules|Stage]] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
 
 ## Stage III: Actions higher than operational
 
-If Operational scenes aren't fast enough (A feat at this current stage), the GM can opt for a **strategic scene** instead.
+If Operational scenes aren't fast enough (a feat at this current stage), the GM can opt for a **strategic scene** instead.
 
 Strategic scenes are simply operational scenes scaled up by a multiplier of 100, 300, 600, or 2400, which represent about 10 minutes, 30 minutes, 60 minutes, or 4 hour increments. At this timescale, the main things to be concerned about are movement and information.
 
 # The approach
+
 The first question is when do two forces meet? This is defined by the range which at least one force directly views another.
-Stock Tactical engagement distance
----
+## Candidate: Stock Tactical engagement distance
 
 - roll the engagement contest in advance, keep written on the scratchpad. Positive is in the party's favor, negative in the OPFOR's favor
 - when the approach occurs, modify the contest result
 
-problems with the engagement contest:
+problems with the [[mil Sources & Terms#Engagement|engagement]] contest:
 - it has 2 characteristics: when and how far the two forces are detected
 	- but that is already the case because distance represents time...
 - for instance 
 
 - Far end of the grid
 
-- XMS - as sux
-- sux: exponential scale, +25% 
+- [[RPG terms|XMS]] - as sux
+- sux: [[RPG terms|geometric]] scale, +25%
 - 0 - as stock
-- fail: linear scale, -25%
-- XMF - Completely unaware
+- fail: [[RPG terms|linear]] scale, -25%
+- [[RPG terms|XMF]] - Completely unaware
 
 Looking into another grid has additional penalties
 
@@ -102,10 +117,8 @@ all tells increase other forces effective rating against that group
 
 # Operational terrain
 
-
-```
-A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
-```
+>[!Quote]
+ A **map** is a [symbolic](https://en.wikipedia.org/wiki/Symbol "Symbol") depiction emphasizing relationships between elements of some space, such as [objects](https://en.wikipedia.org/wiki/Physical_body "Physical body"), [regions](https://en.wikipedia.org/wiki/Region "Region"), or themes.
 
 The infantry battle has a major problem where relevant-critical details can exist on layer 0 or layer -1, but we can't draw both fully and efficiently - we must constantly simplify out things such as microterrain or dead space, while taking them into account.
 
@@ -127,15 +140,13 @@ Leaders can move across these different subregions, or find access to new subreg
 
 Characters may identify microfeatures to support their actions with a tactics check while supplies last and the enemy permits (ie: as they get progressively more pinned).
 
-
 # microterrain
 ## cover
-A character who decides that they will look for dead space cover rolls a tactics check. 
+A character who decides that they will look for [dead space](https://en.wikipedia.org/wiki/Enfilade_and_defilade) rolls a tactics check. 
 
 On success, they may place one piece of terrain with a combat value equal to their margin of success adjacent to where they started or ended within reason.
 
 This piece of cover stays for the duration of the fight
-
 ## paths
 
 ## level 1 features - broad landscape
@@ -159,59 +170,17 @@ M is dependent on broad features.
 \- all bilateral node relations are poorly modelled, such as distance between nodes (Only the players relation to all elements should be modeled tbh)
 \- no mixed behavior for stealth/observation (probably too complicated to make a good model for)
 
-# Operational terrain
-
-The infantry battle has a major problem where relevant-critical details can exist on layer 0 or layer -1, but we can't draw both fully and efficiently - we must constantly simplify out things such as microterrain or dead space, while taking them into account.
-
-Playing at the operational level requires terrain to be simplified with abstractions, called the level of detail.
-
-Infantry battle maps have 3 layers. Each successive layer receives more player input
-
-The most important level of detail is the base layer (0), followed by the landscape layer. Layer 0 handles most microfeatures as undepicted abstractions, unless necessary to a character.
-
-**layer 1**: the landscape where the fight is located. The choice of layer 1 determines what layer 0 features can be picked and what mapwide behaviors exist in the map. layer 1 is always decided by the story. 
-
-**layer 0**: the immediate features of the environment, the positive or negative space available that define the boundaries or spaces on the map. 
-
-Layer zero starts with an initial subregion of (combat length) in distance with zero or more subregions attached to it. The combat value of a subregion depends on either random chance or the ability of a leader to locate good terrain.
-
-Leaders can move across these different subregions, or find access to new subregions to move to work a tactics check, though at some point they will run out of options. Once a subregion is established it cannot be changed.
-
-**layer -1**: the microfeatures that the players immediately use but are seldom drawn.
-
-Characters may identify microfeatures to support their actions with a tactics check while supplies last and the enemy permits (ie: as they get progressively more pinned).
-
-## Layer 0 placement.
-
 # Running operational maps
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
-
-
 # Sources
-https://en.wikipedia.org/wiki/Spatial_scale
-https://en.wikipedia.org/wiki/Scale_(map)
-https://en.wikipedia.org/wiki/Level_of_measurement
+- https://en.wikipedia.org/wiki/Spatial_scale
+- https://en.wikipedia.org/wiki/Scale_(map)
+- https://en.wikipedia.org/wiki/Level_of_measurement
 
 Level of detail
 
 [Symbols](https://en.wikipedia.org/wiki/Map_symbol) versus scale
-
-
-## gameplay value of long range combat
-You get to play a sniper type
-
-You can play characters who have long distance speed
-
-You can play with wider pieces of terrain to support your movements
-
-Flanking is more valuable
-
-Tactical depth
-
-Movement is more deliberate because range outpaces movement
-
-Assault phase
 
 # Running layer 0
 
@@ -223,6 +192,7 @@ Layer 0 elements
 - Number of initial regions
 - Number of additional regions?
 
+## Layer 0 placement
 
 # Layer -1
 
@@ -230,17 +200,18 @@ Tactics check with a tn based on layer 0.
 # Sources
 
 https://www.reddit.com/r/40krpg/comments/vdx00o/space_hulk_map_generator_for_wrath_glory/
-# old
+
 
 
 
 ---
+# Old stuff
 
 using gravitational attraction to model chasedowns?
 
-**Gravitational Force = (Gravitational Constant × Mass of first object × Mass of the second object) / (Distance between the centre of two bodies)2**.
+> **Gravitational Force = (Gravitational Constant × Mass of first object × Mass of the second object) / (Distance between the centre of two bodies)^2**.
 
-Actor_observe \* target_stealth / distance (in 100 meters)
+>Actor_observe \* target_stealth / distance (in 100 meters)
 
 +2 \* -4 / 4
 
@@ -251,20 +222,19 @@ Actor_observe \* target_stealth / distance (in 100 meters)
 4/2 = +2
 
 Stealth - observe / distance
-
-positive = stealth wins
-negative = observe wins
+- positive = stealth wins
+- negative = observe wins
 
 -4 - -4 = 0
 
-4\*2= 8
-4\*1 = 4
+- 4\*2= 8
+- 4\*1 = 4
 
-4/1 = 4
-4/2 = 2
-4/3 = 1.33
-4/4 = 1
-4/5 = .8
+- 4/1 = 4
+- 4/2 = 2
+- 4/3 = 1.33
+- 4/4 = 1
+- 4/5 = .8
 
 ---
 
@@ -293,10 +263,9 @@ This simplification saves us from needing to accurately measure and scale each b
 ---
 
 Encounter methods
-
-Timing
-Spawn and behave
-Track down
+- Timing
+- Spawn and behave
+- Track down
 
 Maybe there's no way to realize observation as anything more than abstract numbers. Real detail may be too complicated to make
 
@@ -332,9 +301,9 @@ old
 
 candidate formula 1: imagine a node with a detection radius around it: all nodes inside that detection radius automatically become aware of the node's existence.
 
-\+ Simplified system
-\+economical on resolving rolls
-\-
+- \+ Simplified system
+- \+economical on resolving rolls
+- \-
 
 according to the range band card, an MOS of zero would be a detection footprint of 7 meters.
 
@@ -486,7 +455,7 @@ chain up to the scale in actions per turn
 # Old
 
 
-#  dryad's response
+# dryad's response
 
 "hard combat, soft combat, exploration"
 - **the hard combat is where each individual responds**

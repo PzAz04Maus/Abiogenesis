@@ -13,11 +13,13 @@ all map types
 - network graph
 - ~~Algorithm~~
 
+
+
 - node polygons
 - [zones of influence](https://www.youtube.com/watch?v=2-qoa6GFdss)
-	- zones are spaces that tell players a POI exists
-		- zones of influence are where players should be able to see the POI
-		- a POI has secondary elements
+	- zones are spaces that tell players a [[mil Sources & Terms#POI|POI]] exists
+		- zones of influence are where players should be able to see the [[mil Sources & Terms#POI|POI]]
+		- a [[mil Sources & Terms#POI|POI]] has secondary elements
 		- subelements are connected to each other by visible paths or sensible circuits that funnel players
 		- characters should never be too far from a particular play hint
 	- you want your roads to end at content, not be complete circuits
@@ -235,6 +237,5 @@ Encounters and dramatic encounters
 [^1]: In [mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization "Mathematical optimization") and [decision theory](https://en.wikipedia.org/wiki/Decision_theory "Decision theory"), a **loss function** or **cost function** (sometimes also called an error function)[[Abiogenesis/Settings Theory & Fluff/stories/1]]ogenesis/_AB13 Rulebook/Extensions/stories/1]](https://en.wikipedia.org/wiki/Loss_function#cite_note-ttf2001-1) is a function that maps an [event](https://en.wikipedia.org/wiki/Event_(probability_theory) "Event (probability theory)") or values of one or more variables onto a [real number](https://en.wikipedia.org/wiki/Real_number "Real number") intuitively representing some "cost" associated with the event. An [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem "Optimization problem") seeks to minimize a loss function. An **objective function** is either a loss function or its opposite (in specific domains, variously called a [reward function](https://en.wikipedia.org/wiki/Reward_function "Reward function"), a [profit function](https://en.wikipedia.org/wiki/Profit_function "Profit function"), a [utility function](https://en.wikipedia.org/wiki/Utility_function "Utility function"), a [fitness function](https://en.wikipedia.org/wiki/Fitness_function "Fitness function"), etc.), in which case it is to be maximized. The loss function could include terms from several levels of the hierarchy.
 
 [^2]: a [fitness function](https://en.wikipedia.org/wiki/Fitness_function "Fitness function") to evaluate the solution domain.
-
 
 [^3]: evolutionary algorithm: The evolution usually starts from a population of randomly generated individuals, and is an [iterative process](https://en.wikipedia.org/wiki/Iteration "Iteration"), with the population in each iteration called a _generation_. In each generation, the [fitness](https://en.wikipedia.org/wiki/Fitness_(biology) "Fitness (biology)") of every individual in the population is evaluated; the fitness is usually the value of the [objective function](https://en.wikipedia.org/wiki/Objective_function "Objective function") in the optimization problem being solved

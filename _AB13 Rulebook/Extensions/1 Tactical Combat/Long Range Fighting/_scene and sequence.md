@@ -37,7 +37,7 @@ v2: A chain of related encounters distributed across a distance of time or place
 
 Uncommon in the past, the encounter chain became a norm by the advance of weapon range to equal the range of vision, the graduation of the volume of weapon fire into the main source of fighting impact, and the increase of mobility provided by the car.[^3]
 
-Examples:
+Generic Examples:
 -  combat patrols
 - chases
 - Action sequence
