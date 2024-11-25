@@ -8,8 +8,6 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 # Inspiration 
 [Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 
-
-
 <img src="./Images/grishno image.png" width="500"/>
 ![[grishno image.png|500]]
 
