@@ -1,16 +1,3 @@
-Types of rolls
-- Cumulative
-- Worst candidate
-- Best candidate
-
-
-Types of outcome behavior
-- Regular
-- Irregular
-- Dependent
-- Independent
-- Contested
-
 
 
 # alternative core roll
@@ -112,8 +99,8 @@ Gradients of failure
 
 # scales
 
-- Linear 
-- geometric
+- Linear (n+1) 1 2 3 4
+-  Geometric (2^n-1) 1 2 4 8
 
 # Old
 ## Additional roll concepts
@@ -125,4 +112,15 @@ Gradients of failure
 
 When multitasking, pick the worst target number before modifers
 
+## Types of rolls
+- Cumulative
+- Worst candidate
+- Best candidate
 
+
+## Types of outcome behavior
+- Regular
+- Irregular
+- Dependent
+- Independent
+- Contested

@@ -48,7 +48,7 @@ The salvage teams
 ---
 # Terrorists
 
-National attack
-Silver oath
-The weathermen
-Hard reset
+- National attack
+- Silver oath
+- The weathermen
+- Hard reset
