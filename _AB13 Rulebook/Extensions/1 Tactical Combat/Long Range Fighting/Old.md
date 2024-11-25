@@ -1,8 +1,3 @@
-
-
-old
----
-
 # How to manage terrain 
 
 What about a list of potential terrain cards for choosing? 

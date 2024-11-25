@@ -6,6 +6,34 @@ While all rpgs can reasonably handle the gunfight, the room crawl and the dungeo
 
 To handle these infantry battles in an efficient and fun manner, Ab13 needs to create a new structure for the longer infantry battle.
 
+
+# Deep encounters
+The radio, car, and rifle have created an incomparable set of circumstances to what fights look like in the modern era. Creating a genuine impression of a modern gunfight is very difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters.
+
+Wrapping our heads around a modern fight therefore requires us to structure things into levels of scale.
+
+For the conflicts that soldiers, mercenaries or adventurers of modern RPGs face, we will need to define what fighting means by the 3 aspects of battle: tactical, operational, and strategic. [^1] ~~These levels have no definite boundaries or limits from each other; instead, they are levels of analysis that are designed to simplify understanding the problem.~~
+
+essentially we have the level of detail increase as we zoom in further.
+
+## The Tactical Aspect
+- the skirmish map - "the main target" - where the combat is expected to happen
+- hard combat
+- individual responses, microterrain
+
+## The operational aspect
+- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
+- Operational points, nodes - "parts of town"
+- macro scale, the command action which people focus on
+- the tactical pause  
+- there's a threat, but it's currently a pause
+- the macro of combat, more generalized in keeping track of the firefight
+- the global decision making of the squad, when everyone sits down and says "this global section of the term, we'll focus on x"
+
+## The strategic aspect
+- strategic points - whats on the horizon
+
+
 # Operational Combat
 
 An **operational scene** is the collection of all exchanges of fire, pauses, operational actions, or operational movements. These are referred to as **operational decisions**. Operational scenes begin upon approach of the enemy.
@@ -323,20 +351,20 @@ alternatively, this could be in competition with the opponents' detection roll, 
 
 Scaling time periods for range bands?
 
-1 - 1x
-7 - 1x
-25 - 1x. 7/13
-100 - 4x 28/52m
-200 - 8x 104m
-400 - 16x 208m
-800 - 32x 416m
-1600 - 64x 832m
+- 1 - 1x
+- 7 - 1x
+- 25 - 1x. 7/13
+- 100 - 4x 28/52m
+- 200 - 8x 104m
+- 400 - 16x 208m
+- 800 - 32x 416m
+- 1600 - 64x 832m
 
-100 - 1x - 13m tick 1.5 sec
-200 - 2x - 26m tick 3 sec
-400 - 4x - 52m tick 6 sec
-800 - 8x - 104m tick 12 sec
-1600 - 16x - 208m tick 24 sec
+-  100 - 1x - 13m tick 1.5 sec
+- 200 - 2x - 26m tick 3 sec
+- 400 - 4x - 52m tick 6 sec
+- 800 - 8x - 104m tick 12 sec
+- 1600 - 16x - 208m tick 24 sec
 
 ---
 
@@ -450,4 +478,70 @@ chain up to the scale in actions per turn
 4. all higher scale actions are operational
 5. no change?
 6. operational actions could potentially allow fast movement
-7. 
+
+
+---
+# Old
+
+
+#  dryad's response
+
+"hard combat, soft combat, exploration"
+- **the hard combat is where each individual responds**
+
+a telescoping effect
+
+the tactical pause is the globe encompassing
+
+skirmish teams working
+
+this may be something for people to focus on for the missing link
+"Combat starts when they realize a threat"
+GMs may be already acting as if the people are already in combat
+
+The people who are aware first immediately start combat once they decide to shoot first
+
+use the OODA device to explain it
+
+the solution and problem is the ability to design a map that naturally causes players to utilize it
+- this is essential to the patrol simulator type of gameplay
+
+trying to create the inbetween of exploration and combat into soft and hard combat
+
+the role of crew served weapons are in soft combat phases
+
+long range skirmishes are a one sided romance kissed with lead
+
+---
+
+#  pepsi's response
+
+3 phases
+- strategic map - world map - not great detail
+- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
+- tactical map - the skirmish map - "the main target" - where the combat is expected to happen
+
+have the phases be based on distance
+
+different options based on which phase you're in
+
+in killteam, there's concealment then engagement orders
+- when in concealment, you can't dash but harder to hit, can shoot if silenced
+- engagement order: you can sprint, run, charge into melee
+
+There is always going to be a house, but then you can add additional stuff
+
+essentially we have the level of detail increase as we zoom in further.
+
+you go through the world map, you pick the area, then we load in the area
+	We have the outside area to work with as well
+
+[gradation](adjective gradient)
+
+---
+# influences
+
+fallout boardgame: into the wasteland - exploring the wastes, randomly generated maps to have to fight in
+- may be something to look into
+- bridging things together
+- also a settlement mode

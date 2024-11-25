@@ -1,6 +1,6 @@
 >[!NOTE]
 >
-Conceptualizations one and two in the following document refer to the *Same concept* expressed in different ways. I am uncertain of how I wish to resolve the writeup, since both have their advantages
+Deep encounters and sequences (this article) refer to the *Same concept* expressed in different ways. I am uncertain of how I wish to choose the writeup, since both have their advantages. Maybe somebody will have an opinion.
 
 # Concept 1: Sequences and Encounters
 ## General facts
@@ -144,32 +144,6 @@ https://screencraft.org/blog/screenwriting-basics-how-to-write-an-effective-mont
 
 https://www.writingbeginner.com/how-to-write-a-scene-with-multiple-locations/
 
-# Concept 2: Deep encounters
-The radio, car, and rifle have created an incomparable set of circumstances to what fights look like in the modern era. Creating a genuine impression of a modern gunfight is very difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters.
-
-Wrapping our heads around a modern fight therefore requires us to structure things into levels of scale.
-
-For the conflicts that soldiers, mercenaries or adventurers of modern RPGs face, we will need to define what fighting means by the 3 aspects of battle: tactical, operational, and strategic. [^1] ~~These levels have no definite boundaries or limits from each other; instead, they are levels of analysis that are designed to simplify understanding the problem.~~
-
-essentially we have the level of detail increase as we zoom in further.
-
-## The Tactical Aspect
-- the skirmish map - "the main target" - where the combat is expected to happen
-- hard combat
-- individual responses, microterrain
-
-## The operational aspect
-- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- Operational points, nodes - "parts of town"
-- macro scale, the command action which people focus on
-- the tactical pause  
-- there's a threat, but it's currently a pause
-- the macro of combat, more generalized in keeping track of the firefight
-- the global decision making of the squad, when everyone sits down and says "this global section of the term, we'll focus on x"
-
-## The strategic aspect
-- strategic points - whats on the horizon
-
 ---
 # Legacy notes
 
@@ -196,68 +170,6 @@ https://amjohnson0616.wordpress.com/2015/08/05/aliens-1986-rescuebattle-scene-li
 If you continue to watch On the Waterfront until the 11:00 min mark on the DVD, you will see that Shot 28 takes us into Scene 5, which specifically is what happens in Friendly's Bar and away from the murder. It's a completely different component of the story. Scenes 1 through 4 focus on Terry's role in the murder of Joey and the reaction of key witnesses (Edie, Father Barry and Pop Doyle). In contrast, Scene 5 focuses on Johnny Friendly and his world; Joey''s murder is barely acknowledged and certainly doesn't drive the action. Therefore, Scenes 1 through 4 constitute a major building block of screenplay structure, namely the 'Sequence'. Scene 5 is the beginning of the next Sequence. 
 
 SEQUENCE: A Sequence is a Scene, or a series of connected Scenes, that present a succession of related events or idea that constitute and advance a distinct component of the story narrative, plot and/or character development'.
-
-#  dryad's response
-
-"hard combat, soft combat, exploration"
-- **the hard combat is where each individual responds**
-
-a telescoping effect
-
-the tactical pause is the globe encompassing
-
-skirmish teams working
-
-this may be something for people to focus on for the missing link
-"Combat starts when they realize a threat"
-GMs may be already acting as if the people are already in combat
-
-The people who are aware first immediately start combat once they decide to shoot first
-
-use the OODA device to explain it
-
-the solution and problem is the ability to design a map that naturally causes players to utilize it
-- this is essential to the patrol simulator type of gameplay
-
-trying to create the inbetween of exploration and combat into soft and hard combat
-
-the role of crew served weapons are in soft combat phases
-
-long range skirmishes are a one sided romance kissed with lead
-
----
-
-#  pepsi's response
-
-3 phases
-- strategic map - world map - not great detail
-- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- tactical map - the skirmish map - "the main target" - where the combat is expected to happen
-
-have the phases be based on distance
-
-different options based on which phase you're in
-
-in killteam, there's concealment then engagement orders
-- when in concealment, you can't dash but harder to hit, can shoot if silenced
-- engagement order: you can sprint, run, charge into melee
-
-There is always going to be a house, but then you can add additional stuff
-
-essentially we have the level of detail increase as we zoom in further.
-
-you go through the world map, you pick the area, then we load in the area
-	We have the outside area to work with as well
-
-[gradation](adjective gradient)
-
----
-# influences
-
-fallout boardgame: into the wasteland - exploring the wastes, randomly generated maps to have to fight in
-- may be something to look into
-- bridging things together
-- also a settlement mode
 
 # Patrol simulator
 
