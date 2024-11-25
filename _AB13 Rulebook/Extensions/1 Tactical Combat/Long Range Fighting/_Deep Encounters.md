@@ -10,7 +10,7 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 
 
 
-<img src="/Images/grishno image.png"/>
+<img src="./Images/grishno image.png"/>
 
 
 Demo node map
