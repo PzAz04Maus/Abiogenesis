@@ -9,9 +9,8 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 [Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 
 
-[Grishno](_AB13 Rulebook\Extensions\1 Tactical Combat\Long Range Fighting\Images\grishno image.png)
 
-[Grishno](./_AB13 Rulebook/Extensions/1 Tactical Combat/Long Range Fighting/Images/grishno image.png)
+<img src="/Images/grishno image.png"/>
 
 
 Demo node map
