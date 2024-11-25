@@ -8,10 +8,11 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 # Inspiration 
 [Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 
-[grishno](/images/grishno image.png)
-[grishno](\images\grishno image.png)
-[grishno](./images/grishno image.png)
-[grishno](../images/grishno image.png)
+[grishno](images/grishno image.png)
+
+[grishno](.\images\grishno image.png)
+
+[grishno](..\images\grishno image.png)
 
 Demo node map
 # Design
