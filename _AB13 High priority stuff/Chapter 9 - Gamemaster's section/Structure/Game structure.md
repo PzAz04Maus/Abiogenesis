@@ -36,7 +36,7 @@ The most important story qualities are **Hazards**. These include the following
 
 # [[Map planning|Map Design]] and terrain
 
-# Operations and [[Task structure]]
+# Operations and [[Task Structure]]
 - Mr. Johnson
 - Job board
 - free roam
