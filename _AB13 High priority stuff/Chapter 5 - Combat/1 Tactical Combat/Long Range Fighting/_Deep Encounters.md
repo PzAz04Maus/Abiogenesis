@@ -56,7 +56,10 @@ essentially we have the level of detail increase as we zoom in further.
 
 # Operational Combat
 
-An **operational scene** is the collection of all [[_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]], pauses, [[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
+
+
+
+An **operational scene** is the collection of all [exchanges of fire](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md)[^1}], pauses, [operational actions](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md#Operational%20Actions)[^2], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
 
 Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
@@ -519,3 +522,6 @@ fallout boardgame: into the wasteland - exploring the wastes, randomly generated
 - may be something to look into
 - bridging things together
 - also a settlement mode
+
+[^1]:[[_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]]
+[^2]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]]
