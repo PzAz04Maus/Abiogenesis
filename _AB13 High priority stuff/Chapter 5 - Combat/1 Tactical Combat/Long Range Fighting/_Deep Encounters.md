@@ -59,7 +59,7 @@ essentially we have the level of detail increase as we zoom in further.
 
 
 
-An **operational scene** is the collection of all [exchanges of fire](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md)[^1}], pauses, [operational actions](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md#Operational%20Actions)[^2], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
+An **operational scene** is the collection of all [exchanges of fire](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md)[^2], pauses, [operational actions](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md#Operational%20Actions)[^3], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
 
 Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
@@ -71,7 +71,7 @@ The only time an attack can be made on the operational scale is during an exchan
 
 Information about the enemy group is limited during the operational scene; characters only know where the enemy's center is, and are to be given no instructions on enemy intentions other than what they can intuit themselves, unless they make a reconnaissance  check (previously known as the keep watch check). 
 
-The Withdraw operational action is now classified as a [[Abiogenesis/_AB13 Low priority stuff/Chapter 3 - System/_Master#staged rules|Stage]] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
+The Withdraw operational action is now classified as a [Stage]()[^4] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
 
 ## Stage III: Actions higher than operational
 
@@ -87,18 +87,18 @@ The first question is when do two forces meet? This is defined by the range whic
 - roll the engagement contest in advance, keep written on the scratchpad. Positive is in the party's favor, negative in the OPFOR's favor
 - when the approach occurs, modify the contest result
 
-problems with the [[mil Sources & Terms#Engagement|engagement]] contest:
+problems with the [engagement]()[^5] contest:
 - it has 2 characteristics: when and how far the two forces are detected
 	- but that is already the case because distance represents time...
 - for instance 
 
 - Far end of the grid
 
-- [[RPG terms|XMS]] - as sux
-- sux: [[RPG terms|geometric]] scale, +25%
+- XMS[^6] - as sux
+- sux: [geometric]()[^7] scale, +25%
 - 0 - as stock
-- fail: [[RPG terms|linear]] scale, -25%
-- [[RPG terms|XMF]] - Completely unaware
+- fail: [linear]()[^8] scale, -25%
+- [XMF]()[^9] - Completely unaware
 
 Looking into another grid has additional penalties
 
@@ -180,9 +180,9 @@ M is dependent on broad features.
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
 # Sources
-- https://en.wikipedia.org/wiki/Spatial_scale
-- https://en.wikipedia.org/wiki/Scale_(map)
-- https://en.wikipedia.org/wiki/Level_of_measurement
+- [Spatial scale](https://en.wikipedia.org/wiki/Spatial_scale)
+- [scale](https://en.wikipedia.org/wiki/Scale_(map))
+- [level of measurement](https://en.wikipedia.org/wiki/Level_of_measurement)
 
 Level of detail
 
@@ -523,5 +523,12 @@ fallout boardgame: into the wasteland - exploring the wastes, randomly generated
 - bridging things together
 - also a settlement mode
 
-[^1]:[[_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]]
-[^2]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]]
+[^1]:
+[^2]:[[_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]]
+[^3]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]]
+[^4]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 3 - System/_Master#staged rules|Stage]]
+[^5]:[[mil Sources & Terms#Engagement|engagement]]
+[^6]:[[RPG terms|XMS]]
+[^7]:[[RPG terms|geometric]]
+[^8]:[[RPG terms|linear]]
+[^9]:[[RPG terms|XMF]]
