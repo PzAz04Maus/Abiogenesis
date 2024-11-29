@@ -16,7 +16,7 @@ Modern battle has acquired depth in the dimensions of time and space, therefore 
 ## Tactics
 The efforts used to succeed on the battlefield[^1]
 ## Operation
-tl;dr - the arrangement of combat efforts over a long period of time or space.
+tl;dr - the arrangement of related tactical efforts over a period of time or space.
 
 There is debate over whether operations actually exist, or should be considered a type of modern battle. For our purposes, a battle of large duration and an operation overlap.
 
@@ -24,7 +24,7 @@ There is debate over whether operations actually exist, or should be considered 
 
 > Operational art ... is the planning, preparation, synchronization, and sustainment of tactics over a sustained period of time, a large geographic expanse, or both.[^1]
 ## Strategy
-The methods used to convert battlefield successes for the greatest result.[^1]
+The creation, achievement of war goals through tactical and operational efforts.[^1]
 ## POI
 Point of Interest
 # Concepts
