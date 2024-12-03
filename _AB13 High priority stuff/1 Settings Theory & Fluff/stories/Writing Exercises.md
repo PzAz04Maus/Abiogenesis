@@ -1,3 +1,5 @@
+updates
+
 # 1
 
 Somebody said Chicago Ted had been to the old traincar diner late last night. Since a dead stalker or a good mall ninja can be as valuable as military salvage, we decided to head over and score some gear from that old pitstop since the loot Wouldn't be hard to find. 
