@@ -1,3 +1,18 @@
+None of the crew had seen anything like it. The skull white globe she had braced on top of her overalls was covered in NATO terminology - the biggest distinguishing mark was the "Army/Navy Portable Receiver, Wetware - 3" emblazoned across its forehead, the plastic scuffed and discolored. 
+ 
+"Is that a fucking head?" someone asked while the contractor connected the piece of wetware to a nearby desktop computer. John quietly leaned over to whisper to Old man, "Are you insane? This is just begging for the CIA to smoke us, why-"
+
+Old man stopped him. "Marceille," he flatly ordered. "Show them what you showed me."
+
+A ==little sick grin== began to creep into Marceille's smile as the sound of a cooling pump straining as fast as it could accompanied a wireframe cube made from blue-hot light sprung from nothing into the middle of the abandoned warehouse.
+
+The air crackled with the incense of ozone as a geometric filigree began to fill in the volume, a deep bass rumbling in everyone's chest.
+
+"...okay..." John's voice creaked as he looked down, dead silent. Out of his chest, an ink black sliver of nothingness was (clipping) through from another place entirely, growing into a larger spike that sucked more and more of the light out of the room while accompanied by others. John gaped noiselessly as the man across from him had a spike the size of a tree trunk grow through his head without any apparent injury, towards the cube. 
+
+==When the two touched, the screaming began.==
+
+---
 # Lore 
 The cosmos cast a pitch black shadow over the inner workings of the universe during the de Kuiper event. as modern science was demoted to classical theory in an instant, Unexplainable phenomena and contradictory behavior became far more than the province of quantum mechanics or the proposals of theoretical physicists; nature itself acquired a new sibling.
 
@@ -75,7 +90,8 @@ While organelles are considered a form of living tissue complete with a shelf-li
 
 The raw materials for an organelle must be harvested from supernormal sources - the US has no capability to create the required material from scratch.
 ## [AN/PRW-3](https://en.wikipedia.org/wiki/List_of_military_electronics_of_the_United_States)
-(Add an image of a scary white hardshell mechano-skull here sitting on a neck harness with a symbol on the forehead and "hello my name keyes" taped on)
+(Add an image of a scary white hardshell 'skull' sitting on a neck harness with a symbol on the forehead and "hello my name keyes" taped on)
+
 - "Army/Navy Portable Receiver, Wetware"
 - Vaguely looks like a skull. sockets replaced with vague indentations, xenomorphish
 

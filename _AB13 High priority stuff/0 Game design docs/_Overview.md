@@ -6,7 +6,7 @@ The game takes place in a near-future, years after the Earth was been seeded wit
 The United States narrowly averted social collapse and what felt like the apocalypse, but still struggles to hold on as the comforts of an industrialized nation groan under the harassment of things beyond human comprehension.
 
 # Framing
-A hardboiled roleplaying game set after a recession caused by an unearthly cosmic disaster. Characters encounter the supernormal secrets which scarred life on earth as we know it as they try to get ahead.
+A hardboiled tactical adventure set after a recession caused by an unearthly cosmic disaster. Characters encounter the supernormal secrets which scarred life on earth as we know it as they try to get ahead.
 # Deep Dive
 
 

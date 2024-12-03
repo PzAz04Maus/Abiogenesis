@@ -16,15 +16,15 @@ Modern battle has acquired depth in the dimensions of time and space, therefore 
 ## Tactics
 The efforts used to succeed on the battlefield[^1]
 ## Operation
-tl;dr - the arrangement of combat efforts over a long period of time or space.
+tl;dr - the arrangement of related tactical efforts over a period of time or space.
 
-There is debate over whether operations actually exist, or should be considered a type of modern battle. For our purposes, a battle of large duration and an operation overlap.
+There is debate over whether operations actually exist. For our purposes, a battle of large duration and an operation overlap.
 
 > During the second half of the nineteenth century, the brief battle of shock action was transformed into a continuous firepower battle that acquired a protracted dimension in time. Battles during Moltke’s age extended 10-12 hours. At the same time, they failed to yield the decisive outcome so typical of Napoleon’s time. Firepower appeared unable to resolve the issue during one act in a single sector. At the conclusion of a battle, the enemy was not completely destroyed; he gradually retired, reorganized his formations in a new sector, and once again prepared to give battle. Thus, the chain of combat efforts became distributed in depth.[^3]
 
 > Operational art ... is the planning, preparation, synchronization, and sustainment of tactics over a sustained period of time, a large geographic expanse, or both.[^1]
 ## Strategy
-The methods used to convert battlefield successes for the greatest result.[^1]
+The creation, achievement of war goals through tactical and operational efforts.[^1]
 ## POI
 Point of Interest
 # Concepts

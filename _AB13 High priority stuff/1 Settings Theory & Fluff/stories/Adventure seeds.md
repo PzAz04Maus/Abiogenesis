@@ -133,9 +133,6 @@ todo: combine with reanimator or the wizard
 	4 legged sapient?
 	
 
-<<<<<<<< Updated upstream:Settings & Fluff/Story ideas and scrapbook.md
-========
-
 ---
 # Scrapbook
 
@@ -151,25 +148,7 @@ todo: combine with reanimator or the wizard
 
 
 
----
->>>>>>>> Stashed changes:Settings & Fluff/Core Lore/Adventure, story seeds.md
-
----
-# Scrapbook
-
-- settle a score or debt
-
-- Arrest a sheriff
-
-- Escape an underground laboratory
-
-- https://youtu.be/F0YW43JYUwE?si=50ei0ya2TSkbxihO
-
-<<<<<<<< Updated upstream:Settings & Fluff/Story ideas and scrapbook.md
-- "_chime_ All secret base staff are to use the provided oxygen tanks below their desks whilst the facility is flooded to avoid damage to the Los Angeles Metropolitan Area, thank you. _chime_"
-
-========
 # random keys
 - settle a score
->>>>>>>> Stashed changes:Settings & Fluff/Core Lore/Adventure, story seeds.md
+
 - 

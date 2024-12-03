@@ -13,38 +13,20 @@ Deep encounters (this article) and sequences refer to the _Same concept_ expre
 <img src="./Images/grishno image.png" width="500"/>
 ![[grishno image.png|500]]
 
-Demo node map
+figure 1: Demo node map
 # Design
 
-While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well.
+While all rpgs can reasonably handle the gunfight, the room crawl and the dungeon brawl, most do not handle scales of 100 meters or more between combatants very well because of the modern radio, car, and rifle. 
 
-To handle these infantry battles in an efficient and fun manner, Ab13 needs to create a new structure for the longer infantry battle.
+Creating a genuine impression of a modern gunfight becomes difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters. Therefore, we need a well defined structure[^8] to efficiently handle this level of scale, called the deep encounter.
 
-# Deep encounters
-The radio, car, and rifle have created an incomparable set of circumstances to what fights look like in the modern era. Creating a genuine impression of a modern gunfight is very difficult because of how effects need to fluidly transition from the height of a person to hundreds of meters.
 
-Wrapping our heads around a modern fight therefore requires us to structure things into levels of scale.
 
-For the conflicts that soldiers, mercenaries or adventurers of modern RPGs face, we will need to define what fighting means by the 3 aspects of battle: tactical, operational, and strategic. [^1] ~~These levels have no definite boundaries or limits from each other; instead, they are levels of analysis that are designed to simplify understanding the problem.~~
+[^8]:https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures
 
-essentially we have the level of detail increase as we zoom in further.
+# Chosen: Candidate 1 
 
-## The Tactical Aspect
-- the skirmish map - "the main target" - where the combat is expected to happen
-- hard combat
-- individual responses, microterrain
-
-## The operational aspect
-- the squad (party's) decision making scale, when everyone sits down and says "in this wide variety of objects, we're focusing on x"
-- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-- Operational points, nodes - parts of town, sections of street
-- macro scale, the command action which people focus on
-	- the macro of combat, more generalized in keeping track of the firefight
-	- During the command phase, there's a tactical pause 
-	- there's a threat, but it's currently a pause
-## The strategic aspect
-- strategic points - whats on the horizon
-
+We're going to write in terms of tactical, operational and strategic encounters
 ## gameplay value of deep encounters
 - You get to play a sniper type more effectively
 - You can play characters with long distance endurance
@@ -54,9 +36,24 @@ essentially we have the level of detail increase as we zoom in further.
 - Movement is more deliberate because range outpaces movement
 - Assault phase
 
-# Operational Combat
+For the conflicts that the characters of modern shooter RPGs face, we can contextualize them with 3 overlapping scales of war: tactical, operational, and strategic. [^1]
+## The Tactical Aspect
+- the close quarters battle map where the toughest fighting is expected to happen
+- hard combat
+- individual responses, microterrain
+## The operational aspect
+- operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
+	- Operational points, nodes - parts of town, sections of street
+- the squad (party's) scale of command and decision, when everyone sits down and says "in this wide variety of objects, we're focusing on x"
+	- the macro of combat, more generalized in keeping track of the firefight
+	- During the command phase, there's a tactical pause 
+	- there's a threat, but it's currently a pause
+## The strategic aspect
+- strategic points - the scale of the wider story.
 
-An **operational scene** is the collection of all [[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]], pauses, [[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
+# Structure of operational decision
+
+An **operational scene** is the collection of all [exchanges of fire](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md)[^2], pauses, [operational actions](/_AB13%20Low%20priority%20stuff/Chapter%205%20-%20Combat/_Master.md#Operational%20Actions)[^3], or operational movements. These are collectively referred to as **operational decisions**. Operational scenes begin when approaching the enemy.
 
 Unlike tactical exchanges, operational scenes do not have initiative rolls. Each group makes an operational decision, then each turn is resolved simultaneously. Any group member interrupted by an exchange of fire during a non-combat related operational action must give up their initiative check, even if they don't continue their operational action. This does not apply to movement.
 
@@ -68,7 +65,12 @@ The only time an attack can be made on the operational scale is during an exchan
 
 Information about the enemy group is limited during the operational scene; characters only know where the enemy's center is, and are to be given no instructions on enemy intentions other than what they can intuit themselves, unless they make a reconnaissance  check (previously known as the keep watch check). 
 
-The Withdraw operational action is now classified as a [[Abiogenesis/_AB13 Low priority stuff/Chapter 3 - System/_Master#staged rules|Stage]] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
+The Withdraw operational action is now classified as a [Stage]()[^4] I Rule. For Stage II rules, a group that wishes to disengage has to lose the opponent with obstructions or [intervisible](https://leaderbusiness.blogspot.com/2008/05/intervisibility-lines.html) concealment.
+
+## Operational maps
+- node and connector system
+- connectors are to scale
+
 
 ## Stage III: Actions higher than operational
 
@@ -80,22 +82,21 @@ Strategic scenes are simply operational scenes scaled up by a multiplier of 100,
 
 The first question is when do two forces meet? This is defined by the range which at least one force directly views another.
 ## Candidate: Stock Tactical engagement distance
-
 - roll the engagement contest in advance, keep written on the scratchpad. Positive is in the party's favor, negative in the OPFOR's favor
 - when the approach occurs, modify the contest result
 
-problems with the [[mil Sources & Terms#Engagement|engagement]] contest:
+problems with the [engagement]()[^5] contest:
 - it has 2 characteristics: when and how far the two forces are detected
 	- but that is already the case because distance represents time...
 - for instance 
 
 - Far end of the grid
 
-- [[RPG terms|XMS]] - as sux
-- sux: [[RPG terms|geometric]] scale, +25%
+- XMS[^6] - as sux
+- sux: [geometric]()[^7] scale, +25%
 - 0 - as stock
-- fail: [[RPG terms|linear]] scale, -25%
-- [[RPG terms|XMF]] - Completely unaware
+- fail: [linear]()[^8] scale, -25%
+- [XMF]()[^9] - Completely unaware
 
 Looking into another grid has additional penalties
 
@@ -177,9 +178,9 @@ M is dependent on broad features.
 
 Successful tests favor the roller, unsuccessful tests favor the opponent
 # Sources
-- https://en.wikipedia.org/wiki/Spatial_scale
-- https://en.wikipedia.org/wiki/Scale_(map)
-- https://en.wikipedia.org/wiki/Level_of_measurement
+- [Spatial scale](https://en.wikipedia.org/wiki/Spatial_scale)
+- [scale](https://en.wikipedia.org/wiki/Scale_(map))
+- [level of measurement](https://en.wikipedia.org/wiki/Level_of_measurement)
 
 Level of detail
 
@@ -392,8 +393,6 @@ Driving city
 
 
 ---
-
-
 # Gameplay loop
 
 1. Initial situation
@@ -432,7 +431,8 @@ If the two groups do not shape the battle prior to engaging (aka: complete surpr
 	2. On failure, the group adds a level zero piece of terrain onto the map, but the GM determines how the arrangement disadvantages them.
 
 questions:
-- [ ] What is the size (scale?) of this region?
+- [x] What is the size (scale?) of this region?
+	- [ ] A: irrelevant. Nodes are arbitrarily decided by view range
 
 
 
@@ -519,3 +519,13 @@ fallout boardgame: into the wasteland - exploring the wastes, randomly generated
 - may be something to look into
 - bridging things together
 - also a settlement mode
+
+[^1]:
+[^2]:[[_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Exchanges of Fire|exchanges of fire]]
+[^3]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 5 - Combat/_Master#Operational Actions|operational actions]]
+[^4]:[[Abiogenesis/_AB13 Low priority stuff/Chapter 3 - System/_Master#staged rules|Stage]]
+[^5]:[[mil Sources & Terms#Engagement|engagement]]
+[^6]:[[RPG terms|XMS]]
+[^7]:[[RPG terms|geometric]]
+[^8]:[[RPG terms|linear]]
+[^9]:[[RPG terms|XMF]]
