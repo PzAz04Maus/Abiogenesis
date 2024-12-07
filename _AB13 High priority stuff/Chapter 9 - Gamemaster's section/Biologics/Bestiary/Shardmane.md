@@ -1,7 +1,7 @@
 ![](https://cdnb.artstation.com/p/assets/images/images/023/931/417/large/will-miranda-33333333.jpg?1580797441)
 ![](Images/crystal_creature_by_kitsune_aka_cettie_d34s6iy-414w-2x.jpg)
 (inspiration)
-![](images/d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg)
+![](Images/d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg)
 (inspiration)
 ## Function
 Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
