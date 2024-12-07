@@ -43,7 +43,7 @@ For the conflicts that the characters of modern shooter RPGs face, we can contex
 - individual responses, microterrain
 ## The operational aspect
 - operational map - zoom in: general area map - make a rectangle of the area that'll matter. Roll for nodes.
-	- Operational points, nodes - parts of town, sections of street
+	- Operational points - parts of town, sections of street
 - the squad (party's) scale of command and decision, when everyone sits down and says "in this wide variety of objects, we're focusing on x"
 	- the macro of combat, more generalized in keeping track of the firefight
 	- During the command phase, there's a tactical pause 
