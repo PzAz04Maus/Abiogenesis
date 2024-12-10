@@ -3,15 +3,32 @@
 (inspiration)
 ![](Images/d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg)
 (inspiration)
-## Function
+# Mechanics
+
+Shardmanes serve as a medium level mob for the players with a playstyle like a supernormal tactical force.
+
+Their growth and evolution creates multiple variants that vaguely relate to categories of firearms.
+
+- Juveniles have low performance shards
+- regulars are akin to a battle rifle
+- automatics are akin to an LMG
+- supports are equivalent to a 25-30mm autocannon with a slow ROF
+
+firing may depend on a 'heat' mechanic that stalls them.
+- alternative: shardmanes have a better fire density than typical infantry, where half are shooting at one time instead of third.
+
+
+
 Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
 ## Lore
 
-An abiogenetic siliceous creature, the shardmane is an extraterrestrial quadruped with the rough shape of a disembodied, partially skeletonized lion.
+An abiogenetic siliceous creature, the shardmane is an extraterrestrial biologic with the rough shape of a disembodied, skeletonized lion.
 
 Its most distinctive feature is a layer of sharp projections that float around the front quadrant of the creature, particularly around its neck and face, which appear like razor sharp shreds of red obsidian. These shards act like spaced armor, stopping bites and deflecting projectiles.
 
-Upon observation, the otherwise disconnected shards appear to flex in sync with the rest of the body. It is hypothesized that these shards are a defense mechanism that are anchored to the creature on another geometric plane.
+Upon observation, the otherwise disconnected shards appear to flex in sync with the rest of the body. It is hypothesized that these shards are anchored to the creature through an unseen geometric plane.
+
+Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
 ### Design Log
 
  * Design level: Unfinished concept

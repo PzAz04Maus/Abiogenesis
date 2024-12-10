@@ -1,4 +1,6 @@
-# Ranged
+Chains of black hexes hanging from the body like burnt skin
+
+# Ranged 
 - bone-straw looking projectile with acid payload. Frangible on impact, causes internal tissue damage with some splatter
 
 Monster that creates cognitive collapse
