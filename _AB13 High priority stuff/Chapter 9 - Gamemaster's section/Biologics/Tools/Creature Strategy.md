@@ -1,6 +1,11 @@
 # RTS casting
 # DOTA casting
 
+# Archetypes and Roles
+
+https://forums.tigsource.com/index.php?topic=52411.0#:~:text=Tank%2Fdisabler%20%2D%20Their%20role%20is,%2C%20disarm%2C%20and%20so%20on.
+
+
 https://liquipedia.net/dota2/Hero_Roles
 
 https://leagueoflegends.fandom.com/wiki/User_blog:PurpleWii/Archetype_Classification(PurpleWii_Edition)

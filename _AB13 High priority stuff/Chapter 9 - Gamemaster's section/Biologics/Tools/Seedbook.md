@@ -1,4 +1,74 @@
-# Ranged
+
+# reanimator
+	creates hordes of poorly animated zombies
+	all die if he does
+
+# Frankenstein's Master
+	uses poorly animated puppets (dead, barely alive) as explosives
+	requires some level of consciousness to activate?
+
+
+Spit
+
+1.7m
+
+channels in crest for spurting digestive acid
+
+artist note: was using a mech image as guidance for unearthly biology
+
+![[Pasted image 20240923220549.png]]
+![[kuo 12081135_1679487768937812_1791938018_n.jpg]]
+
+
+---
+
+  
+
+
+#candidate creatures made of a spectral material
+- hard light?
+- shadow type creatures
+
+
+## shotgun dog
+## fire consumers
+creates fire to consume, uses consumed fire to attack
+
+## shiv mains
+multiple charges of bleeding attacks
+
+## building eater
+
+## Muta
+
+flying ranged attacker
+
+
+
+
+# Hyperstitious biology
+
+Gaseous blood
+Floating bits, fluids
+Sharp, Geometric biology
+Waterfall?
+Metal parts
+Hot weather jellyfish
+made of Molten material
+Asphalt and concrete for food
+Dispersal
+Violating the square cube law
+P much what xmen or Pokémon does
+Psionics
+Acidic tissues and fur, solid acids
+Chemically reactive skin - "test tube" - fiery smokey exothermic - detaching matchstick tongue
+
+
+
+
+Chains of black hexes hanging from the body like burnt skin
+
+# Ranged 
 - bone-straw looking projectile with acid payload. Frangible on impact, causes internal tissue damage with some splatter
 
 Monster that creates cognitive collapse
@@ -196,7 +266,7 @@ Todo
 - [x] import Google Keep notes ✅ 2023-11-27
 - [ ] Collect Monster list data and sort into files
 - [ ] pick 3 more designs to finish
-- [ ] Read encounters pdf
+- [ ] #resource Read encounters pdf
 - [ ] Rate designs
 # Bestiary
 
@@ -746,99 +816,6 @@ Though you know itd fit rats or possums
 [[Tiberian Sun]]
 
 
-# Extra stuff
-
-
-alien biospheres part 8
-
-mountains grow taller
-
-seasonal areas
-	
-abscission - intentional shedding of body parts
-
-- dormancy
-	- torpor
-	- hibernation
-	- aestivation
-	- cryptobiosis
-
-Key difference between flying and swimming is the medium's density
-	flying animals need more force to stay aoirborne
-	
-lift has to exceed the force of gravity (weight)
-
-pointed wings - speed
-
-rounded wings - maneuverability
-
-long narrow wings - for endurance
-	
-- small leaves vs large leaves
-- co2 intake 
-- water loss
-
-desert animals tend to be small
-- square-cube law - larger animal is more body heat and lower body area to 
-- Bergmann's rule - body mass negatively correlated w/ environmental temperature
-	
-- dulaps
-- wattles
-- large ears
-	
-- desert pushes for long range
-	
-- sand can hurt vulnerable parts of the body, especially eyes
-	
-- water efficiency
-	- good kidneys
-	- some animals can be so water efficient they only need the water of food, no additional support necessary
-- deserts have advantages
-	- less predators
-	- easier to scavenge
-		
-- crepuscular - active at dusk and dawn
-- nocturnal - active at night
-
-easy method to improve night vision is bigger eyes
-
-tapetum lucidum - glowing eyes element
-
-fossorial - adaptation for digging
-- tends to be fusiform - tapered at both ends
-
-
-oviviparity - birth inside a mother
-- falls between oviparity and 
-- lecithotrophy - rely on limited yolk as only source of nutrients
-
-winter animals
-larger body size lets them hold more body heat
-- large, rounded bodies
-- tend to be 
-	
-evolving insulation
-- fat or blubber
-- air is one of the best insulators
-- picnofibers
-	
-vibrations much harder to detect in low density
-
-acuminate
-pectinate
-
-facultative - only regulate temperature under favorable conditions
-	may evolve into hibernation - happens because of cold temperatures, turns off thermoregulation and metabolism
-	
-matrotrophy - a placenta
-
-
-
-Gigantothermy - relying on large size to maintain constant internal temperature
-
-
----
-
 
 natural
 
@@ -984,3 +961,7 @@ a tire technically is a single molecule
 	what happens when a molecule is the size of a person that breaks or sheds neutrons?
 
 Hard palate predator - wedgemouth
+
+
+# Urticulating hair
+Species with urticating hairs can kick these hairs off; they are flicked into the air at a target using their back pairs of legs. These fine hairs are barbed and designed to irritate and can be lethal to small animals such as rodents.

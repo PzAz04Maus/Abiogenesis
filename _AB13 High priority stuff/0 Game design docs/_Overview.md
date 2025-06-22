@@ -14,4 +14,4 @@ Abiogenesis takes deep inspiration from the STALKER and Half Life Series,  Campa
 
 For the player, the game is "your work commute includes an AR-15 in the emergency kit." The cities still hum with life, but they are vulnerable to the new wilderness. Internal refugees, adventurers and bandits are rife.
 
-Gameplay can be described as a tactical adventure - taking cues from the modern gunfight and the empty battlefield. firearms, cover, concealment, and tactics are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
+Gameplay can be described as a tactical adventure - taking cues from the modern gunfight and the empty battlefield. Cover, concealment are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.

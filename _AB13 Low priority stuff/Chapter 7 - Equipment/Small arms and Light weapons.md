@@ -1,14 +1,14 @@
 todo
 - [x] Core book
-- [ ] Additional
+- [x] Additional  [completion:: 2025-06-20]
 
 # Sources
  - [x] Core book ✅ 2024-06-29
  - [x] Addendum ✅ 2024-06-29
  - [x] Alternate Arms ✅ 2024-06-29
  - [x] Cold Warriors ✅ 2024-06-29
- - [ ] Undercover arms
- - [ ] Czech your Engine
+ - [ ] #resource Undercover arms
+ - [ ] #resource Czech your Engine
 # Ammunition
 # Pistols
 

@@ -1,13 +1,26 @@
 # Summary
-slender psionic biped
-
-psychopathic, murderous catty. no empathy for people. Will kill people to loot, eat, interrogate, or get ahead.
-
 like trying to converse with a gun-toting feral animal
 
 Vacant mouth, thin lips
+
+Inspiration
+- help me bear, annihilation
+
+Can psychically subjugate a target (drugs help)
+
+Famous intruder- santa muerte de Culiacán 
 ## Keynotes
-Uses human settlement to survive, collects information MIB style. Camouflages with form concealing gear and clothes (hoodies and long pants).
+slender psionic biped, grey skin and alien features
+
+psychopathic, murderous cat. no empathy for people. Will kill humans for food or value. Can use firearms knowledge. 
+
+Uses human settlement to survive, collects information MIB style. Camouflages at margins of society with concealing gear and clothes (hoodies and long pants).
+
+Uses psionics to avoid attention near human settlements
+
+More likely to be encountered in public during periods where heavy clothes are in use
+
+Does not deeply grasp language or writing - only capable of limited association
 # Base Attributes
 - 6 AWA
 - 6 COG

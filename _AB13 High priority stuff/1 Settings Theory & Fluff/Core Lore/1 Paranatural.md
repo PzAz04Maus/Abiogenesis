@@ -16,6 +16,8 @@ The air crackled with the incense of ozone as a geometric filigree began to fill
 # Lore 
 The cosmos cast a pitch black shadow over the inner workings of the universe during the de Kuiper event. as modern science was demoted to classical theory in an instant, Unexplainable phenomena and contradictory behavior became far more than the province of quantum mechanics or the proposals of theoretical physicists; nature itself acquired a new sibling.
 
+Like max plancks solution to the Rayleigh–Jeans problem, The De kuiper event presaged the post quantum revolution /catastrophe, Unlike plancks solution, the post quantum revolution produced a cambrian explosion of competing theoretical or experimental theories. All have borne fruit, but none have been proven, and none have unified De kuipers children into a single fundamental framework. 
+
 To the practitioners, the professors, and the researchers, the fields that lie above the natural sciences are the paranatural, while the new fields above the pure sciences of math and reasoning are called the metanormal.
 
 > **paranatural, supernormal** (_[comparative](https://en.wiktionary.org/wiki/Appendix:Glossary#comparative "Appendix:Glossary")_ **more **paranatural****, _[superlative](https://en.wiktionary.org/wiki/Appendix:Glossary#superlative "Appendix:Glossary")_ **most **paranatural****)
@@ -30,6 +32,7 @@ In particular, classical theories adhered to two major principles that were deep
 While the Paranatural and metaformal fields have grown some new phenomena:
 - **Mimesis or Memetics**: a phenomena where paranatural laws can propagate or infect a region
 - **New Math**: 
+	- Post-Turing Machine?
 
 Examples of paranatural or metanormal sciences include paraphysics, New Math, mimesis, metaphysics and parapsychology.
 
@@ -70,22 +73,19 @@ One major example was Soviet Paranormal research. Beginning in the 1920s in topi
 
 From its discovery, the phenomena of memeforming was a highly sought after effect. It was eventually found that memeforming could be initialized by forming a machine out of intricately patterned, extremely powerful electromagnetic fields using New Math. Passing instructions into this electromagnetic blackbox would produce the intended thoughtforms and memeforms, although no other detectable output can be found.
 
-While New Math and its attendant memeforms can be achieved with traditional hardware solutions, the minimum requirements tend to possess exorbitant costs, especially from energy inefficiency of the datacenters required, limiting them to static sites. 
+While New Math and its attendant memeforms can be achieved with traditional hardware solutions, the minimum requirements needed impose exorbitant costs, especially from energy inefficiency of the datacenters required, limiting them to static sites. 
 
 In contrast wetware are more energy and density efficient, making them suitable for "desktop" applications. Wetware therefore proliferates the field as an accessible, mobile alternative to the massive, risky data clusters, where wetware's lifespan and difficulty of scaling are less relevant
 
 In the field, the most common memeform interfaces are colloquially known as wetboxes. These range in size from sheets of rubber to vehicle mounted monstrosities.
-# Wetbox
+# Wetbox, wetware, organelle
 
-A Memeforming Organelle consisting of a gelaceous cortex with a shock absorbing plastic scaffolding, divided into lobes by permeable membranes. The membrane acts as a neural connector to the io harness behind the sustainment stem.
+Hardware consisting of biological or biologically analogous tissues. Wetware can be of abiologic or biologic origins.
 
-The scaffolding is 3d printed with an internal circulatory system consisting of ducts and porous capillaries that connect to the sustainment stem.
-
-The entire device is set inside a crash rated cbrn protected exterior shell. Military variant organelles may be protected to stanag 4569 level 1 standards.
-
-Wetboxes can be overused, causing cellular death.
+Wetboxes have a lifespan and can be overused. Cellular death is a possibility.
 
 While organelles are considered a form of living tissue complete with a shelf-life, they are first and foremost an organic processor, not a creature.
+
 ## Creating an organelle
 
 The raw materials for an organelle must be harvested from supernormal sources - the US has no capability to create the required material from scratch.
@@ -94,6 +94,12 @@ The raw materials for an organelle must be harvested from supernormal sources - 
 
 - "Army/Navy Portable Receiver, Wetware"
 - Vaguely looks like a skull. sockets replaced with vague indentations, xenomorphish
+
+A Memeforming Organelle consisting of a gelaceous cortex with a shock absorbing plastic scaffolding, divided into lobes by permeable membranes. The membrane acts as a neural connector to the io harness behind the sustainment stem.
+
+The scaffolding is 3d printed with an internal circulatory system consisting of ducts and porous capillaries that connect to the sustainment stem.
+
+The entire device is set inside a crash rated cbrn protected exterior shell. Military variant organelles may be protected to stanag 4569 level 1 standards.
 
 # Other Organelle technologies
 

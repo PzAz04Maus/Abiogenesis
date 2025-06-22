@@ -18,17 +18,16 @@ limb damage is reduced by 20%.
 - [x] type ✅ 2023-11-12
 - [x] time length (1 round to "permanent") ✅ 2023-11-12
 - [x] intensity ✅ 2023-11-12
-- [ ] develop fracture severity🔼 
-- [ ] playtest
-- [ ] how to handle disabling the chest or head
+- [ ] #health develop fracture severity [priority:: lowest] 
+- [ ] #health playtest
+- [ ] #health how to handle disabling the chest or head[priority:: lowest] 
 
 in other games, intensity, type and length are combined into 1 bloc or genericized
 	In T13, intensity is done with static 
 # Accepted Candidate For critical hit effects
 
-### Effect type: Fracture
-- [ ] TO DO🔼 
-- [ ] Severity system?
+### Effect type: Fracture 
+- [ ] #TODO #health Severity system? [priority:: lowest] 
 
 Interim solution: any action requiring that bone to physiologically function automatically fails, including movement, standing, or holding a weapon.
 
