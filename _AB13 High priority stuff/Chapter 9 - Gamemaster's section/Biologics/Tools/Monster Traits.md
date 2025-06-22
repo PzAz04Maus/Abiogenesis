@@ -19,137 +19,137 @@ the creature can automatically succeeds at a terrain discovery check every x per
 - more list
 	- bigger list
 - 
-##### Maladaptation #passive
+#### Maladaptation #passive
 The creature suffers +1 damage per die from x environment per day or survival check.
 
 Environments include cold, hot, arid or moist.
-##### Immune #passive
+#### Immune #passive
 The creature is immune. Must have a condition.
-##### Spawn #active
+#### Spawn #active
 The creature can infect a target with the specified attack. After x time, they take y damage and spawn a copy of the creature.
 
-###### Immature
+##### Immature
 The spawned copy is an immature child of the parent. Unless specified, the default creature is 2 sizes smaller and has half the stats of its adult version.
-###### Mature
+##### Mature
 The child is an exact statistical copy of the parent creature.
 
-##### Hyperlethal vector
+#### Hyperlethal vector
 with every exceptional success during an exchange of fire, the creature is immediately refunded half the tick cost of their action.
 
-##### Immunity
+#### Immunity
 the creature is immune to the effects of x condition
 
-##### Death throes
+#### Death throes
 On death, the creature automatically makes one last attack when killed.
 
-##### Rupture #active
+#### Rupture #active
 The creature explodes for x damage in y radius with z additional effect, receiving a damage in the process.
 
 If a damage is not specified, the creature dies upon rupture.
 
-##### Deadcheck #passive
+#### Deadcheck #passive
 When the creature dies, they return to life x time later unless attacked once more.
 
-##### No Fear
+#### No Fear
 the creature is immune to threat levels.
 
-##### Adrenal Glands #active
+#### Adrenal Glands #active
 The creature may frenzy x times per y period, gaining an z additional attack actions in a turn.
 
-##### Hive Mind
+#### Hive Mind
 The creature shares thoughts and actions with others of its group in x distance (default 400m). It cannot be surprised if any other of its kind is not surprised.
 
-###### Hive Sight
+##### Hive Sight
 The creature shares senses with others of its group in x distance (default 400m). It cannot be blinded or deafened, or lose LOS, unless all members of its group suffer from it.
-##### respiration
+#### respiration
 the creature breathes in x environment.
 
 By default, terrestrial respiration is implied.
 
-##### Bleed
+#### Bleed
 The NPC's attack causes x damage for y of the targets turns
-##### Frenzy
+#### Frenzy
 The NPC may frenzy x times per day, gaining y additional ticks for one action.
-##### regenerate
+#### regenerate
 the NPC heals x points every y period.
-##### Swarm (+2 XP):
+#### Swarm (+2 XP):
 The NPC can make simultaneous attacks with others of his species. A single attack check is made with a bonus equal to the number of NPCs involved. With a hit, the target suffers the attack’s base damage only once, but it’s multiplied by 1/2 this bonus (rounded down). 
-##### Retaliation
+#### Retaliation
 An NPC gains x bonus to attack anyone who has hit them in the last turn
-##### Thorny
+#### Thorny
 The NPC automatically inflicts x damage on anyone who hits them
 
-##### Displace (knock-) #unfinished #active
+#### Displace (knock-) #unfinished #active
 The creature can push a target x distance in y direction.
-##### Stun
+#### Stun
 With a touch or an attack, the creature can reduce a target's initiative count by x ticks in y period.
 
-##### Splitter
+#### Splitter
 The creature can duplicate x times.
-###### Damage splitter #passive
+##### Damage splitter #passive
 the creature duplicates when it suffers a critical injury.
-###### Feeding splitter #active
+##### Feeding splitter #active
 The creature can use a corpse at least 1 size category smaller than itself to duplicate.
-##### nonphysical
+#### nonphysical
 The creature is not made of solid matter.
-##### incorporeal
+#### incorporeal
 The creature ignores physical matter.
-##### incorporeal, selective 
+#### incorporeal, selective 
 The creature can become incorporeal in x periods for y time. 
-##### change size
+#### change size
 The creature can change their size in x periods.
-##### Crypsis
+#### Crypsis
 
-##### Terraformer
+#### Terraformer
 The NPC can shape terrain
 - in x cubic meters (exact) OR
 - to the scale of x body lengths (relative)
 
 in Y {period} with Z {material}.
-##### Damage reduction
+#### Damage reduction
 
-##### lifesteal
+#### lifesteal
 The NPC's attack returns x health on success
 
-##### NBC vector
+#### NBC vector
 Any target is exposed to X disease, poison or radioactive threat on a test every Y {period}.
 
-##### Mimic
+#### Mimic
 The creature may duplicate any sound they hear at least once.
 
-##### Pseudoshapeshifter
+#### Pseudoshapeshifter
 In X {periods}, the NPC can assume the physical image of another NPC whose Size is within Y category (e.g. Small to Large if the shapeshifter is Medium).
 
 They do not retain any of the target's capabilities.
 
-##### Shapeshifter, Perfect
+#### Shapeshifter, Perfect
 In X {periods}, the NPC can assume the physical form of another NPC whose Size is within Y category (e.g. Small to Large if the shapeshifter is Medium).
 
 They replicate the physical capabilities of the target, but retain their own mental capabilities.
 
-##### Growth
+#### Growth
 ### Action modifiers
 
-##### Condition, source
+#### Condition, source
 the action activates only on condition x or because of source x
-##### Range
+#### Range
 
-##### Charges
-###### Fatigue
+#### Charges
+##### Fatigue
 The creature may use one charge by taking x fatigue.
-##### Charge Recovery methods
+#### Charge Recovery methods
 
-##### by test (ASL)
+#### by test (ASL)
 the NPC recovers charges by the margin of success of a test
-##### recovery
+#### recovery
 the NPC recovers x charges in y {periods} (ticks, hours, days).
-##### load 
+#### load 
 after expending charges, the NPC must reload for x {period} with an external store
-##### grow
+#### grow
 the NPC has to take x {period} to regenerate charges
-##### Consume
+#### Consume
 the NPC regains x charges by consuming y object
-##### Always
+#### Always
 the NPC never has to recharge
 #### Circumstance modifiers
 
@@ -159,28 +159,28 @@ this includes special benefits for traits.
 
 #### Supplementary circumstances
 
-##### Photopic vision quality
+#### Photopic vision quality
 The creature's day vision is considered x steps better/worse.
 
 examples: nearsighted, eagle eye
-##### Scotopic vision quality
+#### Scotopic vision quality
 the creature's night vision is considered x steps better/worse.
 
 examples: night vision, night blindness
-##### Farsighted
+#### Farsighted
 the creature experiences an x penalty to actions in the personal or gunfighting range band.
-##### Devour
+#### Devour
 - x bonus to attributes and attack.
 
-##### Devour dice
+#### Devour dice
 - x bonus dice to all tests
 
-##### threat
+#### threat
 - the creature is automatically x more threatening
 
-##### Efficient
+#### Efficient
 - the creature can attempt a skill x steps faster at no penalty.
-##### superior jumper
+#### superior jumper
 
-##### superior runner
+#### superior runner
 the creature's speed multiplier for determining speed is increased by 1.
