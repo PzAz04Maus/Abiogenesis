@@ -2,22 +2,22 @@
 
 #candidate the size modifier is added to fall damage - could be a circumstantial?
 # Monster Traits
-	Tactical traits?
+Tactical traits?
 #### Achilles Heel (-2) #passive
-	Hitting the creature with a particular source of damage increases the damage factor by 1.
+Hitting the creature with a particular source of damage increases the damage factor by 1.
 #### Hold Breath
-	The creature can hold their breath for x time.
+The creature can hold their breath for x time.
 #### Adaptation #passive
-	The creature is fully adapted for x environment (aquatic, high temperature, etc) and needs no protection.
+The creature is fully adapted for x environment (aquatic, high temperature, etc) and needs no protection.
 #### Aquatic
-	the creature breathes water and suffers no penalties from underwater activities.
+The creature breathes water and suffers no penalties from underwater activities.
 #### Ambusher
-	The creature can automatically succeeds at a terrain discovery check every x periods in order to gain concealment.
+The creature can automatically succeeds at a terrain discovery check every x periods in order to gain concealment.
 #### Chameleon
 #### Maladaptation #passive
-	The creature suffers +1 damage per die from x environment per day or survival check.
+The creature suffers +1 damage per die from x environment per day or survival check.
 
-	Environments include cold, hot, arid or moist.
+Environments include cold, hot, arid or moist.
 #### Immune #passive
 The creature is immune. Must have a condition.
 #### Spawn #active
