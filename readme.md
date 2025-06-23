@@ -4,10 +4,14 @@
 Abiogenesis is a roleplaying setting set in near future that has fallen on tough times caused by a cosmic disaster. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
 
 In the process, society has been locked in a struggle to avoid social collapse, forced to recede from the harassment of these things beyond human comprehension.
+
+<img src="Images/abiogenesis tarkov.jpg" width="300" class="Center">
+([Battlestate Games](https://www.instagram.com/p/CC-0j4nHW7j/))
 # Framing
 Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover the transformative secrets of the supernormal as they look for opportunity in this new, dangerous world.
 
-
+<img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
+([SCP: Overlord](https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr))
 # Deeper Dive
 
 Abiogenesis is deeply inspired by STALKER and Half Life 1. Campaigns consist of enduring the social instability that the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.
@@ -16,11 +20,14 @@ For the player, the game is "your daily emergency kit has an AR-15." The cities 
 
 The tactical adventure can be described by elements of the modern gunfight and the empty battlefield. Cover, concealment are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
 
+<img src="Images/abiogenesis_5_MSDBOSN_EC003_H-700.jpg" width="400" class="Center">
+([Body Snatchers, 1993](https://www.scifi-movies.com/en/stills/0000333/1/body-snatchers-1993/))
 ## [Noble-dark](https://www.reddit.com/r/40kLore/comments/iqfuu4/meta_grimdark_nobledark_and_the_setting_alignment/)
 
  The setting's characters should be in a constant friction of what needs to be done in the name of the common good, worrying about what is too tyrannical.
-## The Unnatural
 
+<img src="Images/abibo 5VXRXMQNLJE2JNMDLDT5HCM4MY.webp" width="400" class="Center">
+([source](https://www.bbc.com/news/uk-60532586))
 ## The State in Social Preservation mode
 - [ ] rewrite required
 Abiogenesis takes place in an setting of an averted apocalypse. All human society narrowly weathered an emergency of unimaginable scale at immense cost. Mammoth pools of resources and knowledge had to be redirected on the spot in response.
@@ -28,9 +35,17 @@ Abiogenesis takes place in an setting of an averted apocalypse. All human societ
 As of the moment, the government is saddled with the dual tasks of forming a National Recovery and an arrears of debts and losses it racked, in man, machine, and infrastructure. The end of federal social security, Rationing and conscription form the new normal as the Federal government pulls back from daily life to save for the unfulfilled National Recovery plans.
 
 The landscape of post-de Kuiper America is littered with scrappy enterprises, liquidation startups, impoverished regulators and flimsy answers. It is a new age of the entrepreneur as many of economic champions or core pillars of the economy disappeared almost overnight.
+
+<img src="Images/1567328260149_1546670673522.gif.gif" width="300" class="Center">
+(source: need to find)
 ## A nearly averted apocalypse
 On the precipice of darkness and light; An oppressive, gothic environment is hidden just outside the borders of society
 
+<img src="Images/stalker shid.jpg" width="400" class="Center">
+([Alexey Andreyev](https://amp.meduza.io/en/shapito/2017/06/20/concept-art-for-an-abandoned-roadside-picnic-adaptation))
+## The Unnatural
+<img src="Images/abio ranch hand 1567383868949_piotr-jablonski-the-mount(...).jpg.jpg" width="400" class="Center">
+([Piotr Jabłoński](https://nicponim.artstation.com/))
 ## Knowledge Gap
   
 Abiogenesis as a setting is meant to have extremely limited knowledge. humanity is not privy to what the exotic matter, the impossible phenomena, or the paradoxical structures precipitated in the de Kuiper event are in any epistemic sense. All humanity knows about de Kuiper's children is knowledge that ranges between contentious hypotheses of tentative value, to pure empirical judgement. 
@@ -73,7 +88,7 @@ The Reflex system has the tools to fit the nature of a modern gunfight and survi
 
 - dice system has competence baked into it - novice skill users are inconsistent while experts often clutch
 
-- Margins of success reward shot placement and broaden the range of success and failure
+- Margins of success reward shot placement and broaden the range of success and failure 
 
 - Tick based, original XCOM style Mexican Standoff initiative system for fast paced, highly violent fights: be the first to shoot!
 
