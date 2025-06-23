@@ -1,5 +1,6 @@
 <img src="Images/abiogenesis obj_kit_1249794229121.jpg" width="500" class="Center">
-Source: [arcipello](https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510)
+
+<a href="https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510">arcipello</a>
 
 
 Abiogenesis is a roleplaying setting set in near future that has fallen on tough times caused by a cosmic disaster. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
@@ -7,13 +8,13 @@ Abiogenesis is a roleplaying setting set in near future that has fallen on tough
 In the process, society has been locked in a struggle to avoid social collapse, forced to recede from the harassment of these things beyond human comprehension.
 
 <img src="Images/abiogenesis tarkov.jpg" width="300" class="Center">
-([Battlestate Games](https://www.instagram.com/p/CC-0j4nHW7j/))
+<a href="https://www.instagram.com/p/CC-0j4nHW7j/">Battlestate Games</a>
 
 # Framing
 Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover the transformative secrets of the supernormal as they look for opportunity in this new, dangerous world.
 
 <img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
-([SCP: Overlord](https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr))
+<a href="https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr">SCP: Overlord</a>
 
 # Deeper Dive
 
@@ -24,14 +25,14 @@ For the player, the game is "your daily emergency kit has an AR-15." The cities 
 The tactical adventure can be described by elements of the modern gunfight and the empty battlefield. Cover, concealment are important. Traditional monsters of fantasy are difficult to fit into this type of gameplay, as melee attacks need advantages to outweigh the high lethality of modern weapons.
 
 <img src="Images/abiogenesis_5_MSDBOSN_EC003_H-700.jpg" width="400" class="Center">
-([Body Snatchers, 1993](https://www.scifi-movies.com/en/stills/0000333/1/body-snatchers-1993/))
+<a href="https://www.scifi-movies.com/en/stills/0000333/1/body-snatchers-1993/">Body Snatchers, 1993</a>
 
 ## [Noble-dark](https://www.reddit.com/r/40kLore/comments/iqfuu4/meta_grimdark_nobledark_and_the_setting_alignment/)
 
  The setting's characters should be in a constant friction of what needs to be done in the name of the common good, worrying about what is too tyrannical.
 
 <img src="Images/abibo 5VXRXMQNLJE2JNMDLDT5HCM4MY.webp" width="400" class="Center">
-([source](https://www.bbc.com/news/uk-60532586))
+<a href="https://www.bbc.com/news/uk-60532586">source</a>
 
 ## The State in Social Preservation mode
 - [ ] rewrite required
@@ -42,17 +43,17 @@ As of the moment, the government is saddled with the dual tasks of forming a Nat
 The landscape of post-de Kuiper America is littered with scrappy enterprises, liquidation startups, impoverished regulators and flimsy answers. It is a new age of the entrepreneur as many of economic champions or core pillars of the economy disappeared almost overnight.
 
 <img src="Images/1567328260149_1546670673522.gif.gif" width="300" class="Center">
-(source: need to find)
+need to find source
 
 ## A nearly averted apocalypse
 On the precipice of darkness and light; An oppressive, gothic environment is hidden just outside the borders of society
 
 <img src="Images/stalker shid.jpg" width="400" class="Center">
-([Alexey Andreyev](https://amp.meduza.io/en/shapito/2017/06/20/concept-art-for-an-abandoned-roadside-picnic-adaptation))
+<a href="https://amp.meduza.io/en/shapito/2017/06/20/concept-art-for-an-abandoned-roadside-picnic-adaptation">Alexey Andreyev</a>
 
 ## The Unnatural
 <img src="Images/abio ranch hand 1567383868949_piotr-jablonski-the-mount(...).jpg.jpg" width="400" class="Center">
-([Piotr Jabłoński](https://nicponim.artstation.com/))
+<a href="https://nicponim.artstation.com/">Piotr Jabłoński</a>
 
 ## Knowledge Gap
   
