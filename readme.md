@@ -1,5 +1,5 @@
 <img src="Images/abiogenesis obj_kit_1249794229121.jpg" width="500" class="Center">
-(Source: [arcipello](https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510))
+Source: [arcipello](https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510)
 
 
 Abiogenesis is a roleplaying setting set in near future that has fallen on tough times caused by a cosmic disaster. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
