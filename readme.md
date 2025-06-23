@@ -7,9 +7,10 @@ In the process, society has been locked in a struggle to avoid social collapse, 
 # Framing
 Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover the transformative secrets of the supernormal as they look for opportunity in this new, dangerous world.
 
+
 # Deeper Dive
 
-Abiogenesis takes deep inspiration from the STALKER and Half Life Series,  Campaigns consist of enduring the social instability the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.
+Abiogenesis is deeply inspired by STALKER and Half Life 1. Campaigns consist of enduring the social instability that the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.
 
 For the player, the game is "your daily emergency kit has an AR-15." The cities still hum with life, but they are vulnerable to the new wilderness. Internal refugees, adventurers and bandits are rife.
 
@@ -39,11 +40,6 @@ For the writer, this means that they may use any logic for xenonomena, as long a
 We are in a new dark age, not one born of an ignorance of burned books and dead scholars, but because some_thing_ else let us see what we thought was a reasonably whole understanding of the universe, is inadequate; One that makes the Ultraviolet Catastrophe look small in comparison.
 
 ---
-old
-
-While the physical effects  of the de kuiper event was a baleful swan of tragedy, its repercussions have become far more disturbing for the future of human life on earth. In one brief instant of history, the gap between the human experience of the universe and understanding was torn apart in an unrecognizable mess of contradiction and the 'paranormal.''
-
-The paranormal, defined as what science doesn't know, is now a common fact of life, swallowing so much of modern human existence in the darkness of scientific doubt. Wherever this spectre arises, the familiar is replaced by the alien, the safe rendered uncanny.
 ## Authentic, Hardened
 When close to home, the world works similarly to our own and the stalkers get see a lot of its darker sides. Abuse, violence and physical injuries should be described just as horrifically as witnessing them in real life would be. Death and murder are serious things, just like in our world.
 
