@@ -1,7 +1,13 @@
-https://phys.org/news/2024-10-reveals-mammal-evolution-sprawling-upright.amp
-Sprawling
-Semi upright
-Upright
+
+#candidate grapple is a penalty to movement based on where the target is held onto - characters cannot move faster than normal speed, while the grapple penalty requires them to spend x meters more to move any distance
+
+#candidate attacks count as moves
+
+#candidate the strength difference sets the default movement penalty for both characters. If a character wants to move more, they need to test against it.
+
+#candidate #winner grapple acts as a slow on the target/brings the opponent with them. Stopping a target from moving requires an immobilization test
+
+
 
 # Dice
 
@@ -270,11 +276,6 @@ Movies have limited budgets and audiences have limited time to enjoy a movie. Di
 For example, a military convoy tends to be highly condensed in a movie shot because attempting to depict the scene naturalisticly would make for a difficult scene. This is in spite of the fact had in real life these vehicles may be dangerously close.
 
 Likewise, placing a federal government in a scene would be hard without condensing the scene, such as all of it inside of all of it it existinv in a single large room.
-
-# animal behavior guidance
-
-
-animal interactions cam be characterized into six types: competition, predation, commensalism, mutualism, parasitism, and curiosity.
 
 # travel
 

@@ -1,4 +1,4 @@
-I remember having an in depth conversation about this with a biologist. They were saying a super intelligent alien would probably have to be able to live long lives and have a really long infancy to develop a mind like that. If you look at a dog that's 3 months old compared to a baby that's 3 months old, the dog can already function and can start learning basic commands. The human mind being more complex takes a lot longer to develop, so it seems reasonable that if there are super intelligent beings they could potentially have those limitations. Just a fun thought I've not seen anyone mention before.
+
 
 ---
 
@@ -221,22 +221,3 @@ Combat skills, by the way, _always_ need to be done well and quickly. That's w
 
 ---
 
-# Old, rejected
-
-# fatigue system simplification
-only applies during survival conditions
-
-As long as you do everything on the list per day, no fatigue is gained nor lost besides the random variance of life
-
-You can do without penalty
-
-2 4hr period of heavy work or 2 periods of high intensity effort (combat, athletics)
-8 hours continuous travel
-
-you must:
-
-sleep 8 hours (Failure: -1 stamina per missed period)
-eat (failure: -3 stamina)
-drink (Failure: -7 stamina)
-
-failure to do any of these results in a fatigue cost the next day

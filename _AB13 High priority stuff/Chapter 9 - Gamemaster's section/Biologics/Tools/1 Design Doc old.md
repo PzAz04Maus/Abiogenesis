@@ -1,3 +1,19 @@
+# source of de kuiper monsters
+
+terrestrial
+
+	mutations, random - 
+
+	Design - 
+	
+De Kuiper
+
+	recreations - 
+
+	Designed - 
+
+
+
 # Role
 
 Key difference with tabletop and video game enemies: how a player can interact with them
@@ -204,15 +220,6 @@ There are four core principles behind niche construction theory:
 https://upload.wikimedia.org/wikipedia/commons/9/98/Feeding_behaviours_Circular_Dendrogram.svg
 
 
-# Sapience and non-sapience
-https://orionsarm.com/eg-article/4b816f633b041
-
-https://www.otherworldlyincantations.com/intelligent-creatures-1/
-https://www.otherworldlyincantations.com/intelligent-creatures-2/
-
-**1. Non-Sapient**, INT 1-5 in my 5e indexing, features “cognition, sensation, emotion”.  
-**2. Sapient**, INT 6-19 in my 5e indexing, features “self awareness, language, rationality, abstractness, numeracy”.  
-**3. Transapient**, INT 20-29 in my 5e indexing, features “foresight, oversight, ideogenesis, translogic, autoscience”
 
 ## Traits
 The Reflex System uses both values and ratings to define a character's traits and abilities. A value is always numeric (e.g. 8), while a rating is always defined by a quantity of dice (e.g. 3d20).
@@ -228,22 +235,3 @@ Intelligent NPC life possess a set of key skill ratings that define their role. 
 Most human life has an attribute rating of 2L. Nonhuman intelligent life may possess unique attribute ratings like unintelligent life.
 
 ---
-## Sapience and Intelligence sources
-
-
-https://honorverse.fandom.com/wiki/Sentience_scale
-https://scifi.stackexchange.com/questions/181787/where-did-the-term-sophont-originate
-https://sfdictionary.com/view/298
-https://english.stackexchange.com/questions/449484/what-is-the-difference-between-sapience-and-sophonce
-https://www.rfreitas.com/Astro/Xenopsychology.htm
-https://faculty.washington.edu/gmobus/TheoryOfSapience/SapienceExplained/3.sapiencecomponents/sapienceComponents.html#:~:text=Sapience%20can%20be%20viewed%20as,learning%20(supplied%20by%20cleverness).
-https://ysabetwordsmith.livejournal.com/6306006.html
-
-sentience score
-
-Sapience score, Sapience quotient - a conjectural value comparing a given creature to a human with the value unity, and to bare sentience at 0. Values above unity are said to be superhuman levels of sapience.
-
-> Chaos is inherently universal as I have touched upon previously in my article about [Mr. Freeze’s Freezing Gun](https://cosmicchemist.com/2016/08/14/mr-freezes-freeze-gun/). In accordance with the 2nd law of thermodynamics, a closed system’s entropy (a statistical representation of the universal inclination towards chaos) can never decrease but only increase or remain constant. The Universe prefers chaos over order. If one were to fully characterize the Universe in the dramaturgical sense with humanity, or just living beings, as the protagonists, the Universe is certainly our antagonist. It stands staunchly against the very fabric of our being. The immense and extravagant complexities of life are a slap in the Universe’s face if you will.
-
-
-

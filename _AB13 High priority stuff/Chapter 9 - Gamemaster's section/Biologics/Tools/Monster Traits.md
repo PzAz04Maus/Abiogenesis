@@ -1,8 +1,12 @@
 #candidate the size modifier applies to the creature's threat level
 
 #candidate the size modifier is added to fall damage - could be a circumstantial?
+
 # Monster Traits
 Tactical traits?
+
+#### impervious
+If a penetrant has a lower value than armor, Roll 1d5 to determine the chance to pen instead of 1d10.
 #### Achilles Heel (-2) #passive
 Hitting the creature with a particular source of damage increases the damage factor by 1.
 #### Hold Breath
@@ -26,16 +30,12 @@ The creature can infect a target with the specified attack. After x time, they t
 The spawned copy is an immature child of the parent. Unless specified, the default creature is 2 sizes smaller and has half the stats of its adult version.
 ##### Mature
 The child is an exact statistical copy of the parent creature.
-
 #### Hyperlethal vector
 with every exceptional success during an exchange of fire, the creature is immediately refunded half the tick cost of their action.
-
 #### Immunity
 the creature is immune to the effects of x condition
-
 #### Death throes
 On death, the creature automatically makes one last attack when killed.
-
 #### Rupture #active
 The creature explodes for x damage in y radius with z additional effect, receiving a damage in the process.
 

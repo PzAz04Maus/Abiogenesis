@@ -1,6 +1,4 @@
 # traits 
-## impervious
-If a penetrant has a lower value than armor, Roll 1d5 to determine the chance to pen instead of 1d10.
 
 # capabilities
 

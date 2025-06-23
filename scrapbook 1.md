@@ -32,9 +32,11 @@ the vanishing triangle - a Penrose tribar
 Organelles are used to Bootstrap a meme into existence
 
 
-# Pacific northwest regional authority pnwra
+#### Pacific northwest regional authority(pnwra)
+- based on the [Pacific Northwest Regional Commission](https://www.nixonlibrary.gov/finding-aids/fg-357-pacific-northwest-regional-commission-white-house-central-files-subject-files)
+- https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Pacific%20Northwest%20regional%20planning%20commission
 
-Norcal triage
+#### Norcal triage
 
 A society in triage
 
@@ -695,7 +697,7 @@ some form of intelligence
 ---
 
 
-Complications
+# Complications
 
 The more complicated an action is, the more potential for complications arise
 
@@ -812,7 +814,7 @@ it was the largest internal migration in the history of the American people. Eve
 
 The uncertain truce presaged the zeitgeist of postwar america. a war of intense, near peer bloodshed that held a loaded gun to the head of life on planet earth, the Taiwanese conflict brought a sense of clarity, a drive to achieve in the harsh peace where nothing could be taken for granted anymore. The De kuiper event, the "natural" disasters, and the resulting recession soon drove this further home: not only was the moment under threat, but so was mankind's place on earth and their understanding of the universe. 
 
-As the nickname of McCalls demon suggests, Cascades, Washington has become an unwanted microcosm of the pacific northwest,where the rural, working class and high tech communities have been squeezed uncomfortably together, causing intangible differences to precipitate into very real anger. An example of this is the concept of Californication, where foreigners have come to a region with its own ways to compete, to bring their problems, to wreck all the values that pacific northwesterners spent a century to conserve.
+As the nickname of McCalls Failure suggests, Cascades, Washington has become an unwanted microcosm of the pacific northwest,where the rural, working class and high tech communities have been squeezed uncomfortably together, causing intangible differences to precipitate into very real anger. An example of this is the concept of Californication, where foreigners have come to a region with its own ways to compete, to bring their problems, to wreck all the values that pacific northwesterners spent a century to conserve.
 
 Life in the Cascades has become about seizing that moment before someone else gets it first. Whether the reasons are for rebuilding a cherished past or to escape to some future, everyone is toughing out the moment to make it.
 

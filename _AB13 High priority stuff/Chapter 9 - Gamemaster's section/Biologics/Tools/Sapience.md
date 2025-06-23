@@ -1,0 +1,2 @@
+- https://faculty.washington.edu/gmobus/TheoryOfSapience/SapienceExplained/3.sapiencecomponents/sapienceComponents.html#:~:text=Sapience%20can%20be%20viewed%20as,learning%20(supplied%20by%20cleverness).
+- 
