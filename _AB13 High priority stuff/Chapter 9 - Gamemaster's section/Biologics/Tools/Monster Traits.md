@@ -3,9 +3,12 @@
 #candidate the size modifier is added to fall damage - could be a circumstantial?
 
 
-# Trait Prescriptions
+# Patented traits
 
 GM specific variants of the below traits.
+
+##### The Truth is out There
+This creature is the Fox Mulder of its species.
 
 # Trait Generics
 Tactical traits?
