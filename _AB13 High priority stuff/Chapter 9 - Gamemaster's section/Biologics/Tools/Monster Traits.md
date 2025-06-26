@@ -10,6 +10,9 @@
 GM specific variants of generic traits.
 ##### The Truth is out There
 This creature is Fox Mulder cognitively trapped inside that body.
+
+##### The Truth is Ultra Instinct
+
 # Trait Generics
 These traits are templates for a GM to modify as they see fit. 
 #### impervious
@@ -63,7 +66,6 @@ The creature may frenzy x times per y period, gaining an z additional attack act
 
 #### Hive Mind
 The creature shares thoughts and actions with others of its group in x distance (default 400m). It cannot be surprised if any other of its kind is not surprised.
-
 ##### Hive Sight
 The creature shares senses with others of its group in x distance (default 400m). It cannot be blinded or deafened, or lose LOS, unless all members of its group suffer from it.
 #### respiration
