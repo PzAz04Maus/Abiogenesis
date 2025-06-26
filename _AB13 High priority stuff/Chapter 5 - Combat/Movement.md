@@ -28,6 +28,20 @@ See: [[#Research]] for additional stuff
 - Walk - maximum sustained speed
 - Rush - ? VO2 max?
 - Sprint - maximal anerobic sprint. Has a time limit (1 minute for humans)
+
+##### 1. How long can the average person run before getting tired?
+The average person can run for approximately **10-15 minutes** before experiencing fatigue and needing to slow down or stop. This varies based on fitness level, training, and overall health.
+##### Outcome
+A character can sprint for one pause before needing to test for exertion or slow down
+
+characters can run (trot?) for 10 pauses before needing to test for exertion.
+
+An exertion test is an attribute test. On success, the character may continue exerting; On failure, the character takes temporary attribute damage equal to the margin of failure that requires one hour rest. If the temporary attribute damage overflows the character's health, they take permanent damage instead.
+
+For more information on Attribute damage, see [section x]
+
+Each successive exertion test adds a -1 penalty.
+
 ## #candidate Speeds (See AB13) (2025)
 When designing creature speeds, we write a multiplier for the designer sample, but record the product in the game sample.
 
@@ -219,19 +233,6 @@ Key points about lactic acid buildup during running:
 
 $f(Ad20v  Bp1 = \frac{x}{2^x}$
 
-### 1. How long can the average person run before getting tired?
-
-The average person can run for approximately **10-15 minutes** before experiencing fatigue and needing to slow down or stop. This varies based on fitness level, training, and overall health.
-
-A character can sprint for one pause before needing to test for exertion or slow down
-
-characters can run (trot?) for 10 pauses before needing to test for exertion.
-
-An exertion test is an attribute test. On success, the character may continue exerting; On failure, the character takes temporary attribute damage equal to the margin of failure that requires one hour rest. If the temporary attribute damage overflows the character's health, they take permanent damage instead.
-
-For more information on Attribute damage, see [section x]
-
-Each successive exertion test adds a -1 penalty.
 
 
 ### stopping distance 
