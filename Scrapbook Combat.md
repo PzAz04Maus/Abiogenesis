@@ -453,20 +453,6 @@ kph
 
  
 
-### 1. How long can the average person run before getting tired?
-
-The average person can run for approximately **10-15 minutes** before experiencing fatigue and needing to slow down or stop. This varies based on fitness level, training, and overall health.
-
-A character can sprint for one pause before needing to test for exertion or slow down
-
-characters can run (trot?) for 10 pauses before needing to test for exertion.
-
-An exertion test is an attribute test. On success, the character may continue exerting; On failure, the character takes temporary attribute damage equal to the margin of failure that requires one hour rest. If the temporary attribute damage overflows the character's health, they take permanent damage instead.
-
-For more information on Attribute damage, see [section x]
-
-Each successive exertion test adds a -1 penalty.
-
 
 
 # Section x
@@ -777,3 +763,85 @@ Can anyone tell me if there is a standard for the elevation levels and what each
 
 jrv — Today at 9:16 AM
 AFAIK this is never defined, and the mapping of levels to physical height is situational. I once compared one of the KGP maps to a contour map and got a value of around 20m per level. In most cases the value players have deduced is around 10m per level. The mapping seems to be situational, so a level two hill in a scenario in Norway might represent a vastly higher hill than one around Kursk. Similarly a level two building in the country (e.g. the chateau on board 6) might represent a building that would be dwarfed in a more urban environment like downtown Berlin. My guess is that a level represents from five meters to twenty meters or more.
+
+
+
+# Stealth
+
+by convention, the length a stealth success lasts is semi-indefinite, lasting until the next stealth check is tested.
+
+
+
+## Stealth and time
+
+https://www.therpgsite.com/pen-paper-roleplaying-games-rpgs-discussion/good-stealth-mechanics/
+
+I have found the Wrath & Glory rules for Stealth interesting and useful for gaming. You roll your stealth score (after including modifiers for environment, gear, special abilities, etc.) and your successes (it's a dice pool system) give you a stealth score. This is the score opponents need to beat with their passive awareness to detect you. The trik is that various actions taken can increase or (more commonly) decrease your stealth score. If the GM wants to keep you on your toes, they can switch the flat increases/reductions to a randomized value and keep track of your score out of players' sight so they don't necessarily know the exact moment they are detected.
+
+---
+
+I think the best stealth mechanics I've encountered recently are in a Stars Without Number supplement "Darkness Visible" which is about espionage campaigns.  
+  
+Basically, you get everyone to roll their Stealth skill normally. The person with the highest Stealth skill has their skill level (Traveller-rated, so 4 is the highest) in free passes that they can dole out to the less ghostly party members. It keeps it light and fast, while also preventing one bad stealth roll from screwing the whole infiltration.  
+  
+I do like the idea of a Stealth pool, where time and actions degrade the pool. I wouldn't use a HP mechanic, but I might use poker chips or something like that.
+
+---
+
+I guess I'd start by asking "What do you mean by Stealth?"  
+  
+  
+When I think of stealth, it either boils down to encounter stealth, or whole-scenario stealth. The D&D rulesets have an acceptable level of abstraction for encounter stealth, but really fall flat if you try to apply them to whole-scenario stealth.  
+  
+Key principles I would suggest for designing a system for whole-scenario stealth:  
+  
+* More players rolling dice should not necessarily lead to higher chance of failure  
+* Every character can contribute something unique to the encounter (not just "I roll Stealth")  
+  
+In my mind, whole-scenario stealth is more along the lines of Ocean's Eleven or Mission Impossible. You need to define key roles for characters like face-man, technical (hacker, mage), muscle, diversion, etc. The roles need not be specific to the character but could be fluid to the scenario -- e.g. Russian character is a more effective face-man in a Moscow-based scenario, even if he's normally the strong-man who knocks out guards.  
+  
+What you probably end up with is some kind of progress-clock minigame where you give players a certain number of moves to accomplish their objectives. I also like the idea of a stealth pool that automatically ticks down, which implicitly creates some tension and you can either force players to do certain things (hide, knock out a guard, make a diversion, etc) to maintain stealth, or complete objectives.
+
+
+---
+
+With stealth as with other skills, what I like to do in skill-based systems (as opposed to class-based) is that if you have the skill, you're not rolling to see _whether_ you succeed, but _how well_ and _how quickly_ you perform the skill.  
+  
+So for example with stealth,  
+  
+
+- fail - you move slowly and noisily, you can be mistaken for an animal moving around in the area, or a person friendly to the watcher
+- success - you move quickly _or_ quietly. If quickly, you're still noisy, but they can't get a precise bead on you. If quietly, you're quiet but it'll take you a long time to get from A to B
+- great success - you move both quickly and quietly
+
+  
+with this in mind, only a great failure is a traditional "fail." Two of the other possible three results give the player a choice - and it may be a difficult choice. Let's say you're doing a prison break and trying to sneak by a guard - you can make noise but move quickly, or be quiet but be slow - but both you and the guard are outside the building, he's on the opposite side, if you choose to be slow he might come across you soon, but if you're noisy while he might ignore you, his mate up on the tower might notice you, and...  
+  
+Indeed, if the player is willing to have their character do something slowly enough, they can _always_ do it well - without even rolling. Got mechanics? Want to fix an overheated engine? Got a week? No worries, hold your dice, pass the cheetos. Want to do it in ten minutes? Want to do it so it won't burn out again after another hour of driving? Better roll.  
+  
+Combat skills, by the way, _always_ need to be done well and quickly. That's why you always roll for combat, and why the results are either/or with success/failure. That's combat.
+
+## Levels of Stealth
+
+
+
+---
+
+# Ticks before spot
+- [ ] #mechanics Ticks before spot
+The spot delta could represent how much movement a person can do in a targets Los before the target spots them
+
+
+
+A diceless test for Concealment
+
+Observe/conceal VS conceal/observe
+
+Add the extrinsic values such as contrast,terrain, movement
+
+Simplification: avg spot/conceal together
+
+
+https://boardgamedesignlab.com/mechanism-master-list/
+
+---

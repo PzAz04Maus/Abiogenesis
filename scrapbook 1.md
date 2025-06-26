@@ -15,8 +15,6 @@ Abiogenic Dawn??
 Abiogenesis Dawn
 
 ---
-
----
 #Abiogenesis #reference
 The franklin expedition
 
@@ -44,9 +42,6 @@ Riverton’s hospital sits twenty-eight miles from Lander’s, but few Rivertoni
 
 
 
-# Ticks before spot
-- [ ] #mechanics Ticks before spot
-The spot delta could represent how much movement a person can do in a targets Los before the target spots them
 # Stat delta
 - [ ] #mechanics Stat delta
 Statistics rise and fall during play because bad things happen. On the stat sheet, performance stats have 2 values - their starting value denoted by \_, and their current value denoted by $\Delta$ 
@@ -76,163 +71,9 @@ Check
 
 Static 
 
-A diceless test for Concealment
-
-Observe/conceal VS conceal/observe
-
-Add the extrinsic values such as contrast,terrain, movement
-
-Simplification: avg spot/conceal together
-
-
-https://boardgamedesignlab.com/mechanism-master-list/
-
----
-
 # action penalty due to speed
 
 Divide the current speed by a penalty Modifier such as 3.
-
-# map standards
-
-1/10 scale
-
-1 m in Blender = 10 irl
-
-Height should be 1/10th of distance
-
-In actuality it should be 1/100th, but that is too difficult to discern.
-
-2 meters is the safe height to hide a standing person. 3 is the safe height to hide a tank
-
-- Triangulate all meshes/models to avoid holes.
-- Make sure the normals on your mesh are facing the right direction.
-- Set the origin point of the model to the center of mass for best physics. Objects in TTS rotate around their origin point.
-- Don’t go crazy with poly counts, use a normal map to add fine detail.
-- Keep the vertices below 25k for best results, as any higher your objects may not import and/or crash your game.
-- If you want to access additional elements for importing a Model, you might be interested in [Custom AssetBundles](https://kb.tabletopsimulator.com/custom-content/custom-assetbundle/) instead.
-
-needs a mesh collider
-	- blender addon
-
-
-# Mesh instructions
-1. find simple collider on github, unless you can donate to the creator on blendermarket
-	1. If you don't donate, you need to download the release zip from the website and then set up the source files yourself
-	2. blendermarket just makes it convenient to install
-2. in blender, edit -> preferences -> get extensions
-3. top right, there is a downward chevron. open it and select install from disk
-4. navigate to the downloaded zip file and select it
-5.  it will automatically enable on install
-6. the tab will appear on the right side of the viewport next to the camera controls
-7. select all objects to collide -> add mesh
-
-current issue: vtt tokens ride high on the mesh - "float midair". Not good.
-
-# 2D Node designer
-## draw.io
-
-
-### Process
-
-1) add nodes
-2) link nodes with edges
-3) number nodes
-4) import png into 2D VTT of choice
-5) Add landcover in VTT
-
-
-# 3D heightmap editor software
-## Sketchup
-	
-- I don't like that they paywall exporting the model to a file. Otherwise, it's easy to use.
-https://app.sketchup.com/share/tc/northAmerica/H_BAZK5114s?stoken=NZlM-imjRBigIkKjEDIo2dXW1klQ1tExmTsCA3-Cgpb92F_tfdvOXOR_V6tdmW4i&source=web
-
-## Blender
-https://github.com/domlysz/BlenderGIS
-
-### Process
-
-1) (object mode)
-2) add -> Mesh -> plane
-3) (edit mode)
-4) scale to intended size of terrain
-5) right click -> subdivide -> repeat step 2 until satisfied
-6) move action to edit
-
-
-### Additional actions
--  [Rip-fill](https://docs.blender.org/manual/en/2.81/modeling/meshes/editing/vertices.html)) :splits vertices, but fills the topology hole with more geometry. Allows you to make cliffs!
-	- Alt-V when selecting nodes or edges
-- 
-
-	
-Notes:
-- there are 3 modes to edit by in the edit mode; vertex, edge, and face. All 3 are viable choices
-- you can use the XYZ arrows to have tight control over object placement
-- (edit mode) press g, then shift-z to move objects on the X and Y plane with the mouse cursor
-- (edit mode) press g, then z to move objects on the Z plane with the mouse cursor
-
-
-
-
-## Wings3D
-## FreeCAD
-
-# Voxel Editor
-## MagicaVoxel
- - https://ephtracy.github.io/
-
-
-[Magicavoxel Tutorials - Creating Real World Heightmaps](https://youtu.be/-3aFuODXB6k?si=G1NM_huNrxTC6eki)
-
-https://docs.mapbox.com/help/getting-started/access-tokens/
-
-https://www.reddit.com/r/gamedev/comments/ri2msg/where_do_you_guys_get_real_world_terrain_height/
-
-https://manticorp.github.io/unrealheightmap/instructions.html
-
-## Worldpainter
-
-
-## 
-
----
-
-
-As the los travels along the length, find the highest point between the origin and the destination. If the destination is below the highest point, it is obscured.
-
-Ez version - The destination takes the height of the closest datapoint.
-
-
-Magnitude
-
-We have one for combat ranges
-
-Not one for terrain
-
-But we can simplify 1d6
-
-We can also map outcomes to inputs with a distribution chart
-
-1 1 2 2 2 3
-1 1 1 2 3 6
-
-https://medium.com/@srowen/common-probability-distributions-347e6b945ce4
-
-
-
-
-or a formula (exponential)
-
-N-1 = flatter
-N+1 = hillier
-
-2^n-1 m
-
-1 2 4 8 16 32 64
-
-1−((20−12)÷20)^(4)
 
 https://www.fastcompany.com/91275004/xdown-killer-drone-designed-like-football
 
@@ -368,40 +209,6 @@ Weather can either magnify catastrophic results or increase the probability of t
 
 
 # Lore
-
-
-# Kirlians creature
-
-## Gameplay
-
-Electric eel
-Emp
-Flashbang
-Static charged objects
-
-Can craft electro anomalies
-
-Can shape or weld steel
-
-## Description
-
-Chitinous steel creature with sleek rings, coils, apertures and crowns 
-
-https://www.museumselection.co.uk/the-art-deco-movement/
-
-Hollow on the inside, but the outline of organs can be seen when the corona discharges, if exposed
-
-Creature produces a large coronal discharge across most of their body on readying or activating a power
-
-https://en.m.wikipedia.org/wiki/Corona_discharge#/media/File%3A%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B7%D1%80%D1%8F%D0%B4.jpg
-
-the smell of ozone, blue fog follows its discharge 
-
-Can create intricate art by eroding metal 
-https://www.reddit.com/r/pics/s/Wlbtu2W0yG that looks like itself
-
-
-
 
 
 
@@ -572,34 +379,6 @@ the idea of the movie playing just spilled out
 
 ---
 
-thing of 
-
-https://cdn.discordapp.com/attachments/151499379436421120/1337800469304573983/image.png?ex=67a8c347&is=67a771c7&hm=39a79b9d70f77251946b63d32836354a59d6fab83461f6b954a68787a73a749a&
-
-
-fragmented reality, broken mirrors, vague, wispy
-
-just brushed against her, the skin had a haemoraggenic reaction to an allergen that doesn't belong here because these realities don't like each other
-
-this causes skin to look like severe burns, anaphlylactic shock over something that shouldn't exist
-
-the creature is minding its own business and doesn't even acknowledge  her
-
-freaked itself out like a squid
-
-aerial squid or fish
-
-- doesnt belong in this reality, far less visually comprehensible than this
-
--doesnt belong in this reality, far less visually comprehensible than this
--moves like a fish in water, may dart away suddenly
--hard to look at, like thousands of broken mirrors in rainbow refractory patterns
--may cause severe "allergic reaction" on skin contact, to the point of "anaphylatic shock" symptoms - as if bodies in this reality is allergic to things that don't belong, this is how reality interprets it, being touched by a "foreign body" that the physical body "rejects" like an allergen.
--isn't really hostile? like a confused fish out of water that can still swim. you took a trout and threw it in the sky and somehow it can still swim but really doesn't understand what this wind pressure is or what clouds are. (edited)
-
-fabric or material may not be able to protect against it because even the fabric fuses with the material as they intersect
-
-fabric may be fused into the character
 
 ---
 
@@ -767,7 +546,7 @@ Or amalgamate one from all the cities and place it in vancouver
 
 https://www.pdxmonthly.com/news-and-city-life/2023/11/portland-personality-introverts
 
-Cascades, Washington. 
+### Cascades, Washington. 
 
 part of the Olympia-Vancouver-Portland metro area
 Ic Set on Vancouver-Portland region
@@ -959,13 +738,13 @@ Key points to remember:
 # TXT mod
 1. I only vaguely remember it but it essentially acted as a second HP pool that ticked down from stressful events and would inflict debuffs at certain thresholds
 
-# Moral resistance model
+# Moral resistance model #candidate
 
 Resistance 5,meaning a + 5 to tests
 
 This can be countered by harder tests
 
-# morale penalties (selected)
+# morale penalties (selected) #candidate
 
 All actions done in harms way can have a morale penalty based on the person's fear of the threat (pressure, suppression) 
 
@@ -987,7 +766,7 @@ Penalty rating samples
 
 Hits quadruple the penalty (2 step)
 
-# moral cohesion model (selected)
+# moral cohesion model (selected) #candidate
 
 > Moral factors can sustain troops far beyond the normal physical and mental limits of human beings, provided they perceive their cause as a righteous moral imperative worthy of their lives
 

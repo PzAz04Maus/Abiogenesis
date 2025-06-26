@@ -1,3 +1,64 @@
+thing of 
+
+https://cdn.discordapp.com/attachments/151499379436421120/1337800469304573983/image.png?ex=67a8c347&is=67a771c7&hm=39a79b9d70f77251946b63d32836354a59d6fab83461f6b954a68787a73a749a&
+
+
+fragmented reality, broken mirrors, vague, wispy
+
+just brushed against her, the skin had a haemoraggenic reaction to an allergen that doesn't belong here because these realities don't like each other
+
+this causes skin to look like severe burns, anaphlylactic shock over something that shouldn't exist
+
+the creature is minding its own business and doesn't even acknowledge  her
+
+freaked itself out like a squid
+
+aerial squid or fish
+
+- doesnt belong in this reality, far less visually comprehensible than this
+
+-doesnt belong in this reality, far less visually comprehensible than this
+-moves like a fish in water, may dart away suddenly
+-hard to look at, like thousands of broken mirrors in rainbow refractory patterns
+-may cause severe "allergic reaction" on skin contact, to the point of "anaphylatic shock" symptoms - as if bodies in this reality is allergic to things that don't belong, this is how reality interprets it, being touched by a "foreign body" that the physical body "rejects" like an allergen.
+-isn't really hostile? like a confused fish out of water that can still swim. you took a trout and threw it in the sky and somehow it can still swim but really doesn't understand what this wind pressure is or what clouds are. (edited)
+
+fabric or material may not be able to protect against it because even the fabric fuses with the material as they intersect
+
+fabric may be fused into the character
+
+
+# Kirlians creature
+
+## Gameplay
+
+Electric eel
+Emp
+Flashbang
+Static charged objects
+
+Can craft electro anomalies
+
+Can shape or weld steel
+
+## Description
+
+Chitinous steel creature with sleek rings, coils, apertures and crowns 
+
+https://www.museumselection.co.uk/the-art-deco-movement/
+
+Hollow on the inside, but the outline of organs can be seen when the corona discharges, if exposed
+
+Creature produces a large coronal discharge across most of their body on readying or activating a power
+
+https://en.m.wikipedia.org/wiki/Corona_discharge#/media/File%3A%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B7%D1%80%D1%8F%D0%B4.jpg
+
+the smell of ozone, blue fog follows its discharge 
+
+Can create intricate art by eroding metal 
+https://www.reddit.com/r/pics/s/Wlbtu2W0yG that looks like itself
+
+
 
 # reanimator
 	creates hordes of poorly animated zombies
