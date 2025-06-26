@@ -1,17 +1,19 @@
-#candidate the size modifier applies to the creature's threat level
+#candidate does the size modifier apply to the creature's threat level?
 
-#candidate the size modifier is added to fall damage - could be a circumstantial?
+# Things to consider
 
+- #question are there tactical traits and strategic traits?
+- Trait threat levels?
 
 # Patented traits
 
-GM specific variants of the below traits.
+GM specific variants of generic traits.
 
 ##### The Truth is out There
 This creature is the Fox Mulder of its species.
 
 # Trait Generics
-Tactical traits?
+
 
 These traits are templates for a GM to modify as they see fit. 
 #### impervious
