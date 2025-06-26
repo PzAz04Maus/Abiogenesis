@@ -2,9 +2,15 @@
 
 #candidate the size modifier is added to fall damage - could be a circumstantial?
 
-# Monster Traits
+
+# Trait Prescriptions
+
+GM specific variants of the below traits.
+
+# Trait Generics
 Tactical traits?
 
+These traits are templates for a GM to modify as they see fit. 
 #### impervious
 If a penetrant has a lower value than armor, Roll 1d5 to determine the chance to pen instead of 1d10.
 #### Achilles Heel (-2) #passive
@@ -44,6 +50,10 @@ If a damage is not specified, the creature dies upon rupture.
 #### Deadcheck #passive
 When the creature dies, they return to life x time later unless attacked once more.
 
+##### Armor Piercing #passive
+This creature's attack ignores x armor value.
+##### Rending
+This creature's attack permanently destroys x armor value after applying damage.
 #### No Fear
 the creature is immune to threat levels.
 
@@ -106,7 +116,7 @@ in Y {period} with Z {material}.
 	The NPC's attack returns x health on success
 
 #### NBC vector
-Any target is exposed to X disease, poison or radioactive threat on a test every Y {period}.
+Any target exposed to X disease, poison or radioactive threat is tested every Y {period} for contracting it.
 
 #### Mimic
 The creature may duplicate any sound they hear at least once.
@@ -123,6 +133,12 @@ They replicate the physical capabilities of the target, but retain their own men
 
 #### Growth
 ### Action modifiers
+
+#### exposure
+
+##### Contact
+##### Aerosol
+##### 
 
 #### Condition, source
 the action activates only on condition x or because of source x
@@ -177,4 +193,4 @@ the creature experiences an x penalty to actions in the personal or gunfighting 
 #### superior jumper
 
 #### superior runner
-the creature's speed multiplier for determining speed is increased by 1.
+the creature's speed multiplier for determining speed is increased by x.
