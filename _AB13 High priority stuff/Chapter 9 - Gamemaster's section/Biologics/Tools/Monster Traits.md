@@ -8,13 +8,9 @@
 # Patented traits
 
 GM specific variants of generic traits.
-
 ##### The Truth is out There
-This creature is the Fox Mulder of its species.
-
+This creature is Fox Mulder cognitively trapped inside that body.
 # Trait Generics
-
-
 These traits are templates for a GM to modify as they see fit. 
 #### impervious
 If a penetrant has a lower value than armor, Roll 1d5 to determine the chance to pen instead of 1d10.
