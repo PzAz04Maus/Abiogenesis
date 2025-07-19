@@ -1,0 +1,1 @@
+The NPC can make simultaneous attacks with others of his species. A single attack check is made with a bonus equal to the number of NPCs involved. With a hit, the target suffers the attack’s base damage only once, but it’s multiplied by 1/2 this bonus (rounded down). 

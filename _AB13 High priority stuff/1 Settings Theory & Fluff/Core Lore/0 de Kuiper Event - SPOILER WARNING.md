@@ -44,10 +44,10 @@ Finally, everything was ordered into arrangement for the fateful night, and Djin
 
 However, the datagram didn't take several decades to transmit by radiowave. Whatever Djinn had sent, somehow reached its destination in 30 minutes without the knowledge of its operators. This only can be surmised by the chain of events because after one hour, the entire Solar System was contaminated by an anomalous pulse of extraterrestrial origin, showered in every imaginable form of energy or matter possible. The heavens flared into life with an unearthly brilliance, comets and meteors burning up in the sky as modern technology was afflicted by a Carrington-style Event of unimaginable proportions. 
 
-An incredible fraction of infrastructure was destroyed heterogeneously across the globe, though plenty more still survived the inevitable damage to make a modern response possible.
+An incredible fraction of infrastructure was destroyed at random across the globe, though plenty more still survived the inevitable damage to make a modern response possible.
 
 What was worse though, was that Djinn didn't stop with the datagram. Out of control, still powered despite being severed from the grid, Djinn began emitting more and more code that far outstripped what it had been designed to do, stuff of an impossible architecture. Legends say that the server cluster began to grow in this period while the Earth continued to be pelted in what could only be described as exotic materials and spellfire. Eventually, California had to be evacuated.
 
-There is a conspiracy that the President of the United States ordered a nuclear strike on Djinn.
+There is a conspiracy that a nuclear strike was ordered on Djinn.
 
-The scale of the disaster was only consistent in one factor: nothing added up. People died from no apparent cause, patches of people suffered acute radiation burns, and electronics acted almost of their own accord. What was more disturbing however, were the tales of land held in the air with no apparent source, cyclopean structures spontaneously generating , creatures lurking the night, and disturbing afflictions that struck people down. It was as though a cryptic nightmare decided what was now real
+The scale of the disaster was only consistent in one factor: nothing added up. People died from no apparent cause, patches of people suffered acute radiation burns, and electronics acted of their own accord. What was more disturbing however, were the tales of land held in the air with no apparent source, cyclopean structures spontaneously generating , creatures lurking the night, and disturbing afflictions that struck people down. It was as though a cryptic nightmare decided what was now real

@@ -3,7 +3,13 @@
 (inspiration)
 ![](Images/d3daopd-43342e8e-5039-46bf-923a-2503c58dcdd7.jpg)
 (inspiration)
-# Mechanics
+
+https://en.m.wikipedia.org/wiki/Clearfin_lionfish
+
+
+# design diary
+
+Corralling pack creatures that pursue prey
 
 Shardmanes serve as a medium level mob for the players with a playstyle like a supernormal tactical force.
 
@@ -20,6 +26,15 @@ firing may depend on a 'heat' mechanic that stalls them.
 
 
 Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
+
+- Juveniles have low performance shards
+- regulars are akin to a battle rifle
+- automatics are akin to an LMG
+- supports are equivalent to a 25-30mm autocannon with a slow ROF
+
+firing may depend on a 'heat' mechanic that stalls them.
+- alternative: shardmanes have a better fire density than typical infantry, where half are shooting at one time instead of third.
+
 ## Lore
 
 An abiogenetic siliceous creature, the shardmane is an extraterrestrial biologic with the rough shape of a disembodied, skeletonized lion.

@@ -11,7 +11,7 @@ Orclike male face with thick beard wrapped around chin to back of the neck like 
 
 , bald head
 
-Split chin
+massive Split chin
 
 Wrestler neck
 

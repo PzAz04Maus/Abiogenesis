@@ -1,1 +1,0 @@
-Species with urticating hairs can kick these hairs off; they are flicked into the air at a target using their back pairs of legs. These fine hairs are barbed and designed to irritate and can be lethal to small animals such as rodents.

@@ -1,11 +1,13 @@
-# Strategic
+## United States Forces Taiwan
 
-## United States Forces Pacific Northwest
-https://en.wikipedia.org/wiki/Alaskan_Command
+## Pacific Northwest Command (based on [ALCOM](https://en.wikipedia.org/wiki/Alaskan_Command))
+Or Continental United States Pacific Command (CONUSPACCOM)
+Or Pacific Continental Command (PACCONCOM)
+USPACCOM
 
-The **United States Forces Pacific Northwest** (**USFPNW**) is a joint subordinate unified command of the [United States Northern Command](https://en.wikipedia.org/wiki/United_States_Northern_Command "United States Northern Command"), responsible for operations in the Pacific Northwest region. USFPNW is charged with deploying forces to maintain the West California Exclusionary Zone, providing support to federal, state, and regional officials during civil emergencies, and recovering US interests in the region.
+The **Pacific Northwest Command** (PNWCOM) is a subordinate command of [**USNORTHCOM**](https://en.wikipedia.org/wiki/United_States_Northern_Command "United States Northern Command"). Responsible for operations on the Pacific Coast of the Continental United States. PNWCOM is charged with providing military support to the California Exclusionary Zone and non-military authorities on the Continent's west coast. PNWCOM was approved for creation (6 months after California's Collapse) to reorganize the forces reeling from the general crisis in the Southwestern United States, in particular the forces shattered by the collapse of California.
 
-USFPNW combined forces include more than ... Air Force, Army, Navy and Coastguard personnel. 
+PNWCOM combined forces include more than ... Air Force, Army, Navy and Coastguard personnel. 
 
 It is headquartered in Joint Base Lewis-McCord near Tacoma, Washington. The command is composed of the following military forces
 ### [Sixth Army](https://en.wikipedia.org/wiki/Sixth_Army_(United_States))

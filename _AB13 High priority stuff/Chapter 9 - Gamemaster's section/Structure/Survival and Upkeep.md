@@ -171,4 +171,4 @@ Note: Effects such as group size or lack of amenities can provide additional spe
 # Lifestyle Hazard
 
 
-- [ ] Figure a lifestyle hazard system⏫ 
+- [ ] #campaign Figure a lifestyle hazard system⏫ [priority:: high] 
