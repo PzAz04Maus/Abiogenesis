@@ -26,28 +26,3 @@ Body has speed holes, fluted surfaces? (plate armor)
 
 Arms gain fluted serrations as well. Unarmed fighting results in bleeding
 
----
-
-Key difference with tabletop and video game enemies: how a player can interact with them
-
----
-
-Bustle suit, lifted jacket
-
-Suit with rubber spikes on the inside that create an air gap from the camouflage layer
-
-Ways to produce this
-
-Bubble wrap
-Padding 
-Frame
-Props
-Pleating and ruffles
-
-
-
-Problems 
-- bigger bulk
-- prone 
-
-

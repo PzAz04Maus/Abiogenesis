@@ -15,6 +15,8 @@ Shardmanes serve as a medium level mob for the players with a playstyle like a s
 
 Their growth and evolution creates multiple variants that vaguely relate to categories of firearms.
 
+Telekinesis, for example like those obsidian lions? those fuckers, something like that that accelerates a flechette of rock at long-arm velocity.
+
 - Juveniles have low performance shards
 - regulars are akin to a battle rifle
 - automatics are akin to an LMG

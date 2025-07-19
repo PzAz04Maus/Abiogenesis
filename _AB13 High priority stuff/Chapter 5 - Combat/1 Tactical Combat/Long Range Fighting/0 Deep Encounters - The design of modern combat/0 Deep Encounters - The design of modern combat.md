@@ -39,6 +39,8 @@ In fact, I personally believe that they are complementary enough to be considere
 # Inspiration 
 ![Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)[Grishino Deploy Assault](https://youtu.be/nwYnZVttfaw?si=9qvERAOBw5xZP1qI)
 
+![Vietnam](https://www.youtube.com/shorts/MJ1i_TAXv2Q?feature=share)
+(imbed doesn't work)
 
 ![](https://youtu.be/yRDZWtDLtwo?si=9JpJHFNjV8_JEf-w)
 ![](https://youtu.be/b-DenpDBF-Y?si=K09OTSWmWOboDLNg)

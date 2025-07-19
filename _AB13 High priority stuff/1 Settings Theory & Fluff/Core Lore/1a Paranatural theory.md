@@ -1,3 +1,24 @@
+# Science hardness
+##### The problem with Hardness
+
+By traditional [convention](https://www.kheper.net/topics/scifi/grading/), Science fiction has been described through levels of *hardness*, that is, how much they adhere to the laws of nature. But for fiction writers, stories have been described through how consistent, how real the world is compared to ours. In both cases, these are attempts to make the resulting piece look grounded or lifelike, but they come from different perspectives. Hardness comes from physical phenomena first, where the focus is on whether the math checks out, while realism comes from how congruent the fiction feels with human experience, looking at such intangibles like socioeconomics or emotion for instance
+
+In both cases, we find that there are limits to how much realism or hardness we can pack into a story
+- interactive fiction requires more work than static fiction
+- the amount of work for a given level of hardness or realism rises at an exponential rate. 
+- to be real requires following the algebra of cause and effect from beginning to conclusion
+- no author can ever reach maximum realism - to do that requires knowing more than every reader and search engine *combined*.
+
+Therefore, fiction requires at least some artifice[^1] - we *must* make shit up at some point. And because of that, I don't think Hardness or realism is a good tool to strive for.
+
+##### A matter of production values
+
+What I aim for instead is vermisilitude - the appearance of being true. Starting with 2001: a Space Odyssey, there has been a growing trend in motion fiction (movies, video games) of creating universes that use a mixture of speculation and aesthetics to appear authentic and immerse the audience into the work, From the Used Future aesthetic of Star Wars, the blue collar working sensibilities of Alien, the filigreed lore of the Colonial Marines in Aliens, the visual Futurism of Syd Mead (Bladerunner), Tom Clancy, or the environmental storytelling of immersion video games. 
+
+Looking at it from this perspective, we can divide up a production into its individual components and decide on a budget for each piece depending on its importance to the audience. I define vermisilitude by the work's [production values](https://www.studiobinder.com/blog/what-is-production-value-definition/), how immersive it is, and how much of a cognitive budget we have to achieve it. It doesn't matter whether something is scientifically impossible - only that it is good enough to convince an audience to take it for granted.
+
+[^1]: How Watson Learned the Trick - https://medium.com/%40MrGrahamMoore/how-to-write-about-characters-who-are-smarter-than-you-c7c956944847
+
 # Writing theory
 
 Science that looks like magic and magic that looks like science
