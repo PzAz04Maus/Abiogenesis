@@ -1,0 +1,5 @@
+{
+  "name": "text",
+  "extensions": [".md", ".txt"],
+  "comment": "//"
+}
