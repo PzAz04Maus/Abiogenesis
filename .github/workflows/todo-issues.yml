@@ -1,0 +1,20 @@
+name: TODO to Issue
+
+on:
+  push:
+    branches:
+      - "**"   # optional: allow TODO detection on all branches
+
+jobs:
+  todos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # This runs the TODO → Issue automation
+      - name: Convert TODOs to GitHub Issues
+        uses: alstr/todo-to-issue-action@v4
+        with:
+          autoAssign: true        # optional: assigns issue to commit author
+          closeIssues: true       # close the Issue if TODO disappears
