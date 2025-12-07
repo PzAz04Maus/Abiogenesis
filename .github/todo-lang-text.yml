@@ -1,0 +1,10 @@
+name: text
+extensions:
+  - ".md"
+  - ".txt"
+comments:
+  - "//"
+  - "#"
+identifiers:
+  - "TODO"
+  - "FIXME"
