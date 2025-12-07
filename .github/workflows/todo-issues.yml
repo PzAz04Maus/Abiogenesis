@@ -17,4 +17,5 @@ jobs:
           AUTO_ASSIGN: true
           CLOSE_ISSUES: true
           NO_STANDARD: true
+          LANGUAGES: "md,txt"
 
