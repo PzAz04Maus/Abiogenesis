@@ -17,5 +17,5 @@ jobs:
           AUTO_ASSIGN: true
           CLOSE_ISSUES: true
           NO_STANDARD: true
-          LANGUAGES: ".github/todo-lang-text.yml"
+          LANGUAGES: ".github/todo-langs.yml"
 
