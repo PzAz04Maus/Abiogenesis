@@ -3,7 +3,6 @@ name: TODO to Issue
 on:
   push:
     branches:
-      - "**"   # optional: allow TODO detection on all branches
 
 jobs:
   todos:
