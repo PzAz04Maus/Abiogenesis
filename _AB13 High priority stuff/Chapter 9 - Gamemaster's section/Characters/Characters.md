@@ -2,7 +2,7 @@
 // TODO: Test issue automation (new 3)
 ```
 
-TODO: Custom issue 2
+TODO: Custom issue 3
 
 # Individual Legends
 - https://www.stripes.com/theaters/europe/2024-09-27/marine-senior-nco-exonerated-of-drug-use-15320337.html
