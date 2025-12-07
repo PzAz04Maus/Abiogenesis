@@ -75,7 +75,6 @@ An authority figure is most identified with a character that leaves a major cult
 - Bill Parker
 - Robert Moses
 - bernays
-- 
 - Lev Gumilev - Eurasianism
 - Thomas Edison and the Menlo park research laboratory?
 - Jack Welch and shareholder value
