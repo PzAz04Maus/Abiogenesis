@@ -1,8 +1,10 @@
-todo
+
 - [x] Core book
 - [x] Additional  [completion:: 2025-06-20]
 
 # Sources
+// TODO: Finish grabbing sources
+// TODO: Several weapon entries are malformed. These also apply to the YAML files
  - [x] Core book ✅ 2024-06-29
  - [x] Addendum ✅ 2024-06-29
  - [x] Alternate Arms ✅ 2024-06-29
