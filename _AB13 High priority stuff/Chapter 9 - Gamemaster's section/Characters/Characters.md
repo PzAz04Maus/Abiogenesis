@@ -47,7 +47,6 @@ spatial ethnos
 ## Middle East vision 2050 
 (Saudi vision 2030)
 
-
 Igor Torbakov argued in June 2022 that "According to the Kremlin's geopolitical outlook, Russia could only successfully compete with the United States, China or the European Union if it acts as a leader of the regional bloc. Bringing Russia and its ex-Soviet neighbours into a closely integrated community of states, Russian strategists contend, would allow this Eurasian association to become one of the major centres of global and regional governance."[[51]](https://en.m.wikipedia.org/wiki/Eurasianism#cite_note-torbakov-51)
 
 # Terrorists
