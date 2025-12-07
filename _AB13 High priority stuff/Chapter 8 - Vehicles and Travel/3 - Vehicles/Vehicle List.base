@@ -1,0 +1,21 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Abiogenesis/_AB13 High priority stuff/Chapter 8 - Vehicles and Travel/Vehicles/Container")
+    order:
+      - file.name
+      - category
+      - Bulk (N)
+      - Volume (N)
+      - Wt Limit (N)
+      - weight
+    sort:
+      - property: category
+        direction: DESC
+    columnSize:
+      file.name: 232
+      note.category: 159

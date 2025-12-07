@@ -8,7 +8,7 @@ A ==little sick grin== began to creep into Marceille's smile as the sound of a c
 
 The air crackled with the incense of ozone as a geometric filigree began to fill in the volume, a deep bass rumbling in everyone's chest.
 
-"...okay..." John's voice creaked as he looked down, dead silent. Out of his chest, an ink black sliver of nothingness was (clipping) through from another place entirely, growing into a larger spike that sucked more and more of the light out of the room while accompanied by others. John gaped noiselessly as the man across from him had a spike the size of a tree trunk grow through his head without any apparent injury, towards the cube. 
+"...okay..." John's voice creaked as he looked down, dead silent. Out of his chest, an ink black sliver of nothingness was (clipping) through from another place entirely, growing into a larger spike that sucked more and more of the light out of the room. John gaped noiselessly as the man across from him had a spike the size of a tree trunk grow through his head without any apparent injury, towards the cube. 
 
 ==When the two touched, the screaming began.==
 
@@ -24,6 +24,8 @@ To the practitioners, the professors, and the researchers, the fields that lie a
 > 
 >1. Above or beyond [nature](https://en.wiktionary.org/wiki/nature#English "nature").
 >2. Not [natural](https://en.wiktionary.org/wiki/natural#English "natural").
+
+supernal
 
 In particular, classical theories adhered to two major principles that were deeply violated by the paranatural. These include:
 - **The Principle of Locality:** the principle that objects can only be influenced by their immediate surroundings

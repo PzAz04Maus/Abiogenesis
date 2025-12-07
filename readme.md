@@ -3,9 +3,9 @@
 <a href="https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510">arcipello</a>
 
 
-Abiogenesis is a roleplaying setting set in near future that has fallen on tough times caused by a cosmic disaster. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
+Abiogenesis is a roleplaying setting, set in a near future United States that has fallen on tough times caused by a cosmic catastrophe. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
 
-In the process, society has been locked in a struggle to avoid social collapse, forced to recede from the harassment of these things beyond human comprehension.
+In the process, society has had to fight hard to avoid social collapse, forced to recede from the harassment of  things beyond human comprehension.
 
 <img src="Images/abiogenesis tarkov.jpg" width="300" class="Center">
 <a href="https://www.instagram.com/p/CC-0j4nHW7j/">Battlestate Games</a>

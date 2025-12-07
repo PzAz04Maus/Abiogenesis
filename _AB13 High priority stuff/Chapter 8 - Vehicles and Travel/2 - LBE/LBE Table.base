@@ -1,0 +1,51 @@
+formulas:
+  Bulk: min(note["V Lo"], note["V Hi"], note["Load Hi"],note["Load lo"])
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Abiogenesis/_AB13 High priority stuff/Chapter 8 - Vehicles and Travel/2 - LBE/Container")
+    order:
+      - file.name
+      - type
+      - origin
+      - volume
+      - practical_load
+      - absolute_load
+      - formula.Bulk
+    sort:
+      - property: type
+        direction: ASC
+      - property: category
+        direction: ASC
+    columnSize:
+      note.type: 194
+      note.origin: 173
+      note.volume: 211
+  - type: table
+    name: Generic
+    filters:
+      and:
+        - file.inFolder("Abiogenesis/_AB13 High priority stuff/Chapter 8 - Vehicles and Travel/LBE/Container")
+        - type.contains("generic")
+    order:
+      - file.name
+      - type
+      - origin
+      - volume
+      - practical_load
+      - absolute_load
+      - formula.Bulk
+    sort:
+      - property: type
+        direction: ASC
+      - property: category
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: volume
+        direction: ASC
+    columnSize:
+      note.type: 194
+      note.volume: 211

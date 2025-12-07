@@ -1,0 +1,34 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Abiogenesis/_AB13 High priority stuff/Chapter 7 - Equipment/Small Arms and Light Weapons/Small Arms")
+        - file.ext.contains("md")
+    order:
+      - file.name
+      - Source
+      - type
+      - Caliber
+      - Cap.
+      - Dam.
+      - Pen.
+      - Rng
+      - ROF
+      - Speed
+      - Rec
+      - Bulk
+      - Wgt
+      - BV
+      - SP
+      - volume
+    sort:
+      - property: type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: Cap.
+        direction: ASC
+    columnSize:
+      note.type: 130
+      note.Caliber: 141

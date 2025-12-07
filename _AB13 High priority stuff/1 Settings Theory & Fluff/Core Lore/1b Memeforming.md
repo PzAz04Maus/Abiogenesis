@@ -1,12 +1,14 @@
-Paranatural
-Entity
-
+#### Paranatural
+#### Entity
+A memeform that displays some level of intelligence
 https://youtu.be/uhT0-n9OH8M?si=Q8IDODIrum65UF-W
 
-Thought form
-A manifestation of the thoughts, ideas or emotions of someone.
+#### Memeform
+An intangible that manifests an ectropic (self-organizing) physical form 
+#### Thought form
+A memeform that manifests the thoughts, ideas or emotions of someone.
 
-Meme form
+
 
 
 
