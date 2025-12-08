@@ -2,16 +2,14 @@
 
 <a href="https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510">arcipello</a>
 
+# Framing
+Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover otherworldly creatures and reality distorting anomalies as they as they look for opportunity in this new, dangerous world.
 
-Abiogenesis is a roleplaying setting, set in a near future United States that has fallen on tough times caused by a cosmic catastrophe. Incredible phenomena was dispersed across the globe,  ending humankind's understanding of the universe as it spawned otherworldly creatures and reality distorting anomalies.
-
-In the process, society has had to fight hard to avoid social collapse, forced to recede from the harassment of  things beyond human comprehension.
 
 <img src="Images/abiogenesis tarkov.jpg" width="300" class="Center">
 <a href="https://www.instagram.com/p/CC-0j4nHW7j/">Battlestate Games</a>
 
-# Framing
-Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover the transformative secrets of the supernormal as they look for opportunity in this new, dangerous world.
+In the wake of the disaster, society has had to fight hard to avoid social collapse, forced to recede from the harassment of  things beyond human comprehension.
 
 <img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
 <a href="https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr">SCP: Overlord</a>
