@@ -14,6 +14,10 @@ In the wake of the disaster, society has had to fight hard to avoid social colla
 <img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
 <a href="https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr">SCP: Overlord</a>
 
+# Where to start
+
+Want to jump in? Start <a href="https://github.com/PzAz04Maus/Abiogenesis/tree/publicmain2/_AB13%20High%20priority%20stuff">here</a>
+
 # Deeper Dive
 
 Abiogenesis is deeply inspired by STALKER and Half Life 1. Campaigns consist of enduring the social instability that the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.

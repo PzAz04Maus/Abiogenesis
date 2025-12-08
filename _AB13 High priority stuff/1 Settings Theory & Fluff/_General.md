@@ -1,3 +1,7 @@
+# Pitch
+
+The [[readme]] contains the latest pitch.
+
 ## Fear Country - Outlaw
 
 hustling in Wild West just north of the remains of California, earning a living amongst the poor prospects and the things you lock your doors for.
