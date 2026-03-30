@@ -1,7 +1,7 @@
 # The Game
 ## Draft note
 
-==This document is an attempt to weave multiple related, but discrete concepts into one common solution. This is a work in progress.==
+==This document is an attempt to weave multiple related, but discrete concepts into one common solution. It is therefore a work in progress.==
 # Touchstones
 
 ==Add literary stuff here==
@@ -61,7 +61,7 @@ To understand path-oriented design, we start by defining its opposite. ==This se
 example: Dirty Harry
 > it has quite a bit of path centric scenes in it for a movie of the time. Harry's always between places, in alleyways, on streets, on rooftops. oftentimes there's so much more backdrop than there are full locations
 
-With a **path-oriented** grammar, The GM focuses not on designing an explicit location, but on [[curation|curating]] an emergent environment with the available player opportunities, the consequences, and drama. Our scene becomes unfixed from the specifics of a single location and instead encompasses the potential of a vast territory.
+With a **path-oriented** grammar, The GM focuses not on designing an explicit location, but on an ambiguous environment with the available player opportunities, the consequences, and drama. Our scene becomes unfixed from the specifics of a single location and instead is a [[curation|curated]], emergent territory.
 
 Because of this emergent behavior, GMs have more room to compress or adapt their notes, secrets are easier to hide, and players can gain strategic agency by filling in the map with the stuff they find important
 
@@ -76,7 +76,7 @@ However, this pattern comes with its own challenges. It is easy to disorient pla
 
     
 **Challenges**
-- obscure pattern: low familiarity
+- new pattern: no familiarity
 - Lower environmental fidelity: locations are defined only as they become relevant.
 - Requires robust, coherent world states to respond meaningfully to player behavior.
 - Ambiguous; harder to maintain orientation or continuity when players unwittingly define their own trajectories.
@@ -92,7 +92,7 @@ It may be useful to describe path-oriented design with its own distinct language
 
 ##### Path-oriented replacements
 - scene -> situation
-- location -> setting
+- location -> territory
 
 ## Semantic rules
 

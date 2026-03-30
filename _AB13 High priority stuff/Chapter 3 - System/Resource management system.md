@@ -24,7 +24,7 @@ BaseNeed defaults to 2.5 liters of water per day. (1 bulk)
 
 Can go up to 10 liters (3 bulk) at the extreme high endhottest
 
-![[image-1.png]]
+![[Abiogenesis/_AB13 High priority stuff/Chapter 3 - System/image-1.png]]
 
 | Tags         | Notes                    |
 | ------------ | ------------------------ |

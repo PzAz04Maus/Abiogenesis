@@ -1,23 +1,27 @@
+# Pitch
+
+<img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
+<a href="https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr">SCP: Overlord</a>
+
+Abiogenesis is a science fiction tabletop roleplaying setting taking place in the near future, after a spaceborn apocalypse was averted. Inspired by STALKER and Half Life 1, the setting supports multiple kinds of stories within this setting, such as survival horror, investigative intrigue, looting, exploration, tactical operations, or civil responders like EMTs, all set against the backdrop of an unstable society plagued by stunning creatures and inexplicable anomalies.
+
+ Fighting in Abiogenesis can be described as a tactical adventure, where lethality is high and cover, concealment, and movement are important. It uses the Reflex system, where players roll for their actions with multiple d20s and take the best.
+
+Currently, the project is in the natal stages of development. Many decisions, such as lore or design are unfinished, and already laid down lore is subject to change or extension. This also applies to the Reflex system, which is to be improved for the job.
+
 <img src="Images/abiogenesis obj_kit_1249794229121.jpg" width="500" class="Center">
 
 <a href="https://www.deviantart.com/arcipello/art/Water-Patrol-Bionic-Commando-122392510">arcipello</a>
 
-# Framing
-Abiogenesis is a hardboiled tactical adventure set during a recession born by cosmic instability. Characters discover otherworldly creatures and reality distorting anomalies as they as they look for opportunity in this new, dangerous world.
+
 
 
 <img src="Images/abiogenesis tarkov.jpg" width="300" class="Center">
 <a href="https://www.instagram.com/p/CC-0j4nHW7j/">Battlestate Games</a>
 
-In the wake of the disaster, society has had to fight hard to avoid social collapse, forced to recede from the harassment of  things beyond human comprehension.
-
-<img src="Images/obj_80577640_124721942353210_6275075517180457322_n.png" width="400" class="Center">
-<a href="https://www.kickstarter.com/projects/retrodigital/scp-overlord/description?lang=fr">SCP: Overlord</a>
-
 # Where to start
 
 Want to jump in? Start <a href="https://github.com/PzAz04Maus/Abiogenesis/tree/publicmain2/_AB13%20High%20priority%20stuff">here</a>
-
 # Deeper Dive
 
 Abiogenesis is deeply inspired by STALKER and Half Life 1. Campaigns consist of enduring the social instability that the products of this catastrophe bring and exploring this new, darker wilderness for the strange, the uncanny, the cool, and the pants shitting terror that has scarred the country.
